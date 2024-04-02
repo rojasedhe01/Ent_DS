@@ -1,0 +1,19 @@
+Links de los DataSets
+
+Rendimiento de estudio de los estudiantes:
+Datasets https://github.com/rojasedhe01/Ent_DS/tree/main/Ent_1_(DataSets)/countries-in-conflict-data.csv
+Fuente https://www.kaggle.com/datasets/bhavikjikadara/student-study-performance
+Variables Genero , Etnia , Nivel Eduacion Padres , Almuerzo , curso preparacion para examen , Puntaje de matematicas
+
+Últimos salarios en trabajos de ciencia de datos 2020-2024:
+Datasets https://github.com/rojasedhe01/Ent_DS/tree/main/Ent_1_(DataSets)/DataScience_salaries_2024.csv
+Fuente https://www.kaggle.com/datasets/saurabhbadole/latest-data-science-job-salaries-2024
+Variables Año_Laborado , Nivel_Experencia , Titulo_trabajo , Salario , Moneda_salario , Empelo_recidencia , Relacion_remota , Localicaion_Empresa
+
+
+Conjunto de datos de países en conflicto (1989-2022):
+Datasets https://github.com/rojasedhe01/Ent_DS/tree/main/Ent_1_(DataSets)/study_performance.csv
+Fuente: https://www.kaggle.com/datasets/saurabhbadole/countries-in-conflict-dataset
+Variables Pais , Año, Muertes_conflicto
+
+Para mi eleccion empezare a trabajar con la datasests de "Últimos salarios en trabajos de ciencia de datos 2020-2024", ya que tiene diferentes variables
