@@ -1,0 +1,6972 @@
+,0,1,2,3
+0,Country,Country Abbreviation,Year,Deaths in ongoing conflicts in a country (best estimate) - Conflict type: all
+1,Abkhazia,OWID_ABK,1989,0
+2,Abkhazia,OWID_ABK,1990,0
+3,Abkhazia,OWID_ABK,1991,0
+4,Abkhazia,OWID_ABK,1992,0
+5,Abkhazia,OWID_ABK,1993,0
+6,Abkhazia,OWID_ABK,1994,0
+7,Abkhazia,OWID_ABK,1995,0
+8,Abkhazia,OWID_ABK,1996,0
+9,Abkhazia,OWID_ABK,1997,0
+10,Abkhazia,OWID_ABK,1998,0
+11,Abkhazia,OWID_ABK,1999,0
+12,Abkhazia,OWID_ABK,2000,0
+13,Abkhazia,OWID_ABK,2001,0
+14,Abkhazia,OWID_ABK,2002,0
+15,Abkhazia,OWID_ABK,2003,0
+16,Abkhazia,OWID_ABK,2004,0
+17,Abkhazia,OWID_ABK,2005,0
+18,Abkhazia,OWID_ABK,2006,0
+19,Abkhazia,OWID_ABK,2007,0
+20,Abkhazia,OWID_ABK,2008,0
+21,Abkhazia,OWID_ABK,2009,0
+22,Abkhazia,OWID_ABK,2010,0
+23,Abkhazia,OWID_ABK,2011,0
+24,Abkhazia,OWID_ABK,2012,0
+25,Abkhazia,OWID_ABK,2013,0
+26,Abkhazia,OWID_ABK,2014,0
+27,Abkhazia,OWID_ABK,2015,0
+28,Abkhazia,OWID_ABK,2016,0
+29,Abkhazia,OWID_ABK,2017,0
+30,Abkhazia,OWID_ABK,2018,0
+31,Abkhazia,OWID_ABK,2019,0
+32,Abkhazia,OWID_ABK,2020,0
+33,Abkhazia,OWID_ABK,2021,0
+34,Abkhazia,OWID_ABK,2022,0
+35,Afghanistan,AFG,1989,5411
+36,Afghanistan,AFG,1990,1514
+37,Afghanistan,AFG,1991,3553
+38,Afghanistan,AFG,1992,4366
+39,Afghanistan,AFG,1993,4097
+40,Afghanistan,AFG,1994,9055
+41,Afghanistan,AFG,1995,5610
+42,Afghanistan,AFG,1996,3574
+43,Afghanistan,AFG,1997,6719
+44,Afghanistan,AFG,1998,12154
+45,Afghanistan,AFG,1999,5074
+46,Afghanistan,AFG,2000,5387
+47,Afghanistan,AFG,2001,5553
+48,Afghanistan,AFG,2002,1131
+49,Afghanistan,AFG,2003,922
+50,Afghanistan,AFG,2004,809
+51,Afghanistan,AFG,2005,1700
+52,Afghanistan,AFG,2006,4958
+53,Afghanistan,AFG,2007,6911
+54,Afghanistan,AFG,2008,5644
+55,Afghanistan,AFG,2009,6488
+56,Afghanistan,AFG,2010,7151
+57,Afghanistan,AFG,2011,7560
+58,Afghanistan,AFG,2012,7754
+59,Afghanistan,AFG,2013,8104
+60,Afghanistan,AFG,2014,12499
+61,Afghanistan,AFG,2015,17926
+62,Afghanistan,AFG,2016,18674
+63,Afghanistan,AFG,2017,19741
+64,Afghanistan,AFG,2018,26822
+65,Afghanistan,AFG,2019,30393
+66,Afghanistan,AFG,2020,20808
+67,Afghanistan,AFG,2021,36370
+68,Afghanistan,AFG,2022,1498
+69,Albania,ALB,1989,0
+70,Albania,ALB,1990,0
+71,Albania,ALB,1991,0
+72,Albania,ALB,1992,0
+73,Albania,ALB,1993,0
+74,Albania,ALB,1994,0
+75,Albania,ALB,1995,0
+76,Albania,ALB,1996,0
+77,Albania,ALB,1997,0
+78,Albania,ALB,1998,0
+79,Albania,ALB,1999,22
+80,Albania,ALB,2000,0
+81,Albania,ALB,2001,0
+82,Albania,ALB,2002,0
+83,Albania,ALB,2003,0
+84,Albania,ALB,2004,0
+85,Albania,ALB,2005,0
+86,Albania,ALB,2006,0
+87,Albania,ALB,2007,0
+88,Albania,ALB,2008,0
+89,Albania,ALB,2009,0
+90,Albania,ALB,2010,0
+91,Albania,ALB,2011,0
+92,Albania,ALB,2012,0
+93,Albania,ALB,2013,0
+94,Albania,ALB,2014,0
+95,Albania,ALB,2015,0
+96,Albania,ALB,2016,0
+97,Albania,ALB,2017,0
+98,Albania,ALB,2018,0
+99,Albania,ALB,2019,0
+100,Albania,ALB,2020,0
+101,Albania,ALB,2021,0
+102,Albania,ALB,2022,0
+103,Algeria,DZA,1989,0
+104,Algeria,DZA,1990,0
+105,Algeria,DZA,1991,34
+106,Algeria,DZA,1992,257
+107,Algeria,DZA,1993,826
+108,Algeria,DZA,1994,1916
+109,Algeria,DZA,1995,3035
+110,Algeria,DZA,1996,1084
+111,Algeria,DZA,1997,2008
+112,Algeria,DZA,1998,3281
+113,Algeria,DZA,1999,1156
+114,Algeria,DZA,2000,1191
+115,Algeria,DZA,2001,674
+116,Algeria,DZA,2002,1049
+117,Algeria,DZA,2003,704
+118,Algeria,DZA,2004,484
+119,Algeria,DZA,2005,217
+120,Algeria,DZA,2006,292
+121,Algeria,DZA,2007,531
+122,Algeria,DZA,2008,345
+123,Algeria,DZA,2009,544
+124,Algeria,DZA,2010,236
+125,Algeria,DZA,2011,261
+126,Algeria,DZA,2012,258
+127,Algeria,DZA,2013,226
+128,Algeria,DZA,2014,107
+129,Algeria,DZA,2015,128
+130,Algeria,DZA,2016,85
+131,Algeria,DZA,2017,98
+132,Algeria,DZA,2018,45
+133,Algeria,DZA,2019,0
+134,Algeria,DZA,2020,30
+135,Algeria,DZA,2021,13
+136,Algeria,DZA,2022,10
+137,Andorra,AND,1989,0
+138,Andorra,AND,1990,0
+139,Andorra,AND,1991,0
+140,Andorra,AND,1992,0
+141,Andorra,AND,1993,0
+142,Andorra,AND,1994,0
+143,Andorra,AND,1995,0
+144,Andorra,AND,1996,0
+145,Andorra,AND,1997,0
+146,Andorra,AND,1998,0
+147,Andorra,AND,1999,0
+148,Andorra,AND,2000,0
+149,Andorra,AND,2001,0
+150,Andorra,AND,2002,0
+151,Andorra,AND,2003,0
+152,Andorra,AND,2004,0
+153,Andorra,AND,2005,0
+154,Andorra,AND,2006,0
+155,Andorra,AND,2007,0
+156,Andorra,AND,2008,0
+157,Andorra,AND,2009,0
+158,Andorra,AND,2010,0
+159,Andorra,AND,2011,0
+160,Andorra,AND,2012,0
+161,Andorra,AND,2013,0
+162,Andorra,AND,2014,0
+163,Andorra,AND,2015,0
+164,Andorra,AND,2016,0
+165,Andorra,AND,2017,0
+166,Andorra,AND,2018,0
+167,Andorra,AND,2019,0
+168,Andorra,AND,2020,0
+169,Andorra,AND,2021,0
+170,Andorra,AND,2022,0
+171,Angola,AGO,1989,2873
+172,Angola,AGO,1990,2609
+173,Angola,AGO,1991,516
+174,Angola,AGO,1992,2346
+175,Angola,AGO,1993,12397
+176,Angola,AGO,1994,3984
+177,Angola,AGO,1995,234
+178,Angola,AGO,1996,23
+179,Angola,AGO,1997,88
+180,Angola,AGO,1998,1168
+181,Angola,AGO,1999,2665
+182,Angola,AGO,2000,1202
+183,Angola,AGO,2001,2156
+184,Angola,AGO,2002,537
+185,Angola,AGO,2003,59
+186,Angola,AGO,2004,23
+187,Angola,AGO,2005,0
+188,Angola,AGO,2006,0
+189,Angola,AGO,2007,25
+190,Angola,AGO,2008,0
+191,Angola,AGO,2009,25
+192,Angola,AGO,2010,0
+193,Angola,AGO,2011,0
+194,Angola,AGO,2012,0
+195,Angola,AGO,2013,0
+196,Angola,AGO,2014,0
+197,Angola,AGO,2015,0
+198,Angola,AGO,2016,23
+199,Angola,AGO,2017,22
+200,Angola,AGO,2018,0
+201,Angola,AGO,2019,25
+202,Angola,AGO,2020,21
+203,Angola,AGO,2021,0
+204,Angola,AGO,2022,19
+205,Antigua and Barbuda,ATG,1989,0
+206,Antigua and Barbuda,ATG,1990,0
+207,Antigua and Barbuda,ATG,1991,0
+208,Antigua and Barbuda,ATG,1992,0
+209,Antigua and Barbuda,ATG,1993,0
+210,Antigua and Barbuda,ATG,1994,0
+211,Antigua and Barbuda,ATG,1995,0
+212,Antigua and Barbuda,ATG,1996,0
+213,Antigua and Barbuda,ATG,1997,0
+214,Antigua and Barbuda,ATG,1998,0
+215,Antigua and Barbuda,ATG,1999,0
+216,Antigua and Barbuda,ATG,2000,0
+217,Antigua and Barbuda,ATG,2001,0
+218,Antigua and Barbuda,ATG,2002,0
+219,Antigua and Barbuda,ATG,2003,0
+220,Antigua and Barbuda,ATG,2004,0
+221,Antigua and Barbuda,ATG,2005,0
+222,Antigua and Barbuda,ATG,2006,0
+223,Antigua and Barbuda,ATG,2007,0
+224,Antigua and Barbuda,ATG,2008,0
+225,Antigua and Barbuda,ATG,2009,0
+226,Antigua and Barbuda,ATG,2010,0
+227,Antigua and Barbuda,ATG,2011,0
+228,Antigua and Barbuda,ATG,2012,0
+229,Antigua and Barbuda,ATG,2013,0
+230,Antigua and Barbuda,ATG,2014,0
+231,Antigua and Barbuda,ATG,2015,0
+232,Antigua and Barbuda,ATG,2016,0
+233,Antigua and Barbuda,ATG,2017,0
+234,Antigua and Barbuda,ATG,2018,0
+235,Antigua and Barbuda,ATG,2019,0
+236,Antigua and Barbuda,ATG,2020,0
+237,Antigua and Barbuda,ATG,2021,0
+238,Antigua and Barbuda,ATG,2022,0
+239,Argentina,ARG,1989,0
+240,Argentina,ARG,1990,0
+241,Argentina,ARG,1991,0
+242,Argentina,ARG,1992,0
+243,Argentina,ARG,1993,0
+244,Argentina,ARG,1994,86
+245,Argentina,ARG,1995,0
+246,Argentina,ARG,1996,0
+247,Argentina,ARG,1997,0
+248,Argentina,ARG,1998,0
+249,Argentina,ARG,1999,0
+250,Argentina,ARG,2000,0
+251,Argentina,ARG,2001,0
+252,Argentina,ARG,2002,0
+253,Argentina,ARG,2003,0
+254,Argentina,ARG,2004,0
+255,Argentina,ARG,2005,0
+256,Argentina,ARG,2006,0
+257,Argentina,ARG,2007,0
+258,Argentina,ARG,2008,0
+259,Argentina,ARG,2009,0
+260,Argentina,ARG,2010,0
+261,Argentina,ARG,2011,0
+262,Argentina,ARG,2012,0
+263,Argentina,ARG,2013,0
+264,Argentina,ARG,2014,0
+265,Argentina,ARG,2015,0
+266,Argentina,ARG,2016,0
+267,Argentina,ARG,2017,0
+268,Argentina,ARG,2018,0
+269,Argentina,ARG,2019,0
+270,Argentina,ARG,2020,0
+271,Argentina,ARG,2021,0
+272,Argentina,ARG,2022,0
+273,Armenia,ARM,1989,0
+274,Armenia,ARM,1990,22
+275,Armenia,ARM,1991,12
+276,Armenia,ARM,1992,120
+277,Armenia,ARM,1993,44
+278,Armenia,ARM,1994,30
+279,Armenia,ARM,1995,0
+280,Armenia,ARM,1996,0
+281,Armenia,ARM,1997,0
+282,Armenia,ARM,1998,0
+283,Armenia,ARM,1999,0
+284,Armenia,ARM,2000,0
+285,Armenia,ARM,2001,0
+286,Armenia,ARM,2002,0
+287,Armenia,ARM,2003,0
+288,Armenia,ARM,2004,0
+289,Armenia,ARM,2005,2
+290,Armenia,ARM,2006,0
+291,Armenia,ARM,2007,0
+292,Armenia,ARM,2008,0
+293,Armenia,ARM,2009,0
+294,Armenia,ARM,2010,0
+295,Armenia,ARM,2011,0
+296,Armenia,ARM,2012,9
+297,Armenia,ARM,2013,0
+298,Armenia,ARM,2014,3
+299,Armenia,ARM,2015,9
+300,Armenia,ARM,2016,5
+301,Armenia,ARM,2017,0
+302,Armenia,ARM,2018,0
+303,Armenia,ARM,2019,0
+304,Armenia,ARM,2020,12
+305,Armenia,ARM,2021,10
+306,Armenia,ARM,2022,153
+307,Australia,AUS,1989,0
+308,Australia,AUS,1990,0
+309,Australia,AUS,1991,0
+310,Australia,AUS,1992,0
+311,Australia,AUS,1993,0
+312,Australia,AUS,1994,0
+313,Australia,AUS,1995,0
+314,Australia,AUS,1996,0
+315,Australia,AUS,1997,0
+316,Australia,AUS,1998,0
+317,Australia,AUS,1999,0
+318,Australia,AUS,2000,0
+319,Australia,AUS,2001,0
+320,Australia,AUS,2002,0
+321,Australia,AUS,2003,0
+322,Australia,AUS,2004,0
+323,Australia,AUS,2005,0
+324,Australia,AUS,2006,0
+325,Australia,AUS,2007,0
+326,Australia,AUS,2008,0
+327,Australia,AUS,2009,0
+328,Australia,AUS,2010,0
+329,Australia,AUS,2011,0
+330,Australia,AUS,2012,0
+331,Australia,AUS,2013,0
+332,Australia,AUS,2014,0
+333,Australia,AUS,2015,0
+334,Australia,AUS,2016,0
+335,Australia,AUS,2017,0
+336,Australia,AUS,2018,2
+337,Australia,AUS,2019,0
+338,Australia,AUS,2020,0
+339,Australia,AUS,2021,0
+340,Australia,AUS,2022,0
+341,Austria,AUT,1989,0
+342,Austria,AUT,1990,0
+343,Austria,AUT,1991,0
+344,Austria,AUT,1992,0
+345,Austria,AUT,1993,0
+346,Austria,AUT,1994,0
+347,Austria,AUT,1995,0
+348,Austria,AUT,1996,0
+349,Austria,AUT,1997,0
+350,Austria,AUT,1998,0
+351,Austria,AUT,1999,0
+352,Austria,AUT,2000,0
+353,Austria,AUT,2001,0
+354,Austria,AUT,2002,0
+355,Austria,AUT,2003,0
+356,Austria,AUT,2004,0
+357,Austria,AUT,2005,0
+358,Austria,AUT,2006,0
+359,Austria,AUT,2007,0
+360,Austria,AUT,2008,0
+361,Austria,AUT,2009,0
+362,Austria,AUT,2010,0
+363,Austria,AUT,2011,0
+364,Austria,AUT,2012,0
+365,Austria,AUT,2013,0
+366,Austria,AUT,2014,0
+367,Austria,AUT,2015,0
+368,Austria,AUT,2016,0
+369,Austria,AUT,2017,0
+370,Austria,AUT,2018,0
+371,Austria,AUT,2019,0
+372,Austria,AUT,2020,4
+373,Austria,AUT,2021,0
+374,Austria,AUT,2022,0
+375,Azerbaijan,AZE,1989,42
+376,Azerbaijan,AZE,1990,196
+377,Azerbaijan,AZE,1991,286
+378,Azerbaijan,AZE,1992,2821
+379,Azerbaijan,AZE,1993,1185
+380,Azerbaijan,AZE,1994,1477
+381,Azerbaijan,AZE,1995,44
+382,Azerbaijan,AZE,1996,0
+383,Azerbaijan,AZE,1997,29
+384,Azerbaijan,AZE,1998,34
+385,Azerbaijan,AZE,1999,0
+386,Azerbaijan,AZE,2000,0
+387,Azerbaijan,AZE,2001,0
+388,Azerbaijan,AZE,2002,0
+389,Azerbaijan,AZE,2003,0
+390,Azerbaijan,AZE,2004,0
+391,Azerbaijan,AZE,2005,23
+392,Azerbaijan,AZE,2006,0
+393,Azerbaijan,AZE,2007,0
+394,Azerbaijan,AZE,2008,30
+395,Azerbaijan,AZE,2009,0
+396,Azerbaijan,AZE,2010,0
+397,Azerbaijan,AZE,2011,0
+398,Azerbaijan,AZE,2012,16
+399,Azerbaijan,AZE,2013,0
+400,Azerbaijan,AZE,2014,43
+401,Azerbaijan,AZE,2015,63
+402,Azerbaijan,AZE,2016,136
+403,Azerbaijan,AZE,2017,36
+404,Azerbaijan,AZE,2018,0
+405,Azerbaijan,AZE,2019,0
+406,Azerbaijan,AZE,2020,7634
+407,Azerbaijan,AZE,2021,30
+408,Azerbaijan,AZE,2022,155
+409,Bahamas,BHS,1989,0
+410,Bahamas,BHS,1990,0
+411,Bahamas,BHS,1991,0
+412,Bahamas,BHS,1992,0
+413,Bahamas,BHS,1993,0
+414,Bahamas,BHS,1994,0
+415,Bahamas,BHS,1995,0
+416,Bahamas,BHS,1996,0
+417,Bahamas,BHS,1997,0
+418,Bahamas,BHS,1998,0
+419,Bahamas,BHS,1999,0
+420,Bahamas,BHS,2000,0
+421,Bahamas,BHS,2001,0
+422,Bahamas,BHS,2002,0
+423,Bahamas,BHS,2003,0
+424,Bahamas,BHS,2004,0
+425,Bahamas,BHS,2005,0
+426,Bahamas,BHS,2006,0
+427,Bahamas,BHS,2007,0
+428,Bahamas,BHS,2008,0
+429,Bahamas,BHS,2009,0
+430,Bahamas,BHS,2010,0
+431,Bahamas,BHS,2011,0
+432,Bahamas,BHS,2012,0
+433,Bahamas,BHS,2013,0
+434,Bahamas,BHS,2014,0
+435,Bahamas,BHS,2015,0
+436,Bahamas,BHS,2016,0
+437,Bahamas,BHS,2017,0
+438,Bahamas,BHS,2018,0
+439,Bahamas,BHS,2019,0
+440,Bahamas,BHS,2020,0
+441,Bahamas,BHS,2021,0
+442,Bahamas,BHS,2022,0
+443,Bahrain,BHR,1989,0
+444,Bahrain,BHR,1990,0
+445,Bahrain,BHR,1991,0
+446,Bahrain,BHR,1992,0
+447,Bahrain,BHR,1993,0
+448,Bahrain,BHR,1994,0
+449,Bahrain,BHR,1995,0
+450,Bahrain,BHR,1996,0
+451,Bahrain,BHR,1997,0
+452,Bahrain,BHR,1998,0
+453,Bahrain,BHR,1999,0
+454,Bahrain,BHR,2000,0
+455,Bahrain,BHR,2001,0
+456,Bahrain,BHR,2002,0
+457,Bahrain,BHR,2003,0
+458,Bahrain,BHR,2004,0
+459,Bahrain,BHR,2005,0
+460,Bahrain,BHR,2006,0
+461,Bahrain,BHR,2007,0
+462,Bahrain,BHR,2008,0
+463,Bahrain,BHR,2009,0
+464,Bahrain,BHR,2010,0
+465,Bahrain,BHR,2011,26
+466,Bahrain,BHR,2012,0
+467,Bahrain,BHR,2013,0
+468,Bahrain,BHR,2014,0
+469,Bahrain,BHR,2015,0
+470,Bahrain,BHR,2016,0
+471,Bahrain,BHR,2017,0
+472,Bahrain,BHR,2018,0
+473,Bahrain,BHR,2019,0
+474,Bahrain,BHR,2020,0
+475,Bahrain,BHR,2021,0
+476,Bahrain,BHR,2022,0
+477,Bangladesh,BGD,1989,80
+478,Bangladesh,BGD,1990,92
+479,Bangladesh,BGD,1991,93
+480,Bangladesh,BGD,1992,190
+481,Bangladesh,BGD,1993,27
+482,Bangladesh,BGD,1994,23
+483,Bangladesh,BGD,1995,0
+484,Bangladesh,BGD,1996,33
+485,Bangladesh,BGD,1997,0
+486,Bangladesh,BGD,1998,0
+487,Bangladesh,BGD,1999,0
+488,Bangladesh,BGD,2000,74
+489,Bangladesh,BGD,2001,60
+490,Bangladesh,BGD,2002,0
+491,Bangladesh,BGD,2003,0
+492,Bangladesh,BGD,2004,25
+493,Bangladesh,BGD,2005,62
+494,Bangladesh,BGD,2006,57
+495,Bangladesh,BGD,2007,1
+496,Bangladesh,BGD,2008,0
+497,Bangladesh,BGD,2009,0
+498,Bangladesh,BGD,2010,0
+499,Bangladesh,BGD,2011,0
+500,Bangladesh,BGD,2012,0
+501,Bangladesh,BGD,2013,30
+502,Bangladesh,BGD,2014,0
+503,Bangladesh,BGD,2015,5
+504,Bangladesh,BGD,2016,73
+505,Bangladesh,BGD,2017,48
+506,Bangladesh,BGD,2018,0
+507,Bangladesh,BGD,2019,0
+508,Bangladesh,BGD,2020,3
+509,Bangladesh,BGD,2021,0
+510,Bangladesh,BGD,2022,2
+511,Barbados,BRB,1989,0
+512,Barbados,BRB,1990,0
+513,Barbados,BRB,1991,0
+514,Barbados,BRB,1992,0
+515,Barbados,BRB,1993,0
+516,Barbados,BRB,1994,0
+517,Barbados,BRB,1995,0
+518,Barbados,BRB,1996,0
+519,Barbados,BRB,1997,0
+520,Barbados,BRB,1998,0
+521,Barbados,BRB,1999,0
+522,Barbados,BRB,2000,0
+523,Barbados,BRB,2001,0
+524,Barbados,BRB,2002,0
+525,Barbados,BRB,2003,0
+526,Barbados,BRB,2004,0
+527,Barbados,BRB,2005,0
+528,Barbados,BRB,2006,0
+529,Barbados,BRB,2007,0
+530,Barbados,BRB,2008,0
+531,Barbados,BRB,2009,0
+532,Barbados,BRB,2010,0
+533,Barbados,BRB,2011,0
+534,Barbados,BRB,2012,0
+535,Barbados,BRB,2013,0
+536,Barbados,BRB,2014,0
+537,Barbados,BRB,2015,0
+538,Barbados,BRB,2016,0
+539,Barbados,BRB,2017,0
+540,Barbados,BRB,2018,0
+541,Barbados,BRB,2019,0
+542,Barbados,BRB,2020,0
+543,Barbados,BRB,2021,0
+544,Barbados,BRB,2022,0
+545,Belarus,BLR,1989,0
+546,Belarus,BLR,1990,0
+547,Belarus,BLR,1991,0
+548,Belarus,BLR,1992,0
+549,Belarus,BLR,1993,0
+550,Belarus,BLR,1994,0
+551,Belarus,BLR,1995,0
+552,Belarus,BLR,1996,0
+553,Belarus,BLR,1997,0
+554,Belarus,BLR,1998,0
+555,Belarus,BLR,1999,0
+556,Belarus,BLR,2000,0
+557,Belarus,BLR,2001,0
+558,Belarus,BLR,2002,0
+559,Belarus,BLR,2003,0
+560,Belarus,BLR,2004,0
+561,Belarus,BLR,2005,0
+562,Belarus,BLR,2006,0
+563,Belarus,BLR,2007,0
+564,Belarus,BLR,2008,0
+565,Belarus,BLR,2009,0
+566,Belarus,BLR,2010,0
+567,Belarus,BLR,2011,0
+568,Belarus,BLR,2012,0
+569,Belarus,BLR,2013,0
+570,Belarus,BLR,2014,0
+571,Belarus,BLR,2015,0
+572,Belarus,BLR,2016,0
+573,Belarus,BLR,2017,0
+574,Belarus,BLR,2018,0
+575,Belarus,BLR,2019,0
+576,Belarus,BLR,2020,0
+577,Belarus,BLR,2021,0
+578,Belarus,BLR,2022,0
+579,Belgium,BEL,1989,0
+580,Belgium,BEL,1990,0
+581,Belgium,BEL,1991,0
+582,Belgium,BEL,1992,0
+583,Belgium,BEL,1993,0
+584,Belgium,BEL,1994,0
+585,Belgium,BEL,1995,0
+586,Belgium,BEL,1996,0
+587,Belgium,BEL,1997,0
+588,Belgium,BEL,1998,0
+589,Belgium,BEL,1999,0
+590,Belgium,BEL,2000,0
+591,Belgium,BEL,2001,0
+592,Belgium,BEL,2002,0
+593,Belgium,BEL,2003,0
+594,Belgium,BEL,2004,0
+595,Belgium,BEL,2005,0
+596,Belgium,BEL,2006,0
+597,Belgium,BEL,2007,0
+598,Belgium,BEL,2008,0
+599,Belgium,BEL,2009,0
+600,Belgium,BEL,2010,0
+601,Belgium,BEL,2011,0
+602,Belgium,BEL,2012,0
+603,Belgium,BEL,2013,0
+604,Belgium,BEL,2014,0
+605,Belgium,BEL,2015,0
+606,Belgium,BEL,2016,34
+607,Belgium,BEL,2017,0
+608,Belgium,BEL,2018,4
+609,Belgium,BEL,2019,0
+610,Belgium,BEL,2020,0
+611,Belgium,BEL,2021,0
+612,Belgium,BEL,2022,0
+613,Belize,BLZ,1989,0
+614,Belize,BLZ,1990,0
+615,Belize,BLZ,1991,0
+616,Belize,BLZ,1992,0
+617,Belize,BLZ,1993,0
+618,Belize,BLZ,1994,0
+619,Belize,BLZ,1995,0
+620,Belize,BLZ,1996,0
+621,Belize,BLZ,1997,0
+622,Belize,BLZ,1998,0
+623,Belize,BLZ,1999,0
+624,Belize,BLZ,2000,0
+625,Belize,BLZ,2001,0
+626,Belize,BLZ,2002,0
+627,Belize,BLZ,2003,0
+628,Belize,BLZ,2004,0
+629,Belize,BLZ,2005,0
+630,Belize,BLZ,2006,0
+631,Belize,BLZ,2007,0
+632,Belize,BLZ,2008,0
+633,Belize,BLZ,2009,0
+634,Belize,BLZ,2010,0
+635,Belize,BLZ,2011,0
+636,Belize,BLZ,2012,0
+637,Belize,BLZ,2013,0
+638,Belize,BLZ,2014,0
+639,Belize,BLZ,2015,0
+640,Belize,BLZ,2016,0
+641,Belize,BLZ,2017,0
+642,Belize,BLZ,2018,0
+643,Belize,BLZ,2019,0
+644,Belize,BLZ,2020,0
+645,Belize,BLZ,2021,0
+646,Belize,BLZ,2022,0
+647,Benin,BEN,1989,0
+648,Benin,BEN,1990,0
+649,Benin,BEN,1991,0
+650,Benin,BEN,1992,0
+651,Benin,BEN,1993,0
+652,Benin,BEN,1994,0
+653,Benin,BEN,1995,0
+654,Benin,BEN,1996,0
+655,Benin,BEN,1997,0
+656,Benin,BEN,1998,0
+657,Benin,BEN,1999,0
+658,Benin,BEN,2000,0
+659,Benin,BEN,2001,0
+660,Benin,BEN,2002,0
+661,Benin,BEN,2003,0
+662,Benin,BEN,2004,0
+663,Benin,BEN,2005,0
+664,Benin,BEN,2006,0
+665,Benin,BEN,2007,0
+666,Benin,BEN,2008,0
+667,Benin,BEN,2009,0
+668,Benin,BEN,2010,0
+669,Benin,BEN,2011,0
+670,Benin,BEN,2012,0
+671,Benin,BEN,2013,0
+672,Benin,BEN,2014,0
+673,Benin,BEN,2015,0
+674,Benin,BEN,2016,0
+675,Benin,BEN,2017,0
+676,Benin,BEN,2018,0
+677,Benin,BEN,2019,1
+678,Benin,BEN,2020,0
+679,Benin,BEN,2021,0
+680,Benin,BEN,2022,33
+681,Bhutan,BTN,1989,0
+682,Bhutan,BTN,1990,0
+683,Bhutan,BTN,1991,0
+684,Bhutan,BTN,1992,0
+685,Bhutan,BTN,1993,0
+686,Bhutan,BTN,1994,0
+687,Bhutan,BTN,1995,0
+688,Bhutan,BTN,1996,0
+689,Bhutan,BTN,1997,4
+690,Bhutan,BTN,1998,0
+691,Bhutan,BTN,1999,0
+692,Bhutan,BTN,2000,0
+693,Bhutan,BTN,2001,0
+694,Bhutan,BTN,2002,0
+695,Bhutan,BTN,2003,0
+696,Bhutan,BTN,2004,0
+697,Bhutan,BTN,2005,0
+698,Bhutan,BTN,2006,0
+699,Bhutan,BTN,2007,0
+700,Bhutan,BTN,2008,0
+701,Bhutan,BTN,2009,0
+702,Bhutan,BTN,2010,0
+703,Bhutan,BTN,2011,0
+704,Bhutan,BTN,2012,0
+705,Bhutan,BTN,2013,0
+706,Bhutan,BTN,2014,0
+707,Bhutan,BTN,2015,0
+708,Bhutan,BTN,2016,0
+709,Bhutan,BTN,2017,0
+710,Bhutan,BTN,2018,0
+711,Bhutan,BTN,2019,0
+712,Bhutan,BTN,2020,0
+713,Bhutan,BTN,2021,0
+714,Bhutan,BTN,2022,0
+715,Bolivia,BOL,1989,0
+716,Bolivia,BOL,1990,0
+717,Bolivia,BOL,1991,0
+718,Bolivia,BOL,1992,0
+719,Bolivia,BOL,1993,0
+720,Bolivia,BOL,1994,0
+721,Bolivia,BOL,1995,0
+722,Bolivia,BOL,1996,0
+723,Bolivia,BOL,1997,0
+724,Bolivia,BOL,1998,0
+725,Bolivia,BOL,1999,0
+726,Bolivia,BOL,2000,50
+727,Bolivia,BOL,2001,0
+728,Bolivia,BOL,2002,0
+729,Bolivia,BOL,2003,0
+730,Bolivia,BOL,2004,0
+731,Bolivia,BOL,2005,0
+732,Bolivia,BOL,2006,0
+733,Bolivia,BOL,2007,0
+734,Bolivia,BOL,2008,0
+735,Bolivia,BOL,2009,0
+736,Bolivia,BOL,2010,0
+737,Bolivia,BOL,2011,0
+738,Bolivia,BOL,2012,0
+739,Bolivia,BOL,2013,0
+740,Bolivia,BOL,2014,0
+741,Bolivia,BOL,2015,0
+742,Bolivia,BOL,2016,0
+743,Bolivia,BOL,2017,0
+744,Bolivia,BOL,2018,0
+745,Bolivia,BOL,2019,0
+746,Bolivia,BOL,2020,1
+747,Bolivia,BOL,2021,2
+748,Bolivia,BOL,2022,2
+749,Bosnia and Herzegovina,BIH,1989,0
+750,Bosnia and Herzegovina,BIH,1990,0
+751,Bosnia and Herzegovina,BIH,1991,40
+752,Bosnia and Herzegovina,BIH,1992,26840
+753,Bosnia and Herzegovina,BIH,1993,13685
+754,Bosnia and Herzegovina,BIH,1994,7301
+755,Bosnia and Herzegovina,BIH,1995,17256
+756,Bosnia and Herzegovina,BIH,1996,0
+757,Bosnia and Herzegovina,BIH,1997,0
+758,Bosnia and Herzegovina,BIH,1998,0
+759,Bosnia and Herzegovina,BIH,1999,0
+760,Bosnia and Herzegovina,BIH,2000,0
+761,Bosnia and Herzegovina,BIH,2001,0
+762,Bosnia and Herzegovina,BIH,2002,0
+763,Bosnia and Herzegovina,BIH,2003,0
+764,Bosnia and Herzegovina,BIH,2004,0
+765,Bosnia and Herzegovina,BIH,2005,0
+766,Bosnia and Herzegovina,BIH,2006,0
+767,Bosnia and Herzegovina,BIH,2007,0
+768,Bosnia and Herzegovina,BIH,2008,0
+769,Bosnia and Herzegovina,BIH,2009,0
+770,Bosnia and Herzegovina,BIH,2010,0
+771,Bosnia and Herzegovina,BIH,2011,0
+772,Bosnia and Herzegovina,BIH,2012,0
+773,Bosnia and Herzegovina,BIH,2013,0
+774,Bosnia and Herzegovina,BIH,2014,0
+775,Bosnia and Herzegovina,BIH,2015,0
+776,Bosnia and Herzegovina,BIH,2016,0
+777,Bosnia and Herzegovina,BIH,2017,0
+778,Bosnia and Herzegovina,BIH,2018,0
+779,Bosnia and Herzegovina,BIH,2019,0
+780,Bosnia and Herzegovina,BIH,2020,0
+781,Bosnia and Herzegovina,BIH,2021,0
+782,Bosnia and Herzegovina,BIH,2022,0
+783,Botswana,BWA,1989,0
+784,Botswana,BWA,1990,0
+785,Botswana,BWA,1991,0
+786,Botswana,BWA,1992,0
+787,Botswana,BWA,1993,0
+788,Botswana,BWA,1994,0
+789,Botswana,BWA,1995,0
+790,Botswana,BWA,1996,0
+791,Botswana,BWA,1997,0
+792,Botswana,BWA,1998,0
+793,Botswana,BWA,1999,0
+794,Botswana,BWA,2000,0
+795,Botswana,BWA,2001,0
+796,Botswana,BWA,2002,0
+797,Botswana,BWA,2003,0
+798,Botswana,BWA,2004,0
+799,Botswana,BWA,2005,0
+800,Botswana,BWA,2006,0
+801,Botswana,BWA,2007,0
+802,Botswana,BWA,2008,0
+803,Botswana,BWA,2009,0
+804,Botswana,BWA,2010,0
+805,Botswana,BWA,2011,0
+806,Botswana,BWA,2012,0
+807,Botswana,BWA,2013,0
+808,Botswana,BWA,2014,0
+809,Botswana,BWA,2015,0
+810,Botswana,BWA,2016,0
+811,Botswana,BWA,2017,0
+812,Botswana,BWA,2018,0
+813,Botswana,BWA,2019,0
+814,Botswana,BWA,2020,0
+815,Botswana,BWA,2021,0
+816,Botswana,BWA,2022,0
+817,Brazil,BRA,1989,0
+818,Brazil,BRA,1990,0
+819,Brazil,BRA,1991,0
+820,Brazil,BRA,1992,0
+821,Brazil,BRA,1993,29
+822,Brazil,BRA,1994,28
+823,Brazil,BRA,1995,40
+824,Brazil,BRA,1996,0
+825,Brazil,BRA,1997,34
+826,Brazil,BRA,1998,0
+827,Brazil,BRA,1999,32
+828,Brazil,BRA,2000,29
+829,Brazil,BRA,2001,74
+830,Brazil,BRA,2002,48
+831,Brazil,BRA,2003,35
+832,Brazil,BRA,2004,85
+833,Brazil,BRA,2005,34
+834,Brazil,BRA,2006,0
+835,Brazil,BRA,2007,0
+836,Brazil,BRA,2008,0
+837,Brazil,BRA,2009,40
+838,Brazil,BRA,2010,0
+839,Brazil,BRA,2011,31
+840,Brazil,BRA,2012,262
+841,Brazil,BRA,2013,0
+842,Brazil,BRA,2014,0
+843,Brazil,BRA,2015,65
+844,Brazil,BRA,2016,83
+845,Brazil,BRA,2017,2801
+846,Brazil,BRA,2018,2372
+847,Brazil,BRA,2019,1533
+848,Brazil,BRA,2020,2463
+849,Brazil,BRA,2021,2324
+850,Brazil,BRA,2022,1480
+851,Brunei,BRN,1989,0
+852,Brunei,BRN,1990,0
+853,Brunei,BRN,1991,0
+854,Brunei,BRN,1992,0
+855,Brunei,BRN,1993,0
+856,Brunei,BRN,1994,0
+857,Brunei,BRN,1995,0
+858,Brunei,BRN,1996,0
+859,Brunei,BRN,1997,0
+860,Brunei,BRN,1998,0
+861,Brunei,BRN,1999,0
+862,Brunei,BRN,2000,0
+863,Brunei,BRN,2001,0
+864,Brunei,BRN,2002,0
+865,Brunei,BRN,2003,0
+866,Brunei,BRN,2004,0
+867,Brunei,BRN,2005,0
+868,Brunei,BRN,2006,0
+869,Brunei,BRN,2007,0
+870,Brunei,BRN,2008,0
+871,Brunei,BRN,2009,0
+872,Brunei,BRN,2010,0
+873,Brunei,BRN,2011,0
+874,Brunei,BRN,2012,0
+875,Brunei,BRN,2013,0
+876,Brunei,BRN,2014,0
+877,Brunei,BRN,2015,0
+878,Brunei,BRN,2016,0
+879,Brunei,BRN,2017,0
+880,Brunei,BRN,2018,0
+881,Brunei,BRN,2019,0
+882,Brunei,BRN,2020,0
+883,Brunei,BRN,2021,0
+884,Brunei,BRN,2022,0
+885,Bulgaria,BGR,1989,0
+886,Bulgaria,BGR,1990,0
+887,Bulgaria,BGR,1991,0
+888,Bulgaria,BGR,1992,0
+889,Bulgaria,BGR,1993,0
+890,Bulgaria,BGR,1994,0
+891,Bulgaria,BGR,1995,0
+892,Bulgaria,BGR,1996,0
+893,Bulgaria,BGR,1997,0
+894,Bulgaria,BGR,1998,0
+895,Bulgaria,BGR,1999,0
+896,Bulgaria,BGR,2000,0
+897,Bulgaria,BGR,2001,0
+898,Bulgaria,BGR,2002,0
+899,Bulgaria,BGR,2003,0
+900,Bulgaria,BGR,2004,0
+901,Bulgaria,BGR,2005,0
+902,Bulgaria,BGR,2006,0
+903,Bulgaria,BGR,2007,0
+904,Bulgaria,BGR,2008,0
+905,Bulgaria,BGR,2009,0
+906,Bulgaria,BGR,2010,0
+907,Bulgaria,BGR,2011,0
+908,Bulgaria,BGR,2012,0
+909,Bulgaria,BGR,2013,0
+910,Bulgaria,BGR,2014,0
+911,Bulgaria,BGR,2015,0
+912,Bulgaria,BGR,2016,0
+913,Bulgaria,BGR,2017,0
+914,Bulgaria,BGR,2018,0
+915,Bulgaria,BGR,2019,0
+916,Bulgaria,BGR,2020,0
+917,Bulgaria,BGR,2021,0
+918,Bulgaria,BGR,2022,0
+919,Burkina Faso,BFA,1989,0
+920,Burkina Faso,BFA,1990,0
+921,Burkina Faso,BFA,1991,0
+922,Burkina Faso,BFA,1992,0
+923,Burkina Faso,BFA,1993,0
+924,Burkina Faso,BFA,1994,0
+925,Burkina Faso,BFA,1995,0
+926,Burkina Faso,BFA,1996,0
+927,Burkina Faso,BFA,1997,0
+928,Burkina Faso,BFA,1998,0
+929,Burkina Faso,BFA,1999,0
+930,Burkina Faso,BFA,2000,0
+931,Burkina Faso,BFA,2001,0
+932,Burkina Faso,BFA,2002,0
+933,Burkina Faso,BFA,2003,0
+934,Burkina Faso,BFA,2004,0
+935,Burkina Faso,BFA,2005,0
+936,Burkina Faso,BFA,2006,0
+937,Burkina Faso,BFA,2007,0
+938,Burkina Faso,BFA,2008,0
+939,Burkina Faso,BFA,2009,0
+940,Burkina Faso,BFA,2010,0
+941,Burkina Faso,BFA,2011,0
+942,Burkina Faso,BFA,2012,0
+943,Burkina Faso,BFA,2013,0
+944,Burkina Faso,BFA,2014,0
+945,Burkina Faso,BFA,2015,0
+946,Burkina Faso,BFA,2016,25
+947,Burkina Faso,BFA,2017,34
+948,Burkina Faso,BFA,2018,171
+949,Burkina Faso,BFA,2019,1245
+950,Burkina Faso,BFA,2020,1131
+951,Burkina Faso,BFA,2021,1458
+952,Burkina Faso,BFA,2022,2595
+953,Burundi,BDI,1989,0
+954,Burundi,BDI,1990,0
+955,Burundi,BDI,1991,342
+956,Burundi,BDI,1992,61
+957,Burundi,BDI,1993,4074
+958,Burundi,BDI,1994,483
+959,Burundi,BDI,1995,1630
+960,Burundi,BDI,1996,3235
+961,Burundi,BDI,1997,1620
+962,Burundi,BDI,1998,1363
+963,Burundi,BDI,1999,1009
+964,Burundi,BDI,2000,2006
+965,Burundi,BDI,2001,1231
+966,Burundi,BDI,2002,1523
+967,Burundi,BDI,2003,1246
+968,Burundi,BDI,2004,677
+969,Burundi,BDI,2005,378
+970,Burundi,BDI,2006,177
+971,Burundi,BDI,2007,52
+972,Burundi,BDI,2008,201
+973,Burundi,BDI,2009,0
+974,Burundi,BDI,2010,0
+975,Burundi,BDI,2011,0
+976,Burundi,BDI,2012,0
+977,Burundi,BDI,2013,0
+978,Burundi,BDI,2014,56
+979,Burundi,BDI,2015,264
+980,Burundi,BDI,2016,72
+981,Burundi,BDI,2017,38
+982,Burundi,BDI,2018,109
+983,Burundi,BDI,2019,75
+984,Burundi,BDI,2020,127
+985,Burundi,BDI,2021,76
+986,Burundi,BDI,2022,77
+987,Cambodia,KHM,1989,814
+988,Cambodia,KHM,1990,377
+989,Cambodia,KHM,1991,312
+990,Cambodia,KHM,1992,191
+991,Cambodia,KHM,1993,474
+992,Cambodia,KHM,1994,566
+993,Cambodia,KHM,1995,673
+994,Cambodia,KHM,1996,841
+995,Cambodia,KHM,1997,205
+996,Cambodia,KHM,1998,163
+997,Cambodia,KHM,1999,0
+998,Cambodia,KHM,2000,0
+999,Cambodia,KHM,2001,0
+1000,Cambodia,KHM,2002,0
+1001,Cambodia,KHM,2003,0
+1002,Cambodia,KHM,2004,0
+1003,Cambodia,KHM,2005,0
+1004,Cambodia,KHM,2006,0
+1005,Cambodia,KHM,2007,0
+1006,Cambodia,KHM,2008,0
+1007,Cambodia,KHM,2009,0
+1008,Cambodia,KHM,2010,0
+1009,Cambodia,KHM,2011,11
+1010,Cambodia,KHM,2012,0
+1011,Cambodia,KHM,2013,0
+1012,Cambodia,KHM,2014,0
+1013,Cambodia,KHM,2015,0
+1014,Cambodia,KHM,2016,0
+1015,Cambodia,KHM,2017,0
+1016,Cambodia,KHM,2018,0
+1017,Cambodia,KHM,2019,0
+1018,Cambodia,KHM,2020,0
+1019,Cambodia,KHM,2021,0
+1020,Cambodia,KHM,2022,0
+1021,Cameroon,CMR,1989,0
+1022,Cameroon,CMR,1990,0
+1023,Cameroon,CMR,1991,50
+1024,Cameroon,CMR,1992,25
+1025,Cameroon,CMR,1993,47
+1026,Cameroon,CMR,1994,89
+1027,Cameroon,CMR,1995,0
+1028,Cameroon,CMR,1996,56
+1029,Cameroon,CMR,1997,0
+1030,Cameroon,CMR,1998,51
+1031,Cameroon,CMR,1999,0
+1032,Cameroon,CMR,2000,0
+1033,Cameroon,CMR,2001,0
+1034,Cameroon,CMR,2002,0
+1035,Cameroon,CMR,2003,0
+1036,Cameroon,CMR,2004,0
+1037,Cameroon,CMR,2005,0
+1038,Cameroon,CMR,2006,0
+1039,Cameroon,CMR,2007,0
+1040,Cameroon,CMR,2008,0
+1041,Cameroon,CMR,2009,0
+1042,Cameroon,CMR,2010,0
+1043,Cameroon,CMR,2011,0
+1044,Cameroon,CMR,2012,1
+1045,Cameroon,CMR,2013,52
+1046,Cameroon,CMR,2014,1378
+1047,Cameroon,CMR,2015,1856
+1048,Cameroon,CMR,2016,501
+1049,Cameroon,CMR,2017,374
+1050,Cameroon,CMR,2018,939
+1051,Cameroon,CMR,2019,833
+1052,Cameroon,CMR,2020,781
+1053,Cameroon,CMR,2021,833
+1054,Cameroon,CMR,2022,660
+1055,Canada,CAN,1989,0
+1056,Canada,CAN,1990,0
+1057,Canada,CAN,1991,0
+1058,Canada,CAN,1992,0
+1059,Canada,CAN,1993,0
+1060,Canada,CAN,1994,0
+1061,Canada,CAN,1995,24
+1062,Canada,CAN,1996,0
+1063,Canada,CAN,1997,0
+1064,Canada,CAN,1998,27
+1065,Canada,CAN,1999,0
+1066,Canada,CAN,2000,0
+1067,Canada,CAN,2001,0
+1068,Canada,CAN,2002,0
+1069,Canada,CAN,2003,0
+1070,Canada,CAN,2004,0
+1071,Canada,CAN,2005,0
+1072,Canada,CAN,2006,0
+1073,Canada,CAN,2007,0
+1074,Canada,CAN,2008,0
+1075,Canada,CAN,2009,0
+1076,Canada,CAN,2010,0
+1077,Canada,CAN,2011,0
+1078,Canada,CAN,2012,0
+1079,Canada,CAN,2013,0
+1080,Canada,CAN,2014,0
+1081,Canada,CAN,2015,0
+1082,Canada,CAN,2016,0
+1083,Canada,CAN,2017,0
+1084,Canada,CAN,2018,0
+1085,Canada,CAN,2019,0
+1086,Canada,CAN,2020,0
+1087,Canada,CAN,2021,0
+1088,Canada,CAN,2022,0
+1089,Cape Verde,CPV,1989,0
+1090,Cape Verde,CPV,1990,0
+1091,Cape Verde,CPV,1991,0
+1092,Cape Verde,CPV,1992,0
+1093,Cape Verde,CPV,1993,0
+1094,Cape Verde,CPV,1994,0
+1095,Cape Verde,CPV,1995,0
+1096,Cape Verde,CPV,1996,0
+1097,Cape Verde,CPV,1997,0
+1098,Cape Verde,CPV,1998,0
+1099,Cape Verde,CPV,1999,0
+1100,Cape Verde,CPV,2000,0
+1101,Cape Verde,CPV,2001,0
+1102,Cape Verde,CPV,2002,0
+1103,Cape Verde,CPV,2003,0
+1104,Cape Verde,CPV,2004,0
+1105,Cape Verde,CPV,2005,0
+1106,Cape Verde,CPV,2006,0
+1107,Cape Verde,CPV,2007,0
+1108,Cape Verde,CPV,2008,0
+1109,Cape Verde,CPV,2009,0
+1110,Cape Verde,CPV,2010,0
+1111,Cape Verde,CPV,2011,0
+1112,Cape Verde,CPV,2012,0
+1113,Cape Verde,CPV,2013,0
+1114,Cape Verde,CPV,2014,0
+1115,Cape Verde,CPV,2015,0
+1116,Cape Verde,CPV,2016,0
+1117,Cape Verde,CPV,2017,0
+1118,Cape Verde,CPV,2018,0
+1119,Cape Verde,CPV,2019,0
+1120,Cape Verde,CPV,2020,0
+1121,Cape Verde,CPV,2021,0
+1122,Cape Verde,CPV,2022,0
+1123,Central African Republic,CAF,1989,0
+1124,Central African Republic,CAF,1990,0
+1125,Central African Republic,CAF,1991,0
+1126,Central African Republic,CAF,1992,0
+1127,Central African Republic,CAF,1993,0
+1128,Central African Republic,CAF,1994,0
+1129,Central African Republic,CAF,1995,0
+1130,Central African Republic,CAF,1996,0
+1131,Central African Republic,CAF,1997,0
+1132,Central African Republic,CAF,1998,0
+1133,Central African Republic,CAF,1999,0
+1134,Central African Republic,CAF,2000,0
+1135,Central African Republic,CAF,2001,13
+1136,Central African Republic,CAF,2002,26
+1137,Central African Republic,CAF,2003,0
+1138,Central African Republic,CAF,2004,20
+1139,Central African Republic,CAF,2005,0
+1140,Central African Republic,CAF,2006,179
+1141,Central African Republic,CAF,2007,126
+1142,Central African Republic,CAF,2008,3
+1143,Central African Republic,CAF,2009,223
+1144,Central African Republic,CAF,2010,141
+1145,Central African Republic,CAF,2011,184
+1146,Central African Republic,CAF,2012,99
+1147,Central African Republic,CAF,2013,2162
+1148,Central African Republic,CAF,2014,3069
+1149,Central African Republic,CAF,2015,608
+1150,Central African Republic,CAF,2016,628
+1151,Central African Republic,CAF,2017,1756
+1152,Central African Republic,CAF,2018,612
+1153,Central African Republic,CAF,2019,339
+1154,Central African Republic,CAF,2020,212
+1155,Central African Republic,CAF,2021,971
+1156,Central African Republic,CAF,2022,754
+1157,Chad,TCD,1989,50
+1158,Chad,TCD,1990,263
+1159,Chad,TCD,1991,95
+1160,Chad,TCD,1992,1190
+1161,Chad,TCD,1993,313
+1162,Chad,TCD,1994,510
+1163,Chad,TCD,1995,47
+1164,Chad,TCD,1996,0
+1165,Chad,TCD,1997,137
+1166,Chad,TCD,1998,179
+1167,Chad,TCD,1999,394
+1168,Chad,TCD,2000,844
+1169,Chad,TCD,2001,230
+1170,Chad,TCD,2002,297
+1171,Chad,TCD,2003,224
+1172,Chad,TCD,2004,221
+1173,Chad,TCD,2005,265
+1174,Chad,TCD,2006,1654
+1175,Chad,TCD,2007,280
+1176,Chad,TCD,2008,991
+1177,Chad,TCD,2009,135
+1178,Chad,TCD,2010,4
+1179,Chad,TCD,2011,0
+1180,Chad,TCD,2012,0
+1181,Chad,TCD,2013,0
+1182,Chad,TCD,2014,6
+1183,Chad,TCD,2015,389
+1184,Chad,TCD,2016,2
+1185,Chad,TCD,2017,88
+1186,Chad,TCD,2018,168
+1187,Chad,TCD,2019,258
+1188,Chad,TCD,2020,249
+1189,Chad,TCD,2021,666
+1190,Chad,TCD,2022,85
+1191,Chile,CHL,1989,0
+1192,Chile,CHL,1990,0
+1193,Chile,CHL,1991,0
+1194,Chile,CHL,1992,0
+1195,Chile,CHL,1993,0
+1196,Chile,CHL,1994,0
+1197,Chile,CHL,1995,0
+1198,Chile,CHL,1996,0
+1199,Chile,CHL,1997,0
+1200,Chile,CHL,1998,0
+1201,Chile,CHL,1999,0
+1202,Chile,CHL,2000,0
+1203,Chile,CHL,2001,0
+1204,Chile,CHL,2002,0
+1205,Chile,CHL,2003,0
+1206,Chile,CHL,2004,0
+1207,Chile,CHL,2005,0
+1208,Chile,CHL,2006,0
+1209,Chile,CHL,2007,0
+1210,Chile,CHL,2008,0
+1211,Chile,CHL,2009,0
+1212,Chile,CHL,2010,0
+1213,Chile,CHL,2011,0
+1214,Chile,CHL,2012,0
+1215,Chile,CHL,2013,0
+1216,Chile,CHL,2014,0
+1217,Chile,CHL,2015,0
+1218,Chile,CHL,2016,0
+1219,Chile,CHL,2017,0
+1220,Chile,CHL,2018,0
+1221,Chile,CHL,2019,0
+1222,Chile,CHL,2020,0
+1223,Chile,CHL,2021,0
+1224,Chile,CHL,2022,0
+1225,China,CHN,1989,2600
+1226,China,CHN,1990,0
+1227,China,CHN,1991,0
+1228,China,CHN,1992,0
+1229,China,CHN,1993,0
+1230,China,CHN,1994,0
+1231,China,CHN,1995,0
+1232,China,CHN,1996,0
+1233,China,CHN,1997,0
+1234,China,CHN,1998,0
+1235,China,CHN,1999,0
+1236,China,CHN,2000,0
+1237,China,CHN,2001,0
+1238,China,CHN,2002,0
+1239,China,CHN,2003,0
+1240,China,CHN,2004,0
+1241,China,CHN,2005,0
+1242,China,CHN,2006,0
+1243,China,CHN,2007,0
+1244,China,CHN,2008,87
+1245,China,CHN,2009,189
+1246,China,CHN,2010,0
+1247,China,CHN,2011,6
+1248,China,CHN,2012,109
+1249,China,CHN,2013,11
+1250,China,CHN,2014,23
+1251,China,CHN,2015,21
+1252,China,CHN,2016,18
+1253,China,CHN,2017,0
+1254,China,CHN,2018,0
+1255,China,CHN,2019,0
+1256,China,CHN,2020,0
+1257,China,CHN,2021,38
+1258,China,CHN,2022,0
+1259,Colombia,COL,1989,380
+1260,Colombia,COL,1990,692
+1261,Colombia,COL,1991,834
+1262,Colombia,COL,1992,1479
+1263,Colombia,COL,1993,267
+1264,Colombia,COL,1994,1155
+1265,Colombia,COL,1995,922
+1266,Colombia,COL,1996,1379
+1267,Colombia,COL,1997,801
+1268,Colombia,COL,1998,1595
+1269,Colombia,COL,1999,2056
+1270,Colombia,COL,2000,4250
+1271,Colombia,COL,2001,4563
+1272,Colombia,COL,2002,5706
+1273,Colombia,COL,2003,2388
+1274,Colombia,COL,2004,1746
+1275,Colombia,COL,2005,1674
+1276,Colombia,COL,2006,561
+1277,Colombia,COL,2007,314
+1278,Colombia,COL,2008,236
+1279,Colombia,COL,2009,397
+1280,Colombia,COL,2010,397
+1281,Colombia,COL,2011,198
+1282,Colombia,COL,2012,211
+1283,Colombia,COL,2013,140
+1284,Colombia,COL,2014,119
+1285,Colombia,COL,2015,130
+1286,Colombia,COL,2016,29
+1287,Colombia,COL,2017,37
+1288,Colombia,COL,2018,184
+1289,Colombia,COL,2019,106
+1290,Colombia,COL,2020,114
+1291,Colombia,COL,2021,197
+1292,Colombia,COL,2022,109
+1293,Comoros,COM,1989,29
+1294,Comoros,COM,1990,0
+1295,Comoros,COM,1991,0
+1296,Comoros,COM,1992,0
+1297,Comoros,COM,1993,0
+1298,Comoros,COM,1994,0
+1299,Comoros,COM,1995,0
+1300,Comoros,COM,1996,0
+1301,Comoros,COM,1997,56
+1302,Comoros,COM,1998,40
+1303,Comoros,COM,1999,0
+1304,Comoros,COM,2000,0
+1305,Comoros,COM,2001,0
+1306,Comoros,COM,2002,0
+1307,Comoros,COM,2003,0
+1308,Comoros,COM,2004,0
+1309,Comoros,COM,2005,0
+1310,Comoros,COM,2006,0
+1311,Comoros,COM,2007,0
+1312,Comoros,COM,2008,0
+1313,Comoros,COM,2009,0
+1314,Comoros,COM,2010,0
+1315,Comoros,COM,2011,0
+1316,Comoros,COM,2012,0
+1317,Comoros,COM,2013,0
+1318,Comoros,COM,2014,0
+1319,Comoros,COM,2015,0
+1320,Comoros,COM,2016,0
+1321,Comoros,COM,2017,0
+1322,Comoros,COM,2018,0
+1323,Comoros,COM,2019,0
+1324,Comoros,COM,2020,0
+1325,Comoros,COM,2021,0
+1326,Comoros,COM,2022,0
+1327,Congo,COG,1989,0
+1328,Congo,COG,1990,0
+1329,Congo,COG,1991,0
+1330,Congo,COG,1992,0
+1331,Congo,COG,1993,135
+1332,Congo,COG,1994,0
+1333,Congo,COG,1995,0
+1334,Congo,COG,1996,0
+1335,Congo,COG,1997,10412
+1336,Congo,COG,1998,3763
+1337,Congo,COG,1999,948
+1338,Congo,COG,2000,0
+1339,Congo,COG,2001,0
+1340,Congo,COG,2002,225
+1341,Congo,COG,2003,0
+1342,Congo,COG,2004,0
+1343,Congo,COG,2005,0
+1344,Congo,COG,2006,0
+1345,Congo,COG,2007,0
+1346,Congo,COG,2008,0
+1347,Congo,COG,2009,0
+1348,Congo,COG,2010,0
+1349,Congo,COG,2011,0
+1350,Congo,COG,2012,0
+1351,Congo,COG,2013,0
+1352,Congo,COG,2014,0
+1353,Congo,COG,2015,0
+1354,Congo,COG,2016,69
+1355,Congo,COG,2017,0
+1356,Congo,COG,2018,0
+1357,Congo,COG,2019,1
+1358,Congo,COG,2020,0
+1359,Congo,COG,2021,0
+1360,Congo,COG,2022,22
+1361,Costa Rica,CRI,1989,0
+1362,Costa Rica,CRI,1990,0
+1363,Costa Rica,CRI,1991,0
+1364,Costa Rica,CRI,1992,0
+1365,Costa Rica,CRI,1993,0
+1366,Costa Rica,CRI,1994,0
+1367,Costa Rica,CRI,1995,0
+1368,Costa Rica,CRI,1996,0
+1369,Costa Rica,CRI,1997,0
+1370,Costa Rica,CRI,1998,0
+1371,Costa Rica,CRI,1999,0
+1372,Costa Rica,CRI,2000,0
+1373,Costa Rica,CRI,2001,0
+1374,Costa Rica,CRI,2002,0
+1375,Costa Rica,CRI,2003,0
+1376,Costa Rica,CRI,2004,0
+1377,Costa Rica,CRI,2005,0
+1378,Costa Rica,CRI,2006,0
+1379,Costa Rica,CRI,2007,0
+1380,Costa Rica,CRI,2008,0
+1381,Costa Rica,CRI,2009,0
+1382,Costa Rica,CRI,2010,0
+1383,Costa Rica,CRI,2011,0
+1384,Costa Rica,CRI,2012,0
+1385,Costa Rica,CRI,2013,0
+1386,Costa Rica,CRI,2014,0
+1387,Costa Rica,CRI,2015,0
+1388,Costa Rica,CRI,2016,0
+1389,Costa Rica,CRI,2017,0
+1390,Costa Rica,CRI,2018,0
+1391,Costa Rica,CRI,2019,0
+1392,Costa Rica,CRI,2020,0
+1393,Costa Rica,CRI,2021,0
+1394,Costa Rica,CRI,2022,0
+1395,Cote d'Ivoire,CIV,1989,0
+1396,Cote d'Ivoire,CIV,1990,8
+1397,Cote d'Ivoire,CIV,1991,0
+1398,Cote d'Ivoire,CIV,1992,0
+1399,Cote d'Ivoire,CIV,1993,1
+1400,Cote d'Ivoire,CIV,1994,4
+1401,Cote d'Ivoire,CIV,1995,57
+1402,Cote d'Ivoire,CIV,1996,0
+1403,Cote d'Ivoire,CIV,1997,0
+1404,Cote d'Ivoire,CIV,1998,0
+1405,Cote d'Ivoire,CIV,1999,0
+1406,Cote d'Ivoire,CIV,2000,132
+1407,Cote d'Ivoire,CIV,2001,0
+1408,Cote d'Ivoire,CIV,2002,1004
+1409,Cote d'Ivoire,CIV,2003,482
+1410,Cote d'Ivoire,CIV,2004,303
+1411,Cote d'Ivoire,CIV,2005,128
+1412,Cote d'Ivoire,CIV,2006,0
+1413,Cote d'Ivoire,CIV,2007,0
+1414,Cote d'Ivoire,CIV,2008,0
+1415,Cote d'Ivoire,CIV,2009,0
+1416,Cote d'Ivoire,CIV,2010,44
+1417,Cote d'Ivoire,CIV,2011,1234
+1418,Cote d'Ivoire,CIV,2012,0
+1419,Cote d'Ivoire,CIV,2013,0
+1420,Cote d'Ivoire,CIV,2014,0
+1421,Cote d'Ivoire,CIV,2015,0
+1422,Cote d'Ivoire,CIV,2016,49
+1423,Cote d'Ivoire,CIV,2017,0
+1424,Cote d'Ivoire,CIV,2018,0
+1425,Cote d'Ivoire,CIV,2019,0
+1426,Cote d'Ivoire,CIV,2020,0
+1427,Cote d'Ivoire,CIV,2021,0
+1428,Cote d'Ivoire,CIV,2022,0
+1429,Croatia,HRV,1989,0
+1430,Croatia,HRV,1990,0
+1431,Croatia,HRV,1991,3155
+1432,Croatia,HRV,1992,291
+1433,Croatia,HRV,1993,373
+1434,Croatia,HRV,1994,3
+1435,Croatia,HRV,1995,959
+1436,Croatia,HRV,1996,0
+1437,Croatia,HRV,1997,0
+1438,Croatia,HRV,1998,0
+1439,Croatia,HRV,1999,0
+1440,Croatia,HRV,2000,0
+1441,Croatia,HRV,2001,0
+1442,Croatia,HRV,2002,0
+1443,Croatia,HRV,2003,0
+1444,Croatia,HRV,2004,0
+1445,Croatia,HRV,2005,0
+1446,Croatia,HRV,2006,0
+1447,Croatia,HRV,2007,0
+1448,Croatia,HRV,2008,0
+1449,Croatia,HRV,2009,0
+1450,Croatia,HRV,2010,0
+1451,Croatia,HRV,2011,0
+1452,Croatia,HRV,2012,0
+1453,Croatia,HRV,2013,0
+1454,Croatia,HRV,2014,0
+1455,Croatia,HRV,2015,0
+1456,Croatia,HRV,2016,0
+1457,Croatia,HRV,2017,0
+1458,Croatia,HRV,2018,0
+1459,Croatia,HRV,2019,0
+1460,Croatia,HRV,2020,0
+1461,Croatia,HRV,2021,0
+1462,Croatia,HRV,2022,0
+1463,Cuba,CUB,1989,0
+1464,Cuba,CUB,1990,0
+1465,Cuba,CUB,1991,0
+1466,Cuba,CUB,1992,0
+1467,Cuba,CUB,1993,0
+1468,Cuba,CUB,1994,0
+1469,Cuba,CUB,1995,0
+1470,Cuba,CUB,1996,0
+1471,Cuba,CUB,1997,0
+1472,Cuba,CUB,1998,0
+1473,Cuba,CUB,1999,0
+1474,Cuba,CUB,2000,0
+1475,Cuba,CUB,2001,0
+1476,Cuba,CUB,2002,0
+1477,Cuba,CUB,2003,0
+1478,Cuba,CUB,2004,0
+1479,Cuba,CUB,2005,0
+1480,Cuba,CUB,2006,0
+1481,Cuba,CUB,2007,0
+1482,Cuba,CUB,2008,0
+1483,Cuba,CUB,2009,0
+1484,Cuba,CUB,2010,0
+1485,Cuba,CUB,2011,0
+1486,Cuba,CUB,2012,0
+1487,Cuba,CUB,2013,0
+1488,Cuba,CUB,2014,0
+1489,Cuba,CUB,2015,0
+1490,Cuba,CUB,2016,0
+1491,Cuba,CUB,2017,0
+1492,Cuba,CUB,2018,0
+1493,Cuba,CUB,2019,0
+1494,Cuba,CUB,2020,0
+1495,Cuba,CUB,2021,0
+1496,Cuba,CUB,2022,0
+1497,Cyprus,CYP,1989,0
+1498,Cyprus,CYP,1990,0
+1499,Cyprus,CYP,1991,0
+1500,Cyprus,CYP,1992,0
+1501,Cyprus,CYP,1993,0
+1502,Cyprus,CYP,1994,0
+1503,Cyprus,CYP,1995,0
+1504,Cyprus,CYP,1996,0
+1505,Cyprus,CYP,1997,0
+1506,Cyprus,CYP,1998,0
+1507,Cyprus,CYP,1999,0
+1508,Cyprus,CYP,2000,0
+1509,Cyprus,CYP,2001,0
+1510,Cyprus,CYP,2002,0
+1511,Cyprus,CYP,2003,0
+1512,Cyprus,CYP,2004,0
+1513,Cyprus,CYP,2005,0
+1514,Cyprus,CYP,2006,0
+1515,Cyprus,CYP,2007,0
+1516,Cyprus,CYP,2008,0
+1517,Cyprus,CYP,2009,0
+1518,Cyprus,CYP,2010,0
+1519,Cyprus,CYP,2011,0
+1520,Cyprus,CYP,2012,0
+1521,Cyprus,CYP,2013,0
+1522,Cyprus,CYP,2014,0
+1523,Cyprus,CYP,2015,0
+1524,Cyprus,CYP,2016,0
+1525,Cyprus,CYP,2017,0
+1526,Cyprus,CYP,2018,0
+1527,Cyprus,CYP,2019,0
+1528,Cyprus,CYP,2020,0
+1529,Cyprus,CYP,2021,0
+1530,Cyprus,CYP,2022,0
+1531,Czechia,CZE,1989,0
+1532,Czechia,CZE,1990,0
+1533,Czechia,CZE,1991,0
+1534,Czechia,CZE,1992,0
+1535,Czechia,CZE,1993,0
+1536,Czechia,CZE,1994,0
+1537,Czechia,CZE,1995,0
+1538,Czechia,CZE,1996,0
+1539,Czechia,CZE,1997,0
+1540,Czechia,CZE,1998,0
+1541,Czechia,CZE,1999,0
+1542,Czechia,CZE,2000,0
+1543,Czechia,CZE,2001,0
+1544,Czechia,CZE,2002,0
+1545,Czechia,CZE,2003,0
+1546,Czechia,CZE,2004,0
+1547,Czechia,CZE,2005,0
+1548,Czechia,CZE,2006,0
+1549,Czechia,CZE,2007,0
+1550,Czechia,CZE,2008,0
+1551,Czechia,CZE,2009,0
+1552,Czechia,CZE,2010,0
+1553,Czechia,CZE,2011,0
+1554,Czechia,CZE,2012,0
+1555,Czechia,CZE,2013,0
+1556,Czechia,CZE,2014,0
+1557,Czechia,CZE,2015,0
+1558,Czechia,CZE,2016,0
+1559,Czechia,CZE,2017,0
+1560,Czechia,CZE,2018,0
+1561,Czechia,CZE,2019,0
+1562,Czechia,CZE,2020,0
+1563,Czechia,CZE,2021,0
+1564,Czechia,CZE,2022,0
+1565,Czechoslovakia,OWID_CZS,1989,0
+1566,Czechoslovakia,OWID_CZS,1990,0
+1567,Czechoslovakia,OWID_CZS,1991,0
+1568,Czechoslovakia,OWID_CZS,1992,0
+1569,Czechoslovakia,OWID_CZS,1993,0
+1570,Czechoslovakia,OWID_CZS,1994,0
+1571,Czechoslovakia,OWID_CZS,1995,0
+1572,Czechoslovakia,OWID_CZS,1996,0
+1573,Czechoslovakia,OWID_CZS,1997,0
+1574,Czechoslovakia,OWID_CZS,1998,0
+1575,Czechoslovakia,OWID_CZS,1999,0
+1576,Czechoslovakia,OWID_CZS,2000,0
+1577,Czechoslovakia,OWID_CZS,2001,0
+1578,Czechoslovakia,OWID_CZS,2002,0
+1579,Czechoslovakia,OWID_CZS,2003,0
+1580,Czechoslovakia,OWID_CZS,2004,0
+1581,Czechoslovakia,OWID_CZS,2005,0
+1582,Czechoslovakia,OWID_CZS,2006,0
+1583,Czechoslovakia,OWID_CZS,2007,0
+1584,Czechoslovakia,OWID_CZS,2008,0
+1585,Czechoslovakia,OWID_CZS,2009,0
+1586,Czechoslovakia,OWID_CZS,2010,0
+1587,Czechoslovakia,OWID_CZS,2011,0
+1588,Czechoslovakia,OWID_CZS,2012,0
+1589,Czechoslovakia,OWID_CZS,2013,0
+1590,Czechoslovakia,OWID_CZS,2014,0
+1591,Czechoslovakia,OWID_CZS,2015,0
+1592,Czechoslovakia,OWID_CZS,2016,0
+1593,Czechoslovakia,OWID_CZS,2017,0
+1594,Czechoslovakia,OWID_CZS,2018,0
+1595,Czechoslovakia,OWID_CZS,2019,0
+1596,Czechoslovakia,OWID_CZS,2020,0
+1597,Czechoslovakia,OWID_CZS,2021,0
+1598,Czechoslovakia,OWID_CZS,2022,0
+1599,Democratic Republic of Congo,COD,1989,28
+1600,Democratic Republic of Congo,COD,1990,147
+1601,Democratic Republic of Congo,COD,1991,32
+1602,Democratic Republic of Congo,COD,1992,67
+1603,Democratic Republic of Congo,COD,1993,3337
+1604,Democratic Republic of Congo,COD,1994,333
+1605,Democratic Republic of Congo,COD,1995,523
+1606,Democratic Republic of Congo,COD,1996,33062
+1607,Democratic Republic of Congo,COD,1997,13802
+1608,Democratic Republic of Congo,COD,1998,7456
+1609,Democratic Republic of Congo,COD,1999,7451
+1610,Democratic Republic of Congo,COD,2000,2968
+1611,Democratic Republic of Congo,COD,2001,1616
+1612,Democratic Republic of Congo,COD,2002,8012
+1613,Democratic Republic of Congo,COD,2003,4263
+1614,Democratic Republic of Congo,COD,2004,661
+1615,Democratic Republic of Congo,COD,2005,289
+1616,Democratic Republic of Congo,COD,2006,323
+1617,Democratic Republic of Congo,COD,2007,817
+1618,Democratic Republic of Congo,COD,2008,1697
+1619,Democratic Republic of Congo,COD,2009,5035
+1620,Democratic Republic of Congo,COD,2010,1063
+1621,Democratic Republic of Congo,COD,2011,418
+1622,Democratic Republic of Congo,COD,2012,1630
+1623,Democratic Republic of Congo,COD,2013,3100
+1624,Democratic Republic of Congo,COD,2014,1948
+1625,Democratic Republic of Congo,COD,2015,759
+1626,Democratic Republic of Congo,COD,2016,2142
+1627,Democratic Republic of Congo,COD,2017,5807
+1628,Democratic Republic of Congo,COD,2018,2938
+1629,Democratic Republic of Congo,COD,2019,2385
+1630,Democratic Republic of Congo,COD,2020,3841
+1631,Democratic Republic of Congo,COD,2021,3513
+1632,Democratic Republic of Congo,COD,2022,5228
+1633,Denmark,DNK,1989,0
+1634,Denmark,DNK,1990,0
+1635,Denmark,DNK,1991,0
+1636,Denmark,DNK,1992,0
+1637,Denmark,DNK,1993,0
+1638,Denmark,DNK,1994,0
+1639,Denmark,DNK,1995,0
+1640,Denmark,DNK,1996,0
+1641,Denmark,DNK,1997,0
+1642,Denmark,DNK,1998,0
+1643,Denmark,DNK,1999,0
+1644,Denmark,DNK,2000,0
+1645,Denmark,DNK,2001,0
+1646,Denmark,DNK,2002,0
+1647,Denmark,DNK,2003,0
+1648,Denmark,DNK,2004,0
+1649,Denmark,DNK,2005,0
+1650,Denmark,DNK,2006,0
+1651,Denmark,DNK,2007,0
+1652,Denmark,DNK,2008,0
+1653,Denmark,DNK,2009,0
+1654,Denmark,DNK,2010,0
+1655,Denmark,DNK,2011,0
+1656,Denmark,DNK,2012,0
+1657,Denmark,DNK,2013,0
+1658,Denmark,DNK,2014,0
+1659,Denmark,DNK,2015,0
+1660,Denmark,DNK,2016,0
+1661,Denmark,DNK,2017,0
+1662,Denmark,DNK,2018,0
+1663,Denmark,DNK,2019,0
+1664,Denmark,DNK,2020,0
+1665,Denmark,DNK,2021,0
+1666,Denmark,DNK,2022,0
+1667,Djibouti,DJI,1989,0
+1668,Djibouti,DJI,1990,0
+1669,Djibouti,DJI,1991,119
+1670,Djibouti,DJI,1992,129
+1671,Djibouti,DJI,1993,33
+1672,Djibouti,DJI,1994,39
+1673,Djibouti,DJI,1995,0
+1674,Djibouti,DJI,1996,0
+1675,Djibouti,DJI,1997,0
+1676,Djibouti,DJI,1998,0
+1677,Djibouti,DJI,1999,25
+1678,Djibouti,DJI,2000,0
+1679,Djibouti,DJI,2001,0
+1680,Djibouti,DJI,2002,0
+1681,Djibouti,DJI,2003,0
+1682,Djibouti,DJI,2004,0
+1683,Djibouti,DJI,2005,0
+1684,Djibouti,DJI,2006,0
+1685,Djibouti,DJI,2007,0
+1686,Djibouti,DJI,2008,2
+1687,Djibouti,DJI,2009,0
+1688,Djibouti,DJI,2010,0
+1689,Djibouti,DJI,2011,0
+1690,Djibouti,DJI,2012,0
+1691,Djibouti,DJI,2013,0
+1692,Djibouti,DJI,2014,1
+1693,Djibouti,DJI,2015,0
+1694,Djibouti,DJI,2016,0
+1695,Djibouti,DJI,2017,0
+1696,Djibouti,DJI,2018,6
+1697,Djibouti,DJI,2019,0
+1698,Djibouti,DJI,2020,0
+1699,Djibouti,DJI,2021,0
+1700,Djibouti,DJI,2022,0
+1701,Dominica,DMA,1989,0
+1702,Dominica,DMA,1990,0
+1703,Dominica,DMA,1991,0
+1704,Dominica,DMA,1992,0
+1705,Dominica,DMA,1993,0
+1706,Dominica,DMA,1994,0
+1707,Dominica,DMA,1995,0
+1708,Dominica,DMA,1996,0
+1709,Dominica,DMA,1997,0
+1710,Dominica,DMA,1998,0
+1711,Dominica,DMA,1999,0
+1712,Dominica,DMA,2000,0
+1713,Dominica,DMA,2001,0
+1714,Dominica,DMA,2002,0
+1715,Dominica,DMA,2003,0
+1716,Dominica,DMA,2004,0
+1717,Dominica,DMA,2005,0
+1718,Dominica,DMA,2006,0
+1719,Dominica,DMA,2007,0
+1720,Dominica,DMA,2008,0
+1721,Dominica,DMA,2009,0
+1722,Dominica,DMA,2010,0
+1723,Dominica,DMA,2011,0
+1724,Dominica,DMA,2012,0
+1725,Dominica,DMA,2013,0
+1726,Dominica,DMA,2014,0
+1727,Dominica,DMA,2015,0
+1728,Dominica,DMA,2016,0
+1729,Dominica,DMA,2017,0
+1730,Dominica,DMA,2018,0
+1731,Dominica,DMA,2019,0
+1732,Dominica,DMA,2020,0
+1733,Dominica,DMA,2021,0
+1734,Dominica,DMA,2022,0
+1735,Dominican Republic,DOM,1989,0
+1736,Dominican Republic,DOM,1990,0
+1737,Dominican Republic,DOM,1991,0
+1738,Dominican Republic,DOM,1992,0
+1739,Dominican Republic,DOM,1993,0
+1740,Dominican Republic,DOM,1994,0
+1741,Dominican Republic,DOM,1995,0
+1742,Dominican Republic,DOM,1996,0
+1743,Dominican Republic,DOM,1997,0
+1744,Dominican Republic,DOM,1998,0
+1745,Dominican Republic,DOM,1999,0
+1746,Dominican Republic,DOM,2000,0
+1747,Dominican Republic,DOM,2001,0
+1748,Dominican Republic,DOM,2002,0
+1749,Dominican Republic,DOM,2003,0
+1750,Dominican Republic,DOM,2004,0
+1751,Dominican Republic,DOM,2005,0
+1752,Dominican Republic,DOM,2006,0
+1753,Dominican Republic,DOM,2007,0
+1754,Dominican Republic,DOM,2008,0
+1755,Dominican Republic,DOM,2009,0
+1756,Dominican Republic,DOM,2010,0
+1757,Dominican Republic,DOM,2011,0
+1758,Dominican Republic,DOM,2012,0
+1759,Dominican Republic,DOM,2013,0
+1760,Dominican Republic,DOM,2014,0
+1761,Dominican Republic,DOM,2015,0
+1762,Dominican Republic,DOM,2016,0
+1763,Dominican Republic,DOM,2017,0
+1764,Dominican Republic,DOM,2018,0
+1765,Dominican Republic,DOM,2019,0
+1766,Dominican Republic,DOM,2020,0
+1767,Dominican Republic,DOM,2021,0
+1768,Dominican Republic,DOM,2022,0
+1769,East Germany,OWID_GDR,1989,0
+1770,East Germany,OWID_GDR,1990,0
+1771,East Germany,OWID_GDR,1991,0
+1772,East Germany,OWID_GDR,1992,0
+1773,East Germany,OWID_GDR,1993,0
+1774,East Germany,OWID_GDR,1994,0
+1775,East Germany,OWID_GDR,1995,0
+1776,East Germany,OWID_GDR,1996,0
+1777,East Germany,OWID_GDR,1997,0
+1778,East Germany,OWID_GDR,1998,0
+1779,East Germany,OWID_GDR,1999,0
+1780,East Germany,OWID_GDR,2000,0
+1781,East Germany,OWID_GDR,2001,0
+1782,East Germany,OWID_GDR,2002,0
+1783,East Germany,OWID_GDR,2003,0
+1784,East Germany,OWID_GDR,2004,0
+1785,East Germany,OWID_GDR,2005,0
+1786,East Germany,OWID_GDR,2006,0
+1787,East Germany,OWID_GDR,2007,0
+1788,East Germany,OWID_GDR,2008,0
+1789,East Germany,OWID_GDR,2009,0
+1790,East Germany,OWID_GDR,2010,0
+1791,East Germany,OWID_GDR,2011,0
+1792,East Germany,OWID_GDR,2012,0
+1793,East Germany,OWID_GDR,2013,0
+1794,East Germany,OWID_GDR,2014,0
+1795,East Germany,OWID_GDR,2015,0
+1796,East Germany,OWID_GDR,2016,0
+1797,East Germany,OWID_GDR,2017,0
+1798,East Germany,OWID_GDR,2018,0
+1799,East Germany,OWID_GDR,2019,0
+1800,East Germany,OWID_GDR,2020,0
+1801,East Germany,OWID_GDR,2021,0
+1802,East Germany,OWID_GDR,2022,0
+1803,East Timor,TLS,1989,0
+1804,East Timor,TLS,1990,8
+1805,East Timor,TLS,1991,294
+1806,East Timor,TLS,1992,39
+1807,East Timor,TLS,1993,0
+1808,East Timor,TLS,1994,0
+1809,East Timor,TLS,1995,27
+1810,East Timor,TLS,1996,0
+1811,East Timor,TLS,1997,80
+1812,East Timor,TLS,1998,72
+1813,East Timor,TLS,1999,775
+1814,East Timor,TLS,2000,0
+1815,East Timor,TLS,2001,0
+1816,East Timor,TLS,2002,0
+1817,East Timor,TLS,2003,0
+1818,East Timor,TLS,2004,0
+1819,East Timor,TLS,2005,0
+1820,East Timor,TLS,2006,0
+1821,East Timor,TLS,2007,0
+1822,East Timor,TLS,2008,0
+1823,East Timor,TLS,2009,0
+1824,East Timor,TLS,2010,0
+1825,East Timor,TLS,2011,0
+1826,East Timor,TLS,2012,0
+1827,East Timor,TLS,2013,0
+1828,East Timor,TLS,2014,0
+1829,East Timor,TLS,2015,0
+1830,East Timor,TLS,2016,0
+1831,East Timor,TLS,2017,0
+1832,East Timor,TLS,2018,0
+1833,East Timor,TLS,2019,0
+1834,East Timor,TLS,2020,0
+1835,East Timor,TLS,2021,0
+1836,East Timor,TLS,2022,0
+1837,Ecuador,ECU,1989,0
+1838,Ecuador,ECU,1990,0
+1839,Ecuador,ECU,1991,0
+1840,Ecuador,ECU,1992,0
+1841,Ecuador,ECU,1993,0
+1842,Ecuador,ECU,1994,0
+1843,Ecuador,ECU,1995,11
+1844,Ecuador,ECU,1996,0
+1845,Ecuador,ECU,1997,0
+1846,Ecuador,ECU,1998,0
+1847,Ecuador,ECU,1999,0
+1848,Ecuador,ECU,2000,0
+1849,Ecuador,ECU,2001,4
+1850,Ecuador,ECU,2002,0
+1851,Ecuador,ECU,2003,26
+1852,Ecuador,ECU,2004,15
+1853,Ecuador,ECU,2005,0
+1854,Ecuador,ECU,2006,0
+1855,Ecuador,ECU,2007,0
+1856,Ecuador,ECU,2008,25
+1857,Ecuador,ECU,2009,0
+1858,Ecuador,ECU,2010,9
+1859,Ecuador,ECU,2011,0
+1860,Ecuador,ECU,2012,0
+1861,Ecuador,ECU,2013,0
+1862,Ecuador,ECU,2014,0
+1863,Ecuador,ECU,2015,0
+1864,Ecuador,ECU,2016,0
+1865,Ecuador,ECU,2017,0
+1866,Ecuador,ECU,2018,0
+1867,Ecuador,ECU,2019,2
+1868,Ecuador,ECU,2020,0
+1869,Ecuador,ECU,2021,291
+1870,Ecuador,ECU,2022,91
+1871,Egypt,EGY,1989,0
+1872,Egypt,EGY,1990,0
+1873,Egypt,EGY,1991,0
+1874,Egypt,EGY,1992,0
+1875,Egypt,EGY,1993,103
+1876,Egypt,EGY,1994,145
+1877,Egypt,EGY,1995,227
+1878,Egypt,EGY,1996,149
+1879,Egypt,EGY,1997,143
+1880,Egypt,EGY,1998,27
+1881,Egypt,EGY,1999,0
+1882,Egypt,EGY,2000,0
+1883,Egypt,EGY,2001,0
+1884,Egypt,EGY,2002,0
+1885,Egypt,EGY,2003,0
+1886,Egypt,EGY,2004,2
+1887,Egypt,EGY,2005,124
+1888,Egypt,EGY,2006,0
+1889,Egypt,EGY,2007,0
+1890,Egypt,EGY,2008,0
+1891,Egypt,EGY,2009,0
+1892,Egypt,EGY,2010,0
+1893,Egypt,EGY,2011,31
+1894,Egypt,EGY,2012,74
+1895,Egypt,EGY,2013,119
+1896,Egypt,EGY,2014,178
+1897,Egypt,EGY,2015,861
+1898,Egypt,EGY,2016,387
+1899,Egypt,EGY,2017,855
+1900,Egypt,EGY,2018,684
+1901,Egypt,EGY,2019,633
+1902,Egypt,EGY,2020,498
+1903,Egypt,EGY,2021,87
+1904,Egypt,EGY,2022,157
+1905,El Salvador,SLV,1989,4924
+1906,El Salvador,SLV,1990,849
+1907,El Salvador,SLV,1991,88
+1908,El Salvador,SLV,1992,0
+1909,El Salvador,SLV,1993,0
+1910,El Salvador,SLV,1994,0
+1911,El Salvador,SLV,1995,0
+1912,El Salvador,SLV,1996,0
+1913,El Salvador,SLV,1997,0
+1914,El Salvador,SLV,1998,0
+1915,El Salvador,SLV,1999,0
+1916,El Salvador,SLV,2000,0
+1917,El Salvador,SLV,2001,0
+1918,El Salvador,SLV,2002,0
+1919,El Salvador,SLV,2003,0
+1920,El Salvador,SLV,2004,34
+1921,El Salvador,SLV,2005,0
+1922,El Salvador,SLV,2006,0
+1923,El Salvador,SLV,2007,0
+1924,El Salvador,SLV,2008,0
+1925,El Salvador,SLV,2009,0
+1926,El Salvador,SLV,2010,0
+1927,El Salvador,SLV,2011,0
+1928,El Salvador,SLV,2012,0
+1929,El Salvador,SLV,2013,0
+1930,El Salvador,SLV,2014,0
+1931,El Salvador,SLV,2015,0
+1932,El Salvador,SLV,2016,0
+1933,El Salvador,SLV,2017,0
+1934,El Salvador,SLV,2018,0
+1935,El Salvador,SLV,2019,0
+1936,El Salvador,SLV,2020,0
+1937,El Salvador,SLV,2021,0
+1938,El Salvador,SLV,2022,88
+1939,Equatorial Guinea,GNQ,1989,0
+1940,Equatorial Guinea,GNQ,1990,0
+1941,Equatorial Guinea,GNQ,1991,0
+1942,Equatorial Guinea,GNQ,1992,0
+1943,Equatorial Guinea,GNQ,1993,0
+1944,Equatorial Guinea,GNQ,1994,0
+1945,Equatorial Guinea,GNQ,1995,0
+1946,Equatorial Guinea,GNQ,1996,0
+1947,Equatorial Guinea,GNQ,1997,0
+1948,Equatorial Guinea,GNQ,1998,0
+1949,Equatorial Guinea,GNQ,1999,0
+1950,Equatorial Guinea,GNQ,2000,0
+1951,Equatorial Guinea,GNQ,2001,0
+1952,Equatorial Guinea,GNQ,2002,0
+1953,Equatorial Guinea,GNQ,2003,0
+1954,Equatorial Guinea,GNQ,2004,0
+1955,Equatorial Guinea,GNQ,2005,0
+1956,Equatorial Guinea,GNQ,2006,0
+1957,Equatorial Guinea,GNQ,2007,0
+1958,Equatorial Guinea,GNQ,2008,0
+1959,Equatorial Guinea,GNQ,2009,0
+1960,Equatorial Guinea,GNQ,2010,0
+1961,Equatorial Guinea,GNQ,2011,0
+1962,Equatorial Guinea,GNQ,2012,0
+1963,Equatorial Guinea,GNQ,2013,0
+1964,Equatorial Guinea,GNQ,2014,0
+1965,Equatorial Guinea,GNQ,2015,0
+1966,Equatorial Guinea,GNQ,2016,0
+1967,Equatorial Guinea,GNQ,2017,0
+1968,Equatorial Guinea,GNQ,2018,0
+1969,Equatorial Guinea,GNQ,2019,0
+1970,Equatorial Guinea,GNQ,2020,0
+1971,Equatorial Guinea,GNQ,2021,0
+1972,Equatorial Guinea,GNQ,2022,0
+1973,Eritrea,ERI,1989,6602
+1974,Eritrea,ERI,1990,30702
+1975,Eritrea,ERI,1991,6042
+1976,Eritrea,ERI,1992,0
+1977,Eritrea,ERI,1993,0
+1978,Eritrea,ERI,1994,0
+1979,Eritrea,ERI,1995,0
+1980,Eritrea,ERI,1996,50
+1981,Eritrea,ERI,1997,31
+1982,Eritrea,ERI,1998,842
+1983,Eritrea,ERI,1999,45203
+1984,Eritrea,ERI,2000,50000
+1985,Eritrea,ERI,2001,0
+1986,Eritrea,ERI,2002,0
+1987,Eritrea,ERI,2003,57
+1988,Eritrea,ERI,2004,0
+1989,Eritrea,ERI,2005,0
+1990,Eritrea,ERI,2006,0
+1991,Eritrea,ERI,2007,0
+1992,Eritrea,ERI,2008,33
+1993,Eritrea,ERI,2009,0
+1994,Eritrea,ERI,2010,0
+1995,Eritrea,ERI,2011,0
+1996,Eritrea,ERI,2012,0
+1997,Eritrea,ERI,2013,0
+1998,Eritrea,ERI,2014,0
+1999,Eritrea,ERI,2015,0
+2000,Eritrea,ERI,2016,0
+2001,Eritrea,ERI,2017,0
+2002,Eritrea,ERI,2018,0
+2003,Eritrea,ERI,2019,0
+2004,Eritrea,ERI,2020,67
+2005,Eritrea,ERI,2021,80
+2006,Eritrea,ERI,2022,40
+2007,Estonia,EST,1989,0
+2008,Estonia,EST,1990,0
+2009,Estonia,EST,1991,0
+2010,Estonia,EST,1992,0
+2011,Estonia,EST,1993,0
+2012,Estonia,EST,1994,0
+2013,Estonia,EST,1995,0
+2014,Estonia,EST,1996,0
+2015,Estonia,EST,1997,0
+2016,Estonia,EST,1998,0
+2017,Estonia,EST,1999,0
+2018,Estonia,EST,2000,0
+2019,Estonia,EST,2001,0
+2020,Estonia,EST,2002,0
+2021,Estonia,EST,2003,0
+2022,Estonia,EST,2004,0
+2023,Estonia,EST,2005,0
+2024,Estonia,EST,2006,0
+2025,Estonia,EST,2007,0
+2026,Estonia,EST,2008,0
+2027,Estonia,EST,2009,0
+2028,Estonia,EST,2010,0
+2029,Estonia,EST,2011,0
+2030,Estonia,EST,2012,0
+2031,Estonia,EST,2013,0
+2032,Estonia,EST,2014,0
+2033,Estonia,EST,2015,0
+2034,Estonia,EST,2016,0
+2035,Estonia,EST,2017,0
+2036,Estonia,EST,2018,0
+2037,Estonia,EST,2019,0
+2038,Estonia,EST,2020,0
+2039,Estonia,EST,2021,0
+2040,Estonia,EST,2022,0
+2041,Eswatini,SWZ,1989,2
+2042,Eswatini,SWZ,1990,0
+2043,Eswatini,SWZ,1991,0
+2044,Eswatini,SWZ,1992,0
+2045,Eswatini,SWZ,1993,0
+2046,Eswatini,SWZ,1994,0
+2047,Eswatini,SWZ,1995,0
+2048,Eswatini,SWZ,1996,0
+2049,Eswatini,SWZ,1997,0
+2050,Eswatini,SWZ,1998,0
+2051,Eswatini,SWZ,1999,0
+2052,Eswatini,SWZ,2000,0
+2053,Eswatini,SWZ,2001,0
+2054,Eswatini,SWZ,2002,0
+2055,Eswatini,SWZ,2003,0
+2056,Eswatini,SWZ,2004,0
+2057,Eswatini,SWZ,2005,0
+2058,Eswatini,SWZ,2006,0
+2059,Eswatini,SWZ,2007,0
+2060,Eswatini,SWZ,2008,0
+2061,Eswatini,SWZ,2009,0
+2062,Eswatini,SWZ,2010,0
+2063,Eswatini,SWZ,2011,0
+2064,Eswatini,SWZ,2012,0
+2065,Eswatini,SWZ,2013,0
+2066,Eswatini,SWZ,2014,0
+2067,Eswatini,SWZ,2015,0
+2068,Eswatini,SWZ,2016,0
+2069,Eswatini,SWZ,2017,0
+2070,Eswatini,SWZ,2018,0
+2071,Eswatini,SWZ,2019,0
+2072,Eswatini,SWZ,2020,0
+2073,Eswatini,SWZ,2021,48
+2074,Eswatini,SWZ,2022,0
+2075,Ethiopia,ETH,1989,18769
+2076,Ethiopia,ETH,1990,19191
+2077,Ethiopia,ETH,1991,6388
+2078,Ethiopia,ETH,1992,1014
+2079,Ethiopia,ETH,1993,124
+2080,Ethiopia,ETH,1994,75
+2081,Ethiopia,ETH,1995,1029
+2082,Ethiopia,ETH,1996,52
+2083,Ethiopia,ETH,1997,2
+2084,Ethiopia,ETH,1998,1123
+2085,Ethiopia,ETH,1999,2786
+2086,Ethiopia,ETH,2000,442
+2087,Ethiopia,ETH,2001,370
+2088,Ethiopia,ETH,2002,801
+2089,Ethiopia,ETH,2003,1064
+2090,Ethiopia,ETH,2004,462
+2091,Ethiopia,ETH,2005,247
+2092,Ethiopia,ETH,2006,597
+2093,Ethiopia,ETH,2007,471
+2094,Ethiopia,ETH,2008,275
+2095,Ethiopia,ETH,2009,834
+2096,Ethiopia,ETH,2010,31
+2097,Ethiopia,ETH,2011,57
+2098,Ethiopia,ETH,2012,391
+2099,Ethiopia,ETH,2013,274
+2100,Ethiopia,ETH,2014,26
+2101,Ethiopia,ETH,2015,318
+2102,Ethiopia,ETH,2016,570
+2103,Ethiopia,ETH,2017,450
+2104,Ethiopia,ETH,2018,672
+2105,Ethiopia,ETH,2019,412
+2106,Ethiopia,ETH,2020,4819
+2107,Ethiopia,ETH,2021,13532
+2108,Ethiopia,ETH,2022,102860
+2109,Fiji,FJI,1989,0
+2110,Fiji,FJI,1990,0
+2111,Fiji,FJI,1991,0
+2112,Fiji,FJI,1992,0
+2113,Fiji,FJI,1993,0
+2114,Fiji,FJI,1994,0
+2115,Fiji,FJI,1995,0
+2116,Fiji,FJI,1996,0
+2117,Fiji,FJI,1997,0
+2118,Fiji,FJI,1998,0
+2119,Fiji,FJI,1999,0
+2120,Fiji,FJI,2000,0
+2121,Fiji,FJI,2001,0
+2122,Fiji,FJI,2002,0
+2123,Fiji,FJI,2003,0
+2124,Fiji,FJI,2004,0
+2125,Fiji,FJI,2005,0
+2126,Fiji,FJI,2006,0
+2127,Fiji,FJI,2007,0
+2128,Fiji,FJI,2008,0
+2129,Fiji,FJI,2009,0
+2130,Fiji,FJI,2010,0
+2131,Fiji,FJI,2011,0
+2132,Fiji,FJI,2012,0
+2133,Fiji,FJI,2013,0
+2134,Fiji,FJI,2014,0
+2135,Fiji,FJI,2015,0
+2136,Fiji,FJI,2016,0
+2137,Fiji,FJI,2017,0
+2138,Fiji,FJI,2018,0
+2139,Fiji,FJI,2019,0
+2140,Fiji,FJI,2020,0
+2141,Fiji,FJI,2021,0
+2142,Fiji,FJI,2022,0
+2143,Finland,FIN,1989,0
+2144,Finland,FIN,1990,0
+2145,Finland,FIN,1991,0
+2146,Finland,FIN,1992,0
+2147,Finland,FIN,1993,0
+2148,Finland,FIN,1994,0
+2149,Finland,FIN,1995,0
+2150,Finland,FIN,1996,0
+2151,Finland,FIN,1997,0
+2152,Finland,FIN,1998,0
+2153,Finland,FIN,1999,0
+2154,Finland,FIN,2000,0
+2155,Finland,FIN,2001,0
+2156,Finland,FIN,2002,0
+2157,Finland,FIN,2003,0
+2158,Finland,FIN,2004,0
+2159,Finland,FIN,2005,0
+2160,Finland,FIN,2006,0
+2161,Finland,FIN,2007,0
+2162,Finland,FIN,2008,0
+2163,Finland,FIN,2009,0
+2164,Finland,FIN,2010,0
+2165,Finland,FIN,2011,0
+2166,Finland,FIN,2012,0
+2167,Finland,FIN,2013,0
+2168,Finland,FIN,2014,0
+2169,Finland,FIN,2015,0
+2170,Finland,FIN,2016,0
+2171,Finland,FIN,2017,0
+2172,Finland,FIN,2018,0
+2173,Finland,FIN,2019,0
+2174,Finland,FIN,2020,0
+2175,Finland,FIN,2021,0
+2176,Finland,FIN,2022,0
+2177,France,FRA,1989,0
+2178,France,FRA,1990,0
+2179,France,FRA,1991,0
+2180,France,FRA,1992,0
+2181,France,FRA,1993,0
+2182,France,FRA,1994,0
+2183,France,FRA,1995,0
+2184,France,FRA,1996,0
+2185,France,FRA,1997,0
+2186,France,FRA,1998,0
+2187,France,FRA,1999,0
+2188,France,FRA,2000,0
+2189,France,FRA,2001,0
+2190,France,FRA,2002,0
+2191,France,FRA,2003,0
+2192,France,FRA,2004,0
+2193,France,FRA,2005,0
+2194,France,FRA,2006,0
+2195,France,FRA,2007,0
+2196,France,FRA,2008,0
+2197,France,FRA,2009,0
+2198,France,FRA,2010,0
+2199,France,FRA,2011,0
+2200,France,FRA,2012,0
+2201,France,FRA,2013,0
+2202,France,FRA,2014,0
+2203,France,FRA,2015,133
+2204,France,FRA,2016,87
+2205,France,FRA,2017,2
+2206,France,FRA,2018,13
+2207,France,FRA,2019,0
+2208,France,FRA,2020,0
+2209,France,FRA,2021,0
+2210,France,FRA,2022,0
+2211,Gabon,GAB,1989,0
+2212,Gabon,GAB,1990,0
+2213,Gabon,GAB,1991,0
+2214,Gabon,GAB,1992,0
+2215,Gabon,GAB,1993,0
+2216,Gabon,GAB,1994,0
+2217,Gabon,GAB,1995,0
+2218,Gabon,GAB,1996,0
+2219,Gabon,GAB,1997,0
+2220,Gabon,GAB,1998,0
+2221,Gabon,GAB,1999,0
+2222,Gabon,GAB,2000,0
+2223,Gabon,GAB,2001,0
+2224,Gabon,GAB,2002,0
+2225,Gabon,GAB,2003,0
+2226,Gabon,GAB,2004,0
+2227,Gabon,GAB,2005,0
+2228,Gabon,GAB,2006,0
+2229,Gabon,GAB,2007,0
+2230,Gabon,GAB,2008,0
+2231,Gabon,GAB,2009,0
+2232,Gabon,GAB,2010,0
+2233,Gabon,GAB,2011,0
+2234,Gabon,GAB,2012,0
+2235,Gabon,GAB,2013,0
+2236,Gabon,GAB,2014,0
+2237,Gabon,GAB,2015,0
+2238,Gabon,GAB,2016,0
+2239,Gabon,GAB,2017,0
+2240,Gabon,GAB,2018,0
+2241,Gabon,GAB,2019,0
+2242,Gabon,GAB,2020,0
+2243,Gabon,GAB,2021,0
+2244,Gabon,GAB,2022,0
+2245,Gambia,GMB,1989,0
+2246,Gambia,GMB,1990,0
+2247,Gambia,GMB,1991,0
+2248,Gambia,GMB,1992,0
+2249,Gambia,GMB,1993,0
+2250,Gambia,GMB,1994,0
+2251,Gambia,GMB,1995,0
+2252,Gambia,GMB,1996,0
+2253,Gambia,GMB,1997,0
+2254,Gambia,GMB,1998,0
+2255,Gambia,GMB,1999,0
+2256,Gambia,GMB,2000,0
+2257,Gambia,GMB,2001,0
+2258,Gambia,GMB,2002,0
+2259,Gambia,GMB,2003,0
+2260,Gambia,GMB,2004,0
+2261,Gambia,GMB,2005,8
+2262,Gambia,GMB,2006,0
+2263,Gambia,GMB,2007,0
+2264,Gambia,GMB,2008,0
+2265,Gambia,GMB,2009,0
+2266,Gambia,GMB,2010,0
+2267,Gambia,GMB,2011,0
+2268,Gambia,GMB,2012,0
+2269,Gambia,GMB,2013,0
+2270,Gambia,GMB,2014,0
+2271,Gambia,GMB,2015,0
+2272,Gambia,GMB,2016,0
+2273,Gambia,GMB,2017,0
+2274,Gambia,GMB,2018,0
+2275,Gambia,GMB,2019,0
+2276,Gambia,GMB,2020,0
+2277,Gambia,GMB,2021,0
+2278,Gambia,GMB,2022,0
+2279,Georgia,GEO,1989,0
+2280,Georgia,GEO,1990,0
+2281,Georgia,GEO,1991,111
+2282,Georgia,GEO,1992,771
+2283,Georgia,GEO,1993,1837
+2284,Georgia,GEO,1994,0
+2285,Georgia,GEO,1995,52
+2286,Georgia,GEO,1996,0
+2287,Georgia,GEO,1997,26
+2288,Georgia,GEO,1998,38
+2289,Georgia,GEO,1999,0
+2290,Georgia,GEO,2000,0
+2291,Georgia,GEO,2001,0
+2292,Georgia,GEO,2002,9
+2293,Georgia,GEO,2003,0
+2294,Georgia,GEO,2004,27
+2295,Georgia,GEO,2005,0
+2296,Georgia,GEO,2006,0
+2297,Georgia,GEO,2007,0
+2298,Georgia,GEO,2008,621
+2299,Georgia,GEO,2009,0
+2300,Georgia,GEO,2010,0
+2301,Georgia,GEO,2011,0
+2302,Georgia,GEO,2012,0
+2303,Georgia,GEO,2013,0
+2304,Georgia,GEO,2014,0
+2305,Georgia,GEO,2015,0
+2306,Georgia,GEO,2016,0
+2307,Georgia,GEO,2017,0
+2308,Georgia,GEO,2018,0
+2309,Georgia,GEO,2019,0
+2310,Georgia,GEO,2020,0
+2311,Georgia,GEO,2021,0
+2312,Georgia,GEO,2022,0
+2313,Germany,DEU,1989,3
+2314,Germany,DEU,1990,1
+2315,Germany,DEU,1991,0
+2316,Germany,DEU,1992,0
+2317,Germany,DEU,1993,0
+2318,Germany,DEU,1994,0
+2319,Germany,DEU,1995,0
+2320,Germany,DEU,1996,0
+2321,Germany,DEU,1997,0
+2322,Germany,DEU,1998,0
+2323,Germany,DEU,1999,0
+2324,Germany,DEU,2000,0
+2325,Germany,DEU,2001,0
+2326,Germany,DEU,2002,0
+2327,Germany,DEU,2003,0
+2328,Germany,DEU,2004,0
+2329,Germany,DEU,2005,0
+2330,Germany,DEU,2006,0
+2331,Germany,DEU,2007,0
+2332,Germany,DEU,2008,0
+2333,Germany,DEU,2009,0
+2334,Germany,DEU,2010,0
+2335,Germany,DEU,2011,0
+2336,Germany,DEU,2012,0
+2337,Germany,DEU,2013,0
+2338,Germany,DEU,2014,0
+2339,Germany,DEU,2015,0
+2340,Germany,DEU,2016,12
+2341,Germany,DEU,2017,0
+2342,Germany,DEU,2018,0
+2343,Germany,DEU,2019,0
+2344,Germany,DEU,2020,0
+2345,Germany,DEU,2021,0
+2346,Germany,DEU,2022,0
+2347,Ghana,GHA,1989,0
+2348,Ghana,GHA,1990,0
+2349,Ghana,GHA,1991,30
+2350,Ghana,GHA,1992,63
+2351,Ghana,GHA,1993,0
+2352,Ghana,GHA,1994,2004
+2353,Ghana,GHA,1995,155
+2354,Ghana,GHA,1996,0
+2355,Ghana,GHA,1997,0
+2356,Ghana,GHA,1998,0
+2357,Ghana,GHA,1999,0
+2358,Ghana,GHA,2000,30
+2359,Ghana,GHA,2001,50
+2360,Ghana,GHA,2002,36
+2361,Ghana,GHA,2003,0
+2362,Ghana,GHA,2004,0
+2363,Ghana,GHA,2005,0
+2364,Ghana,GHA,2006,0
+2365,Ghana,GHA,2007,0
+2366,Ghana,GHA,2008,55
+2367,Ghana,GHA,2009,0
+2368,Ghana,GHA,2010,0
+2369,Ghana,GHA,2011,0
+2370,Ghana,GHA,2012,0
+2371,Ghana,GHA,2013,0
+2372,Ghana,GHA,2014,0
+2373,Ghana,GHA,2015,0
+2374,Ghana,GHA,2016,0
+2375,Ghana,GHA,2017,0
+2376,Ghana,GHA,2018,0
+2377,Ghana,GHA,2019,0
+2378,Ghana,GHA,2020,0
+2379,Ghana,GHA,2021,0
+2380,Ghana,GHA,2022,0
+2381,Greece,GRC,1989,0
+2382,Greece,GRC,1990,0
+2383,Greece,GRC,1991,0
+2384,Greece,GRC,1992,0
+2385,Greece,GRC,1993,0
+2386,Greece,GRC,1994,0
+2387,Greece,GRC,1995,0
+2388,Greece,GRC,1996,0
+2389,Greece,GRC,1997,0
+2390,Greece,GRC,1998,0
+2391,Greece,GRC,1999,0
+2392,Greece,GRC,2000,0
+2393,Greece,GRC,2001,0
+2394,Greece,GRC,2002,0
+2395,Greece,GRC,2003,0
+2396,Greece,GRC,2004,0
+2397,Greece,GRC,2005,0
+2398,Greece,GRC,2006,0
+2399,Greece,GRC,2007,0
+2400,Greece,GRC,2008,0
+2401,Greece,GRC,2009,0
+2402,Greece,GRC,2010,0
+2403,Greece,GRC,2011,0
+2404,Greece,GRC,2012,0
+2405,Greece,GRC,2013,0
+2406,Greece,GRC,2014,0
+2407,Greece,GRC,2015,0
+2408,Greece,GRC,2016,0
+2409,Greece,GRC,2017,0
+2410,Greece,GRC,2018,0
+2411,Greece,GRC,2019,0
+2412,Greece,GRC,2020,0
+2413,Greece,GRC,2021,0
+2414,Greece,GRC,2022,0
+2415,Greenland,GRL,1989,0
+2416,Greenland,GRL,1990,0
+2417,Greenland,GRL,1991,0
+2418,Greenland,GRL,1992,0
+2419,Greenland,GRL,1993,0
+2420,Greenland,GRL,1994,0
+2421,Greenland,GRL,1995,0
+2422,Greenland,GRL,1996,0
+2423,Greenland,GRL,1997,0
+2424,Greenland,GRL,1998,0
+2425,Greenland,GRL,1999,0
+2426,Greenland,GRL,2000,0
+2427,Greenland,GRL,2001,0
+2428,Greenland,GRL,2002,0
+2429,Greenland,GRL,2003,0
+2430,Greenland,GRL,2004,0
+2431,Greenland,GRL,2005,0
+2432,Greenland,GRL,2006,0
+2433,Greenland,GRL,2007,0
+2434,Greenland,GRL,2008,0
+2435,Greenland,GRL,2009,0
+2436,Greenland,GRL,2010,0
+2437,Greenland,GRL,2011,0
+2438,Greenland,GRL,2012,0
+2439,Greenland,GRL,2013,0
+2440,Greenland,GRL,2014,0
+2441,Greenland,GRL,2015,0
+2442,Greenland,GRL,2016,0
+2443,Greenland,GRL,2017,0
+2444,Greenland,GRL,2018,0
+2445,Greenland,GRL,2019,0
+2446,Greenland,GRL,2020,0
+2447,Greenland,GRL,2021,0
+2448,Greenland,GRL,2022,0
+2449,Grenada,GRD,1989,0
+2450,Grenada,GRD,1990,0
+2451,Grenada,GRD,1991,0
+2452,Grenada,GRD,1992,0
+2453,Grenada,GRD,1993,0
+2454,Grenada,GRD,1994,0
+2455,Grenada,GRD,1995,0
+2456,Grenada,GRD,1996,0
+2457,Grenada,GRD,1997,0
+2458,Grenada,GRD,1998,0
+2459,Grenada,GRD,1999,0
+2460,Grenada,GRD,2000,0
+2461,Grenada,GRD,2001,0
+2462,Grenada,GRD,2002,0
+2463,Grenada,GRD,2003,0
+2464,Grenada,GRD,2004,0
+2465,Grenada,GRD,2005,0
+2466,Grenada,GRD,2006,0
+2467,Grenada,GRD,2007,0
+2468,Grenada,GRD,2008,0
+2469,Grenada,GRD,2009,0
+2470,Grenada,GRD,2010,0
+2471,Grenada,GRD,2011,0
+2472,Grenada,GRD,2012,0
+2473,Grenada,GRD,2013,0
+2474,Grenada,GRD,2014,0
+2475,Grenada,GRD,2015,0
+2476,Grenada,GRD,2016,0
+2477,Grenada,GRD,2017,0
+2478,Grenada,GRD,2018,0
+2479,Grenada,GRD,2019,0
+2480,Grenada,GRD,2020,0
+2481,Grenada,GRD,2021,0
+2482,Grenada,GRD,2022,0
+2483,Guatemala,GTM,1989,489
+2484,Guatemala,GTM,1990,671
+2485,Guatemala,GTM,1991,425
+2486,Guatemala,GTM,1992,393
+2487,Guatemala,GTM,1993,218
+2488,Guatemala,GTM,1994,287
+2489,Guatemala,GTM,1995,122
+2490,Guatemala,GTM,1996,0
+2491,Guatemala,GTM,1997,0
+2492,Guatemala,GTM,1998,0
+2493,Guatemala,GTM,1999,0
+2494,Guatemala,GTM,2000,0
+2495,Guatemala,GTM,2001,0
+2496,Guatemala,GTM,2002,0
+2497,Guatemala,GTM,2003,0
+2498,Guatemala,GTM,2004,0
+2499,Guatemala,GTM,2005,56
+2500,Guatemala,GTM,2006,0
+2501,Guatemala,GTM,2007,0
+2502,Guatemala,GTM,2008,28
+2503,Guatemala,GTM,2009,0
+2504,Guatemala,GTM,2010,0
+2505,Guatemala,GTM,2011,27
+2506,Guatemala,GTM,2012,0
+2507,Guatemala,GTM,2013,0
+2508,Guatemala,GTM,2014,0
+2509,Guatemala,GTM,2015,0
+2510,Guatemala,GTM,2016,0
+2511,Guatemala,GTM,2017,0
+2512,Guatemala,GTM,2018,0
+2513,Guatemala,GTM,2019,5
+2514,Guatemala,GTM,2020,0
+2515,Guatemala,GTM,2021,0
+2516,Guatemala,GTM,2022,0
+2517,Guinea,GIN,1989,0
+2518,Guinea,GIN,1990,0
+2519,Guinea,GIN,1991,0
+2520,Guinea,GIN,1992,0
+2521,Guinea,GIN,1993,87
+2522,Guinea,GIN,1994,0
+2523,Guinea,GIN,1995,0
+2524,Guinea,GIN,1996,27
+2525,Guinea,GIN,1997,0
+2526,Guinea,GIN,1998,44
+2527,Guinea,GIN,1999,7
+2528,Guinea,GIN,2000,273
+2529,Guinea,GIN,2001,430
+2530,Guinea,GIN,2002,0
+2531,Guinea,GIN,2003,0
+2532,Guinea,GIN,2004,0
+2533,Guinea,GIN,2005,0
+2534,Guinea,GIN,2006,0
+2535,Guinea,GIN,2007,45
+2536,Guinea,GIN,2008,0
+2537,Guinea,GIN,2009,160
+2538,Guinea,GIN,2010,0
+2539,Guinea,GIN,2011,25
+2540,Guinea,GIN,2012,0
+2541,Guinea,GIN,2013,98
+2542,Guinea,GIN,2014,0
+2543,Guinea,GIN,2015,0
+2544,Guinea,GIN,2016,0
+2545,Guinea,GIN,2017,0
+2546,Guinea,GIN,2018,0
+2547,Guinea,GIN,2019,0
+2548,Guinea,GIN,2020,30
+2549,Guinea,GIN,2021,0
+2550,Guinea,GIN,2022,0
+2551,Guinea-Bissau,GNB,1989,0
+2552,Guinea-Bissau,GNB,1990,0
+2553,Guinea-Bissau,GNB,1991,0
+2554,Guinea-Bissau,GNB,1992,2
+2555,Guinea-Bissau,GNB,1993,0
+2556,Guinea-Bissau,GNB,1994,0
+2557,Guinea-Bissau,GNB,1995,0
+2558,Guinea-Bissau,GNB,1996,0
+2559,Guinea-Bissau,GNB,1997,0
+2560,Guinea-Bissau,GNB,1998,505
+2561,Guinea-Bissau,GNB,1999,199
+2562,Guinea-Bissau,GNB,2000,0
+2563,Guinea-Bissau,GNB,2001,0
+2564,Guinea-Bissau,GNB,2002,0
+2565,Guinea-Bissau,GNB,2003,0
+2566,Guinea-Bissau,GNB,2004,0
+2567,Guinea-Bissau,GNB,2005,0
+2568,Guinea-Bissau,GNB,2006,0
+2569,Guinea-Bissau,GNB,2007,0
+2570,Guinea-Bissau,GNB,2008,0
+2571,Guinea-Bissau,GNB,2009,0
+2572,Guinea-Bissau,GNB,2010,0
+2573,Guinea-Bissau,GNB,2011,0
+2574,Guinea-Bissau,GNB,2012,0
+2575,Guinea-Bissau,GNB,2013,0
+2576,Guinea-Bissau,GNB,2014,0
+2577,Guinea-Bissau,GNB,2015,0
+2578,Guinea-Bissau,GNB,2016,0
+2579,Guinea-Bissau,GNB,2017,0
+2580,Guinea-Bissau,GNB,2018,0
+2581,Guinea-Bissau,GNB,2019,0
+2582,Guinea-Bissau,GNB,2020,0
+2583,Guinea-Bissau,GNB,2021,0
+2584,Guinea-Bissau,GNB,2022,0
+2585,Guyana,GUY,1989,0
+2586,Guyana,GUY,1990,0
+2587,Guyana,GUY,1991,0
+2588,Guyana,GUY,1992,0
+2589,Guyana,GUY,1993,0
+2590,Guyana,GUY,1994,0
+2591,Guyana,GUY,1995,0
+2592,Guyana,GUY,1996,0
+2593,Guyana,GUY,1997,0
+2594,Guyana,GUY,1998,0
+2595,Guyana,GUY,1999,0
+2596,Guyana,GUY,2000,0
+2597,Guyana,GUY,2001,0
+2598,Guyana,GUY,2002,0
+2599,Guyana,GUY,2003,0
+2600,Guyana,GUY,2004,0
+2601,Guyana,GUY,2005,0
+2602,Guyana,GUY,2006,0
+2603,Guyana,GUY,2007,0
+2604,Guyana,GUY,2008,29
+2605,Guyana,GUY,2009,0
+2606,Guyana,GUY,2010,0
+2607,Guyana,GUY,2011,0
+2608,Guyana,GUY,2012,0
+2609,Guyana,GUY,2013,0
+2610,Guyana,GUY,2014,0
+2611,Guyana,GUY,2015,0
+2612,Guyana,GUY,2016,0
+2613,Guyana,GUY,2017,0
+2614,Guyana,GUY,2018,0
+2615,Guyana,GUY,2019,0
+2616,Guyana,GUY,2020,0
+2617,Guyana,GUY,2021,0
+2618,Guyana,GUY,2022,0
+2619,Haiti,HTI,1989,48
+2620,Haiti,HTI,1990,0
+2621,Haiti,HTI,1991,270
+2622,Haiti,HTI,1992,0
+2623,Haiti,HTI,1993,37
+2624,Haiti,HTI,1994,44
+2625,Haiti,HTI,1995,0
+2626,Haiti,HTI,1996,0
+2627,Haiti,HTI,1997,0
+2628,Haiti,HTI,1998,0
+2629,Haiti,HTI,1999,0
+2630,Haiti,HTI,2000,0
+2631,Haiti,HTI,2001,0
+2632,Haiti,HTI,2002,0
+2633,Haiti,HTI,2003,0
+2634,Haiti,HTI,2004,207
+2635,Haiti,HTI,2005,40
+2636,Haiti,HTI,2006,0
+2637,Haiti,HTI,2007,0
+2638,Haiti,HTI,2008,0
+2639,Haiti,HTI,2009,0
+2640,Haiti,HTI,2010,0
+2641,Haiti,HTI,2011,0
+2642,Haiti,HTI,2012,0
+2643,Haiti,HTI,2013,0
+2644,Haiti,HTI,2014,0
+2645,Haiti,HTI,2015,0
+2646,Haiti,HTI,2016,0
+2647,Haiti,HTI,2017,0
+2648,Haiti,HTI,2018,71
+2649,Haiti,HTI,2019,0
+2650,Haiti,HTI,2020,162
+2651,Haiti,HTI,2021,121
+2652,Haiti,HTI,2022,235
+2653,Honduras,HND,1989,0
+2654,Honduras,HND,1990,0
+2655,Honduras,HND,1991,0
+2656,Honduras,HND,1992,0
+2657,Honduras,HND,1993,0
+2658,Honduras,HND,1994,0
+2659,Honduras,HND,1995,0
+2660,Honduras,HND,1996,0
+2661,Honduras,HND,1997,0
+2662,Honduras,HND,1998,0
+2663,Honduras,HND,1999,0
+2664,Honduras,HND,2000,0
+2665,Honduras,HND,2001,0
+2666,Honduras,HND,2002,0
+2667,Honduras,HND,2003,0
+2668,Honduras,HND,2004,28
+2669,Honduras,HND,2005,0
+2670,Honduras,HND,2006,0
+2671,Honduras,HND,2007,0
+2672,Honduras,HND,2008,27
+2673,Honduras,HND,2009,0
+2674,Honduras,HND,2010,58
+2675,Honduras,HND,2011,0
+2676,Honduras,HND,2012,0
+2677,Honduras,HND,2013,0
+2678,Honduras,HND,2014,0
+2679,Honduras,HND,2015,0
+2680,Honduras,HND,2016,0
+2681,Honduras,HND,2017,0
+2682,Honduras,HND,2018,0
+2683,Honduras,HND,2019,36
+2684,Honduras,HND,2020,0
+2685,Honduras,HND,2021,0
+2686,Honduras,HND,2022,0
+2687,Hungary,HUN,1989,0
+2688,Hungary,HUN,1990,0
+2689,Hungary,HUN,1991,0
+2690,Hungary,HUN,1992,0
+2691,Hungary,HUN,1993,0
+2692,Hungary,HUN,1994,0
+2693,Hungary,HUN,1995,0
+2694,Hungary,HUN,1996,0
+2695,Hungary,HUN,1997,0
+2696,Hungary,HUN,1998,0
+2697,Hungary,HUN,1999,0
+2698,Hungary,HUN,2000,0
+2699,Hungary,HUN,2001,0
+2700,Hungary,HUN,2002,0
+2701,Hungary,HUN,2003,0
+2702,Hungary,HUN,2004,0
+2703,Hungary,HUN,2005,0
+2704,Hungary,HUN,2006,0
+2705,Hungary,HUN,2007,0
+2706,Hungary,HUN,2008,0
+2707,Hungary,HUN,2009,0
+2708,Hungary,HUN,2010,0
+2709,Hungary,HUN,2011,0
+2710,Hungary,HUN,2012,0
+2711,Hungary,HUN,2013,0
+2712,Hungary,HUN,2014,0
+2713,Hungary,HUN,2015,0
+2714,Hungary,HUN,2016,0
+2715,Hungary,HUN,2017,0
+2716,Hungary,HUN,2018,0
+2717,Hungary,HUN,2019,0
+2718,Hungary,HUN,2020,0
+2719,Hungary,HUN,2021,0
+2720,Hungary,HUN,2022,0
+2721,Iceland,ISL,1989,0
+2722,Iceland,ISL,1990,0
+2723,Iceland,ISL,1991,0
+2724,Iceland,ISL,1992,0
+2725,Iceland,ISL,1993,0
+2726,Iceland,ISL,1994,0
+2727,Iceland,ISL,1995,0
+2728,Iceland,ISL,1996,0
+2729,Iceland,ISL,1997,0
+2730,Iceland,ISL,1998,0
+2731,Iceland,ISL,1999,0
+2732,Iceland,ISL,2000,0
+2733,Iceland,ISL,2001,0
+2734,Iceland,ISL,2002,0
+2735,Iceland,ISL,2003,0
+2736,Iceland,ISL,2004,0
+2737,Iceland,ISL,2005,0
+2738,Iceland,ISL,2006,0
+2739,Iceland,ISL,2007,0
+2740,Iceland,ISL,2008,0
+2741,Iceland,ISL,2009,0
+2742,Iceland,ISL,2010,0
+2743,Iceland,ISL,2011,0
+2744,Iceland,ISL,2012,0
+2745,Iceland,ISL,2013,0
+2746,Iceland,ISL,2014,0
+2747,Iceland,ISL,2015,0
+2748,Iceland,ISL,2016,0
+2749,Iceland,ISL,2017,0
+2750,Iceland,ISL,2018,0
+2751,Iceland,ISL,2019,0
+2752,Iceland,ISL,2020,0
+2753,Iceland,ISL,2021,0
+2754,Iceland,ISL,2022,0
+2755,India,IND,1989,1794
+2756,India,IND,1990,4718
+2757,India,IND,1991,3681
+2758,India,IND,1992,4105
+2759,India,IND,1993,2261
+2760,India,IND,1994,1415
+2761,India,IND,1995,1021
+2762,India,IND,1996,1253
+2763,India,IND,1997,1413
+2764,India,IND,1998,1481
+2765,India,IND,1999,2431
+2766,India,IND,2000,3903
+2767,India,IND,2001,1698
+2768,India,IND,2002,2959
+2769,India,IND,2003,2223
+2770,India,IND,2004,2367
+2771,India,IND,2005,1843
+2772,India,IND,2006,2071
+2773,India,IND,2007,1583
+2774,India,IND,2008,1766
+2775,India,IND,2009,1497
+2776,India,IND,2010,1548
+2777,India,IND,2011,690
+2778,India,IND,2012,749
+2779,India,IND,2013,597
+2780,India,IND,2014,739
+2781,India,IND,2015,563
+2782,India,IND,2016,740
+2783,India,IND,2017,873
+2784,India,IND,2018,917
+2785,India,IND,2019,715
+2786,India,IND,2020,752
+2787,India,IND,2021,472
+2788,India,IND,2022,358
+2789,Indonesia,IDN,1989,0
+2790,Indonesia,IDN,1990,192
+2791,Indonesia,IDN,1991,132
+2792,Indonesia,IDN,1992,0
+2793,Indonesia,IDN,1993,0
+2794,Indonesia,IDN,1994,0
+2795,Indonesia,IDN,1995,11
+2796,Indonesia,IDN,1996,0
+2797,Indonesia,IDN,1997,361
+2798,Indonesia,IDN,1998,60
+2799,Indonesia,IDN,1999,1379
+2800,Indonesia,IDN,2000,913
+2801,Indonesia,IDN,2001,881
+2802,Indonesia,IDN,2002,731
+2803,Indonesia,IDN,2003,1054
+2804,Indonesia,IDN,2004,1061
+2805,Indonesia,IDN,2005,213
+2806,Indonesia,IDN,2006,0
+2807,Indonesia,IDN,2007,0
+2808,Indonesia,IDN,2008,0
+2809,Indonesia,IDN,2009,0
+2810,Indonesia,IDN,2010,0
+2811,Indonesia,IDN,2011,0
+2812,Indonesia,IDN,2012,0
+2813,Indonesia,IDN,2013,0
+2814,Indonesia,IDN,2014,0
+2815,Indonesia,IDN,2015,0
+2816,Indonesia,IDN,2016,0
+2817,Indonesia,IDN,2017,0
+2818,Indonesia,IDN,2018,25
+2819,Indonesia,IDN,2019,0
+2820,Indonesia,IDN,2020,0
+2821,Indonesia,IDN,2021,51
+2822,Indonesia,IDN,2022,46
+2823,Iran,IRN,1989,0
+2824,Iran,IRN,1990,31
+2825,Iran,IRN,1991,44
+2826,Iran,IRN,1992,0
+2827,Iran,IRN,1993,155
+2828,Iran,IRN,1994,0
+2829,Iran,IRN,1995,0
+2830,Iran,IRN,1996,34
+2831,Iran,IRN,1997,40
+2832,Iran,IRN,1998,0
+2833,Iran,IRN,1999,11
+2834,Iran,IRN,2000,40
+2835,Iran,IRN,2001,129
+2836,Iran,IRN,2002,25
+2837,Iran,IRN,2003,0
+2838,Iran,IRN,2004,0
+2839,Iran,IRN,2005,53
+2840,Iran,IRN,2006,57
+2841,Iran,IRN,2007,86
+2842,Iran,IRN,2008,125
+2843,Iran,IRN,2009,208
+2844,Iran,IRN,2010,77
+2845,Iran,IRN,2011,219
+2846,Iran,IRN,2012,0
+2847,Iran,IRN,2013,0
+2848,Iran,IRN,2014,0
+2849,Iran,IRN,2015,0
+2850,Iran,IRN,2016,70
+2851,Iran,IRN,2017,29
+2852,Iran,IRN,2018,163
+2853,Iran,IRN,2019,301
+2854,Iran,IRN,2020,241
+2855,Iran,IRN,2021,46
+2856,Iran,IRN,2022,360
+2857,Iraq,IRQ,1989,56
+2858,Iraq,IRQ,1990,117
+2859,Iraq,IRQ,1991,24492
+2860,Iraq,IRQ,1992,844
+2861,Iraq,IRQ,1993,431
+2862,Iraq,IRQ,1994,971
+2863,Iraq,IRQ,1995,1347
+2864,Iraq,IRQ,1996,910
+2865,Iraq,IRQ,1997,2365
+2866,Iraq,IRQ,1998,97
+2867,Iraq,IRQ,1999,311
+2868,Iraq,IRQ,2000,185
+2869,Iraq,IRQ,2001,19
+2870,Iraq,IRQ,2002,86
+2871,Iraq,IRQ,2003,7993
+2872,Iraq,IRQ,2004,4354
+2873,Iraq,IRQ,2005,3511
+2874,Iraq,IRQ,2006,4582
+2875,Iraq,IRQ,2007,4489
+2876,Iraq,IRQ,2008,2770
+2877,Iraq,IRQ,2009,1716
+2878,Iraq,IRQ,2010,1853
+2879,Iraq,IRQ,2011,1405
+2880,Iraq,IRQ,2012,1413
+2881,Iraq,IRQ,2013,3997
+2882,Iraq,IRQ,2014,16437
+2883,Iraq,IRQ,2015,11302
+2884,Iraq,IRQ,2016,11985
+2885,Iraq,IRQ,2017,11434
+2886,Iraq,IRQ,2018,1493
+2887,Iraq,IRQ,2019,935
+2888,Iraq,IRQ,2020,911
+2889,Iraq,IRQ,2021,991
+2890,Iraq,IRQ,2022,819
+2891,Ireland,IRL,1989,1
+2892,Ireland,IRL,1990,0
+2893,Ireland,IRL,1991,0
+2894,Ireland,IRL,1992,0
+2895,Ireland,IRL,1993,0
+2896,Ireland,IRL,1994,0
+2897,Ireland,IRL,1995,0
+2898,Ireland,IRL,1996,0
+2899,Ireland,IRL,1997,0
+2900,Ireland,IRL,1998,0
+2901,Ireland,IRL,1999,0
+2902,Ireland,IRL,2000,0
+2903,Ireland,IRL,2001,0
+2904,Ireland,IRL,2002,0
+2905,Ireland,IRL,2003,0
+2906,Ireland,IRL,2004,0
+2907,Ireland,IRL,2005,0
+2908,Ireland,IRL,2006,0
+2909,Ireland,IRL,2007,0
+2910,Ireland,IRL,2008,0
+2911,Ireland,IRL,2009,0
+2912,Ireland,IRL,2010,0
+2913,Ireland,IRL,2011,0
+2914,Ireland,IRL,2012,0
+2915,Ireland,IRL,2013,0
+2916,Ireland,IRL,2014,0
+2917,Ireland,IRL,2015,0
+2918,Ireland,IRL,2016,0
+2919,Ireland,IRL,2017,0
+2920,Ireland,IRL,2018,0
+2921,Ireland,IRL,2019,0
+2922,Ireland,IRL,2020,0
+2923,Ireland,IRL,2021,0
+2924,Ireland,IRL,2022,0
+2925,Israel,ISR,1989,8
+2926,Israel,ISR,1990,2
+2927,Israel,ISR,1991,7
+2928,Israel,ISR,1992,2
+2929,Israel,ISR,1993,18
+2930,Israel,ISR,1994,51
+2931,Israel,ISR,1995,26
+2932,Israel,ISR,1996,51
+2933,Israel,ISR,1997,0
+2934,Israel,ISR,1998,0
+2935,Israel,ISR,1999,0
+2936,Israel,ISR,2000,2
+2937,Israel,ISR,2001,123
+2938,Israel,ISR,2002,309
+2939,Israel,ISR,2003,141
+2940,Israel,ISR,2004,98
+2941,Israel,ISR,2005,51
+2942,Israel,ISR,2006,293
+2943,Israel,ISR,2007,18
+2944,Israel,ISR,2008,21
+2945,Israel,ISR,2009,25
+2946,Israel,ISR,2010,4
+2947,Israel,ISR,2011,3
+2948,Israel,ISR,2012,1
+2949,Israel,ISR,2013,0
+2950,Israel,ISR,2014,125
+2951,Israel,ISR,2015,4
+2952,Israel,ISR,2016,0
+2953,Israel,ISR,2017,0
+2954,Israel,ISR,2018,6
+2955,Israel,ISR,2019,2
+2956,Israel,ISR,2020,0
+2957,Israel,ISR,2021,24
+2958,Israel,ISR,2022,0
+2959,Italy,ITA,1989,0
+2960,Italy,ITA,1990,0
+2961,Italy,ITA,1991,0
+2962,Italy,ITA,1992,0
+2963,Italy,ITA,1993,0
+2964,Italy,ITA,1994,0
+2965,Italy,ITA,1995,0
+2966,Italy,ITA,1996,0
+2967,Italy,ITA,1997,0
+2968,Italy,ITA,1998,0
+2969,Italy,ITA,1999,0
+2970,Italy,ITA,2000,0
+2971,Italy,ITA,2001,0
+2972,Italy,ITA,2002,0
+2973,Italy,ITA,2003,0
+2974,Italy,ITA,2004,0
+2975,Italy,ITA,2005,0
+2976,Italy,ITA,2006,0
+2977,Italy,ITA,2007,0
+2978,Italy,ITA,2008,0
+2979,Italy,ITA,2009,0
+2980,Italy,ITA,2010,0
+2981,Italy,ITA,2011,0
+2982,Italy,ITA,2012,0
+2983,Italy,ITA,2013,0
+2984,Italy,ITA,2014,0
+2985,Italy,ITA,2015,0
+2986,Italy,ITA,2016,0
+2987,Italy,ITA,2017,0
+2988,Italy,ITA,2018,0
+2989,Italy,ITA,2019,0
+2990,Italy,ITA,2020,0
+2991,Italy,ITA,2021,0
+2992,Italy,ITA,2022,0
+2993,Jamaica,JAM,1989,0
+2994,Jamaica,JAM,1990,0
+2995,Jamaica,JAM,1991,0
+2996,Jamaica,JAM,1992,0
+2997,Jamaica,JAM,1993,0
+2998,Jamaica,JAM,1994,0
+2999,Jamaica,JAM,1995,0
+3000,Jamaica,JAM,1996,0
+3001,Jamaica,JAM,1997,0
+3002,Jamaica,JAM,1998,0
+3003,Jamaica,JAM,1999,0
+3004,Jamaica,JAM,2000,0
+3005,Jamaica,JAM,2001,116
+3006,Jamaica,JAM,2002,0
+3007,Jamaica,JAM,2003,0
+3008,Jamaica,JAM,2004,0
+3009,Jamaica,JAM,2005,0
+3010,Jamaica,JAM,2006,0
+3011,Jamaica,JAM,2007,0
+3012,Jamaica,JAM,2008,0
+3013,Jamaica,JAM,2009,0
+3014,Jamaica,JAM,2010,0
+3015,Jamaica,JAM,2011,0
+3016,Jamaica,JAM,2012,0
+3017,Jamaica,JAM,2013,0
+3018,Jamaica,JAM,2014,0
+3019,Jamaica,JAM,2015,0
+3020,Jamaica,JAM,2016,0
+3021,Jamaica,JAM,2017,0
+3022,Jamaica,JAM,2018,0
+3023,Jamaica,JAM,2019,0
+3024,Jamaica,JAM,2020,0
+3025,Jamaica,JAM,2021,0
+3026,Jamaica,JAM,2022,0
+3027,Japan,JPN,1989,0
+3028,Japan,JPN,1990,0
+3029,Japan,JPN,1991,0
+3030,Japan,JPN,1992,0
+3031,Japan,JPN,1993,0
+3032,Japan,JPN,1994,0
+3033,Japan,JPN,1995,0
+3034,Japan,JPN,1996,0
+3035,Japan,JPN,1997,0
+3036,Japan,JPN,1998,0
+3037,Japan,JPN,1999,0
+3038,Japan,JPN,2000,0
+3039,Japan,JPN,2001,0
+3040,Japan,JPN,2002,0
+3041,Japan,JPN,2003,0
+3042,Japan,JPN,2004,0
+3043,Japan,JPN,2005,0
+3044,Japan,JPN,2006,0
+3045,Japan,JPN,2007,0
+3046,Japan,JPN,2008,0
+3047,Japan,JPN,2009,0
+3048,Japan,JPN,2010,0
+3049,Japan,JPN,2011,0
+3050,Japan,JPN,2012,0
+3051,Japan,JPN,2013,0
+3052,Japan,JPN,2014,0
+3053,Japan,JPN,2015,0
+3054,Japan,JPN,2016,0
+3055,Japan,JPN,2017,0
+3056,Japan,JPN,2018,0
+3057,Japan,JPN,2019,0
+3058,Japan,JPN,2020,0
+3059,Japan,JPN,2021,0
+3060,Japan,JPN,2022,0
+3061,Jordan,JOR,1989,0
+3062,Jordan,JOR,1990,0
+3063,Jordan,JOR,1991,0
+3064,Jordan,JOR,1992,1
+3065,Jordan,JOR,1993,0
+3066,Jordan,JOR,1994,0
+3067,Jordan,JOR,1995,0
+3068,Jordan,JOR,1996,0
+3069,Jordan,JOR,1997,0
+3070,Jordan,JOR,1998,0
+3071,Jordan,JOR,1999,0
+3072,Jordan,JOR,2000,0
+3073,Jordan,JOR,2001,0
+3074,Jordan,JOR,2002,0
+3075,Jordan,JOR,2003,0
+3076,Jordan,JOR,2004,0
+3077,Jordan,JOR,2005,59
+3078,Jordan,JOR,2006,0
+3079,Jordan,JOR,2007,0
+3080,Jordan,JOR,2008,0
+3081,Jordan,JOR,2009,0
+3082,Jordan,JOR,2010,0
+3083,Jordan,JOR,2011,0
+3084,Jordan,JOR,2012,0
+3085,Jordan,JOR,2013,0
+3086,Jordan,JOR,2014,0
+3087,Jordan,JOR,2015,1
+3088,Jordan,JOR,2016,45
+3089,Jordan,JOR,2017,0
+3090,Jordan,JOR,2018,0
+3091,Jordan,JOR,2019,0
+3092,Jordan,JOR,2020,0
+3093,Jordan,JOR,2021,0
+3094,Jordan,JOR,2022,0
+3095,Kazakhstan,KAZ,1989,0
+3096,Kazakhstan,KAZ,1990,0
+3097,Kazakhstan,KAZ,1991,0
+3098,Kazakhstan,KAZ,1992,0
+3099,Kazakhstan,KAZ,1993,0
+3100,Kazakhstan,KAZ,1994,0
+3101,Kazakhstan,KAZ,1995,0
+3102,Kazakhstan,KAZ,1996,0
+3103,Kazakhstan,KAZ,1997,0
+3104,Kazakhstan,KAZ,1998,0
+3105,Kazakhstan,KAZ,1999,0
+3106,Kazakhstan,KAZ,2000,0
+3107,Kazakhstan,KAZ,2001,0
+3108,Kazakhstan,KAZ,2002,0
+3109,Kazakhstan,KAZ,2003,0
+3110,Kazakhstan,KAZ,2004,0
+3111,Kazakhstan,KAZ,2005,0
+3112,Kazakhstan,KAZ,2006,0
+3113,Kazakhstan,KAZ,2007,0
+3114,Kazakhstan,KAZ,2008,0
+3115,Kazakhstan,KAZ,2009,0
+3116,Kazakhstan,KAZ,2010,0
+3117,Kazakhstan,KAZ,2011,0
+3118,Kazakhstan,KAZ,2012,0
+3119,Kazakhstan,KAZ,2013,0
+3120,Kazakhstan,KAZ,2014,0
+3121,Kazakhstan,KAZ,2015,0
+3122,Kazakhstan,KAZ,2016,0
+3123,Kazakhstan,KAZ,2017,0
+3124,Kazakhstan,KAZ,2018,0
+3125,Kazakhstan,KAZ,2019,0
+3126,Kazakhstan,KAZ,2020,0
+3127,Kazakhstan,KAZ,2021,0
+3128,Kazakhstan,KAZ,2022,0
+3129,Kenya,KEN,1989,60
+3130,Kenya,KEN,1990,0
+3131,Kenya,KEN,1991,0
+3132,Kenya,KEN,1992,151
+3133,Kenya,KEN,1993,279
+3134,Kenya,KEN,1994,28
+3135,Kenya,KEN,1995,44
+3136,Kenya,KEN,1996,145
+3137,Kenya,KEN,1997,185
+3138,Kenya,KEN,1998,321
+3139,Kenya,KEN,1999,208
+3140,Kenya,KEN,2000,218
+3141,Kenya,KEN,2001,171
+3142,Kenya,KEN,2002,13
+3143,Kenya,KEN,2003,0
+3144,Kenya,KEN,2004,3
+3145,Kenya,KEN,2005,126
+3146,Kenya,KEN,2006,111
+3147,Kenya,KEN,2007,169
+3148,Kenya,KEN,2008,733
+3149,Kenya,KEN,2009,124
+3150,Kenya,KEN,2010,55
+3151,Kenya,KEN,2011,98
+3152,Kenya,KEN,2012,265
+3153,Kenya,KEN,2013,212
+3154,Kenya,KEN,2014,244
+3155,Kenya,KEN,2015,350
+3156,Kenya,KEN,2016,88
+3157,Kenya,KEN,2017,144
+3158,Kenya,KEN,2018,103
+3159,Kenya,KEN,2019,158
+3160,Kenya,KEN,2020,99
+3161,Kenya,KEN,2021,102
+3162,Kenya,KEN,2022,81
+3163,Kiribati,KIR,1989,0
+3164,Kiribati,KIR,1990,0
+3165,Kiribati,KIR,1991,0
+3166,Kiribati,KIR,1992,0
+3167,Kiribati,KIR,1993,0
+3168,Kiribati,KIR,1994,0
+3169,Kiribati,KIR,1995,0
+3170,Kiribati,KIR,1996,0
+3171,Kiribati,KIR,1997,0
+3172,Kiribati,KIR,1998,0
+3173,Kiribati,KIR,1999,0
+3174,Kiribati,KIR,2000,0
+3175,Kiribati,KIR,2001,0
+3176,Kiribati,KIR,2002,0
+3177,Kiribati,KIR,2003,0
+3178,Kiribati,KIR,2004,0
+3179,Kiribati,KIR,2005,0
+3180,Kiribati,KIR,2006,0
+3181,Kiribati,KIR,2007,0
+3182,Kiribati,KIR,2008,0
+3183,Kiribati,KIR,2009,0
+3184,Kiribati,KIR,2010,0
+3185,Kiribati,KIR,2011,0
+3186,Kiribati,KIR,2012,0
+3187,Kiribati,KIR,2013,0
+3188,Kiribati,KIR,2014,0
+3189,Kiribati,KIR,2015,0
+3190,Kiribati,KIR,2016,0
+3191,Kiribati,KIR,2017,0
+3192,Kiribati,KIR,2018,0
+3193,Kiribati,KIR,2019,0
+3194,Kiribati,KIR,2020,0
+3195,Kiribati,KIR,2021,0
+3196,Kiribati,KIR,2022,0
+3197,Kosovo,OWID_KOS,1989,0
+3198,Kosovo,OWID_KOS,1990,0
+3199,Kosovo,OWID_KOS,1991,0
+3200,Kosovo,OWID_KOS,1992,0
+3201,Kosovo,OWID_KOS,1993,0
+3202,Kosovo,OWID_KOS,1994,0
+3203,Kosovo,OWID_KOS,1995,0
+3204,Kosovo,OWID_KOS,1996,0
+3205,Kosovo,OWID_KOS,1997,0
+3206,Kosovo,OWID_KOS,1998,1432
+3207,Kosovo,OWID_KOS,1999,1291
+3208,Kosovo,OWID_KOS,2000,0
+3209,Kosovo,OWID_KOS,2001,6
+3210,Kosovo,OWID_KOS,2002,0
+3211,Kosovo,OWID_KOS,2003,0
+3212,Kosovo,OWID_KOS,2004,0
+3213,Kosovo,OWID_KOS,2005,0
+3214,Kosovo,OWID_KOS,2006,0
+3215,Kosovo,OWID_KOS,2007,0
+3216,Kosovo,OWID_KOS,2008,0
+3217,Kosovo,OWID_KOS,2009,0
+3218,Kosovo,OWID_KOS,2010,0
+3219,Kosovo,OWID_KOS,2011,0
+3220,Kosovo,OWID_KOS,2012,0
+3221,Kosovo,OWID_KOS,2013,0
+3222,Kosovo,OWID_KOS,2014,0
+3223,Kosovo,OWID_KOS,2015,0
+3224,Kosovo,OWID_KOS,2016,0
+3225,Kosovo,OWID_KOS,2017,0
+3226,Kosovo,OWID_KOS,2018,0
+3227,Kosovo,OWID_KOS,2019,0
+3228,Kosovo,OWID_KOS,2020,0
+3229,Kosovo,OWID_KOS,2021,0
+3230,Kosovo,OWID_KOS,2022,0
+3231,Kuwait,KWT,1989,0
+3232,Kuwait,KWT,1990,1329
+3233,Kuwait,KWT,1991,460
+3234,Kuwait,KWT,1992,0
+3235,Kuwait,KWT,1993,0
+3236,Kuwait,KWT,1994,0
+3237,Kuwait,KWT,1995,0
+3238,Kuwait,KWT,1996,1
+3239,Kuwait,KWT,1997,0
+3240,Kuwait,KWT,1998,0
+3241,Kuwait,KWT,1999,0
+3242,Kuwait,KWT,2000,0
+3243,Kuwait,KWT,2001,0
+3244,Kuwait,KWT,2002,0
+3245,Kuwait,KWT,2003,0
+3246,Kuwait,KWT,2004,0
+3247,Kuwait,KWT,2005,0
+3248,Kuwait,KWT,2006,0
+3249,Kuwait,KWT,2007,0
+3250,Kuwait,KWT,2008,0
+3251,Kuwait,KWT,2009,0
+3252,Kuwait,KWT,2010,0
+3253,Kuwait,KWT,2011,0
+3254,Kuwait,KWT,2012,0
+3255,Kuwait,KWT,2013,0
+3256,Kuwait,KWT,2014,0
+3257,Kuwait,KWT,2015,26
+3258,Kuwait,KWT,2016,0
+3259,Kuwait,KWT,2017,0
+3260,Kuwait,KWT,2018,0
+3261,Kuwait,KWT,2019,0
+3262,Kuwait,KWT,2020,0
+3263,Kuwait,KWT,2021,0
+3264,Kuwait,KWT,2022,0
+3265,Kyrgyzstan,KGZ,1989,0
+3266,Kyrgyzstan,KGZ,1990,171
+3267,Kyrgyzstan,KGZ,1991,0
+3268,Kyrgyzstan,KGZ,1992,0
+3269,Kyrgyzstan,KGZ,1993,0
+3270,Kyrgyzstan,KGZ,1994,0
+3271,Kyrgyzstan,KGZ,1995,0
+3272,Kyrgyzstan,KGZ,1996,0
+3273,Kyrgyzstan,KGZ,1997,0
+3274,Kyrgyzstan,KGZ,1998,0
+3275,Kyrgyzstan,KGZ,1999,3
+3276,Kyrgyzstan,KGZ,2000,172
+3277,Kyrgyzstan,KGZ,2001,0
+3278,Kyrgyzstan,KGZ,2002,0
+3279,Kyrgyzstan,KGZ,2003,0
+3280,Kyrgyzstan,KGZ,2004,0
+3281,Kyrgyzstan,KGZ,2005,0
+3282,Kyrgyzstan,KGZ,2006,0
+3283,Kyrgyzstan,KGZ,2007,0
+3284,Kyrgyzstan,KGZ,2008,0
+3285,Kyrgyzstan,KGZ,2009,0
+3286,Kyrgyzstan,KGZ,2010,44
+3287,Kyrgyzstan,KGZ,2011,0
+3288,Kyrgyzstan,KGZ,2012,0
+3289,Kyrgyzstan,KGZ,2013,0
+3290,Kyrgyzstan,KGZ,2014,0
+3291,Kyrgyzstan,KGZ,2015,0
+3292,Kyrgyzstan,KGZ,2016,0
+3293,Kyrgyzstan,KGZ,2017,0
+3294,Kyrgyzstan,KGZ,2018,0
+3295,Kyrgyzstan,KGZ,2019,0
+3296,Kyrgyzstan,KGZ,2020,0
+3297,Kyrgyzstan,KGZ,2021,11
+3298,Kyrgyzstan,KGZ,2022,74
+3299,Laos,LAO,1989,30
+3300,Laos,LAO,1990,249
+3301,Laos,LAO,1991,0
+3302,Laos,LAO,1992,0
+3303,Laos,LAO,1993,0
+3304,Laos,LAO,1994,0
+3305,Laos,LAO,1995,0
+3306,Laos,LAO,1996,0
+3307,Laos,LAO,1997,0
+3308,Laos,LAO,1998,0
+3309,Laos,LAO,1999,0
+3310,Laos,LAO,2000,0
+3311,Laos,LAO,2001,0
+3312,Laos,LAO,2002,0
+3313,Laos,LAO,2003,0
+3314,Laos,LAO,2004,0
+3315,Laos,LAO,2005,0
+3316,Laos,LAO,2006,73
+3317,Laos,LAO,2007,0
+3318,Laos,LAO,2008,0
+3319,Laos,LAO,2009,0
+3320,Laos,LAO,2010,0
+3321,Laos,LAO,2011,0
+3322,Laos,LAO,2012,0
+3323,Laos,LAO,2013,0
+3324,Laos,LAO,2014,0
+3325,Laos,LAO,2015,0
+3326,Laos,LAO,2016,0
+3327,Laos,LAO,2017,0
+3328,Laos,LAO,2018,0
+3329,Laos,LAO,2019,0
+3330,Laos,LAO,2020,0
+3331,Laos,LAO,2021,0
+3332,Laos,LAO,2022,0
+3333,Latvia,LVA,1989,0
+3334,Latvia,LVA,1990,0
+3335,Latvia,LVA,1991,3
+3336,Latvia,LVA,1992,0
+3337,Latvia,LVA,1993,0
+3338,Latvia,LVA,1994,0
+3339,Latvia,LVA,1995,0
+3340,Latvia,LVA,1996,0
+3341,Latvia,LVA,1997,0
+3342,Latvia,LVA,1998,0
+3343,Latvia,LVA,1999,0
+3344,Latvia,LVA,2000,0
+3345,Latvia,LVA,2001,0
+3346,Latvia,LVA,2002,0
+3347,Latvia,LVA,2003,0
+3348,Latvia,LVA,2004,0
+3349,Latvia,LVA,2005,0
+3350,Latvia,LVA,2006,0
+3351,Latvia,LVA,2007,0
+3352,Latvia,LVA,2008,0
+3353,Latvia,LVA,2009,0
+3354,Latvia,LVA,2010,0
+3355,Latvia,LVA,2011,0
+3356,Latvia,LVA,2012,0
+3357,Latvia,LVA,2013,0
+3358,Latvia,LVA,2014,0
+3359,Latvia,LVA,2015,0
+3360,Latvia,LVA,2016,0
+3361,Latvia,LVA,2017,0
+3362,Latvia,LVA,2018,0
+3363,Latvia,LVA,2019,0
+3364,Latvia,LVA,2020,0
+3365,Latvia,LVA,2021,0
+3366,Latvia,LVA,2022,0
+3367,Lebanon,LBN,1989,1069
+3368,Lebanon,LBN,1990,1888
+3369,Lebanon,LBN,1991,40
+3370,Lebanon,LBN,1992,119
+3371,Lebanon,LBN,1993,148
+3372,Lebanon,LBN,1994,131
+3373,Lebanon,LBN,1995,109
+3374,Lebanon,LBN,1996,192
+3375,Lebanon,LBN,1997,82
+3376,Lebanon,LBN,1998,85
+3377,Lebanon,LBN,1999,71
+3378,Lebanon,LBN,2000,27
+3379,Lebanon,LBN,2001,0
+3380,Lebanon,LBN,2002,0
+3381,Lebanon,LBN,2003,0
+3382,Lebanon,LBN,2004,0
+3383,Lebanon,LBN,2005,0
+3384,Lebanon,LBN,2006,752
+3385,Lebanon,LBN,2007,0
+3386,Lebanon,LBN,2008,38
+3387,Lebanon,LBN,2009,0
+3388,Lebanon,LBN,2010,0
+3389,Lebanon,LBN,2011,1
+3390,Lebanon,LBN,2012,52
+3391,Lebanon,LBN,2013,179
+3392,Lebanon,LBN,2014,224
+3393,Lebanon,LBN,2015,197
+3394,Lebanon,LBN,2016,19
+3395,Lebanon,LBN,2017,297
+3396,Lebanon,LBN,2018,0
+3397,Lebanon,LBN,2019,0
+3398,Lebanon,LBN,2020,0
+3399,Lebanon,LBN,2021,0
+3400,Lebanon,LBN,2022,0
+3401,Lesotho,LSO,1989,0
+3402,Lesotho,LSO,1990,0
+3403,Lesotho,LSO,1991,0
+3404,Lesotho,LSO,1992,0
+3405,Lesotho,LSO,1993,0
+3406,Lesotho,LSO,1994,0
+3407,Lesotho,LSO,1995,0
+3408,Lesotho,LSO,1996,0
+3409,Lesotho,LSO,1997,0
+3410,Lesotho,LSO,1998,78
+3411,Lesotho,LSO,1999,0
+3412,Lesotho,LSO,2000,0
+3413,Lesotho,LSO,2001,0
+3414,Lesotho,LSO,2002,0
+3415,Lesotho,LSO,2003,0
+3416,Lesotho,LSO,2004,0
+3417,Lesotho,LSO,2005,0
+3418,Lesotho,LSO,2006,0
+3419,Lesotho,LSO,2007,0
+3420,Lesotho,LSO,2008,0
+3421,Lesotho,LSO,2009,0
+3422,Lesotho,LSO,2010,0
+3423,Lesotho,LSO,2011,0
+3424,Lesotho,LSO,2012,0
+3425,Lesotho,LSO,2013,0
+3426,Lesotho,LSO,2014,0
+3427,Lesotho,LSO,2015,0
+3428,Lesotho,LSO,2016,0
+3429,Lesotho,LSO,2017,0
+3430,Lesotho,LSO,2018,0
+3431,Lesotho,LSO,2019,0
+3432,Lesotho,LSO,2020,0
+3433,Lesotho,LSO,2021,0
+3434,Lesotho,LSO,2022,0
+3435,Liberia,LBR,1989,27
+3436,Liberia,LBR,1990,3729
+3437,Liberia,LBR,1991,585
+3438,Liberia,LBR,1992,447
+3439,Liberia,LBR,1993,2583
+3440,Liberia,LBR,1994,4155
+3441,Liberia,LBR,1995,2265
+3442,Liberia,LBR,1996,3069
+3443,Liberia,LBR,1997,38
+3444,Liberia,LBR,1998,0
+3445,Liberia,LBR,1999,70
+3446,Liberia,LBR,2000,101
+3447,Liberia,LBR,2001,461
+3448,Liberia,LBR,2002,2259
+3449,Liberia,LBR,2003,3281
+3450,Liberia,LBR,2004,0
+3451,Liberia,LBR,2005,0
+3452,Liberia,LBR,2006,0
+3453,Liberia,LBR,2007,0
+3454,Liberia,LBR,2008,0
+3455,Liberia,LBR,2009,0
+3456,Liberia,LBR,2010,0
+3457,Liberia,LBR,2011,0
+3458,Liberia,LBR,2012,0
+3459,Liberia,LBR,2013,0
+3460,Liberia,LBR,2014,0
+3461,Liberia,LBR,2015,0
+3462,Liberia,LBR,2016,0
+3463,Liberia,LBR,2017,0
+3464,Liberia,LBR,2018,0
+3465,Liberia,LBR,2019,0
+3466,Liberia,LBR,2020,0
+3467,Liberia,LBR,2021,0
+3468,Liberia,LBR,2022,0
+3469,Libya,LBY,1989,0
+3470,Libya,LBY,1990,0
+3471,Libya,LBY,1991,0
+3472,Libya,LBY,1992,0
+3473,Libya,LBY,1993,0
+3474,Libya,LBY,1994,0
+3475,Libya,LBY,1995,24
+3476,Libya,LBY,1996,0
+3477,Libya,LBY,1997,0
+3478,Libya,LBY,1998,0
+3479,Libya,LBY,1999,0
+3480,Libya,LBY,2000,217
+3481,Libya,LBY,2001,0
+3482,Libya,LBY,2002,0
+3483,Libya,LBY,2003,0
+3484,Libya,LBY,2004,0
+3485,Libya,LBY,2005,0
+3486,Libya,LBY,2006,0
+3487,Libya,LBY,2007,0
+3488,Libya,LBY,2008,0
+3489,Libya,LBY,2009,0
+3490,Libya,LBY,2010,0
+3491,Libya,LBY,2011,3917
+3492,Libya,LBY,2012,377
+3493,Libya,LBY,2013,34
+3494,Libya,LBY,2014,1439
+3495,Libya,LBY,2015,1573
+3496,Libya,LBY,2016,2325
+3497,Libya,LBY,2017,1091
+3498,Libya,LBY,2018,664
+3499,Libya,LBY,2019,1785
+3500,Libya,LBY,2020,672
+3501,Libya,LBY,2021,0
+3502,Libya,LBY,2022,0
+3503,Liechtenstein,LIE,1989,0
+3504,Liechtenstein,LIE,1990,0
+3505,Liechtenstein,LIE,1991,0
+3506,Liechtenstein,LIE,1992,0
+3507,Liechtenstein,LIE,1993,0
+3508,Liechtenstein,LIE,1994,0
+3509,Liechtenstein,LIE,1995,0
+3510,Liechtenstein,LIE,1996,0
+3511,Liechtenstein,LIE,1997,0
+3512,Liechtenstein,LIE,1998,0
+3513,Liechtenstein,LIE,1999,0
+3514,Liechtenstein,LIE,2000,0
+3515,Liechtenstein,LIE,2001,0
+3516,Liechtenstein,LIE,2002,0
+3517,Liechtenstein,LIE,2003,0
+3518,Liechtenstein,LIE,2004,0
+3519,Liechtenstein,LIE,2005,0
+3520,Liechtenstein,LIE,2006,0
+3521,Liechtenstein,LIE,2007,0
+3522,Liechtenstein,LIE,2008,0
+3523,Liechtenstein,LIE,2009,0
+3524,Liechtenstein,LIE,2010,0
+3525,Liechtenstein,LIE,2011,0
+3526,Liechtenstein,LIE,2012,0
+3527,Liechtenstein,LIE,2013,0
+3528,Liechtenstein,LIE,2014,0
+3529,Liechtenstein,LIE,2015,0
+3530,Liechtenstein,LIE,2016,0
+3531,Liechtenstein,LIE,2017,0
+3532,Liechtenstein,LIE,2018,0
+3533,Liechtenstein,LIE,2019,0
+3534,Liechtenstein,LIE,2020,0
+3535,Liechtenstein,LIE,2021,0
+3536,Liechtenstein,LIE,2022,0
+3537,Lithuania,LTU,1989,0
+3538,Lithuania,LTU,1990,0
+3539,Lithuania,LTU,1991,15
+3540,Lithuania,LTU,1992,0
+3541,Lithuania,LTU,1993,0
+3542,Lithuania,LTU,1994,0
+3543,Lithuania,LTU,1995,0
+3544,Lithuania,LTU,1996,0
+3545,Lithuania,LTU,1997,0
+3546,Lithuania,LTU,1998,0
+3547,Lithuania,LTU,1999,0
+3548,Lithuania,LTU,2000,0
+3549,Lithuania,LTU,2001,0
+3550,Lithuania,LTU,2002,0
+3551,Lithuania,LTU,2003,0
+3552,Lithuania,LTU,2004,0
+3553,Lithuania,LTU,2005,0
+3554,Lithuania,LTU,2006,0
+3555,Lithuania,LTU,2007,0
+3556,Lithuania,LTU,2008,0
+3557,Lithuania,LTU,2009,0
+3558,Lithuania,LTU,2010,0
+3559,Lithuania,LTU,2011,0
+3560,Lithuania,LTU,2012,0
+3561,Lithuania,LTU,2013,0
+3562,Lithuania,LTU,2014,0
+3563,Lithuania,LTU,2015,0
+3564,Lithuania,LTU,2016,0
+3565,Lithuania,LTU,2017,0
+3566,Lithuania,LTU,2018,0
+3567,Lithuania,LTU,2019,0
+3568,Lithuania,LTU,2020,0
+3569,Lithuania,LTU,2021,0
+3570,Lithuania,LTU,2022,0
+3571,Luxembourg,LUX,1989,0
+3572,Luxembourg,LUX,1990,0
+3573,Luxembourg,LUX,1991,0
+3574,Luxembourg,LUX,1992,0
+3575,Luxembourg,LUX,1993,0
+3576,Luxembourg,LUX,1994,0
+3577,Luxembourg,LUX,1995,0
+3578,Luxembourg,LUX,1996,0
+3579,Luxembourg,LUX,1997,0
+3580,Luxembourg,LUX,1998,0
+3581,Luxembourg,LUX,1999,0
+3582,Luxembourg,LUX,2000,0
+3583,Luxembourg,LUX,2001,0
+3584,Luxembourg,LUX,2002,0
+3585,Luxembourg,LUX,2003,0
+3586,Luxembourg,LUX,2004,0
+3587,Luxembourg,LUX,2005,0
+3588,Luxembourg,LUX,2006,0
+3589,Luxembourg,LUX,2007,0
+3590,Luxembourg,LUX,2008,0
+3591,Luxembourg,LUX,2009,0
+3592,Luxembourg,LUX,2010,0
+3593,Luxembourg,LUX,2011,0
+3594,Luxembourg,LUX,2012,0
+3595,Luxembourg,LUX,2013,0
+3596,Luxembourg,LUX,2014,0
+3597,Luxembourg,LUX,2015,0
+3598,Luxembourg,LUX,2016,0
+3599,Luxembourg,LUX,2017,0
+3600,Luxembourg,LUX,2018,0
+3601,Luxembourg,LUX,2019,0
+3602,Luxembourg,LUX,2020,0
+3603,Luxembourg,LUX,2021,0
+3604,Luxembourg,LUX,2022,0
+3605,Madagascar,MDG,1989,0
+3606,Madagascar,MDG,1990,0
+3607,Madagascar,MDG,1991,0
+3608,Madagascar,MDG,1992,0
+3609,Madagascar,MDG,1993,0
+3610,Madagascar,MDG,1994,0
+3611,Madagascar,MDG,1995,0
+3612,Madagascar,MDG,1996,0
+3613,Madagascar,MDG,1997,0
+3614,Madagascar,MDG,1998,0
+3615,Madagascar,MDG,1999,0
+3616,Madagascar,MDG,2000,0
+3617,Madagascar,MDG,2001,0
+3618,Madagascar,MDG,2002,79
+3619,Madagascar,MDG,2003,0
+3620,Madagascar,MDG,2004,0
+3621,Madagascar,MDG,2005,0
+3622,Madagascar,MDG,2006,0
+3623,Madagascar,MDG,2007,0
+3624,Madagascar,MDG,2008,0
+3625,Madagascar,MDG,2009,113
+3626,Madagascar,MDG,2010,0
+3627,Madagascar,MDG,2011,0
+3628,Madagascar,MDG,2012,0
+3629,Madagascar,MDG,2013,0
+3630,Madagascar,MDG,2014,0
+3631,Madagascar,MDG,2015,0
+3632,Madagascar,MDG,2016,0
+3633,Madagascar,MDG,2017,0
+3634,Madagascar,MDG,2018,0
+3635,Madagascar,MDG,2019,0
+3636,Madagascar,MDG,2020,0
+3637,Madagascar,MDG,2021,0
+3638,Madagascar,MDG,2022,0
+3639,Malawi,MWI,1989,0
+3640,Malawi,MWI,1990,0
+3641,Malawi,MWI,1991,0
+3642,Malawi,MWI,1992,0
+3643,Malawi,MWI,1993,0
+3644,Malawi,MWI,1994,0
+3645,Malawi,MWI,1995,0
+3646,Malawi,MWI,1996,0
+3647,Malawi,MWI,1997,0
+3648,Malawi,MWI,1998,0
+3649,Malawi,MWI,1999,0
+3650,Malawi,MWI,2000,0
+3651,Malawi,MWI,2001,0
+3652,Malawi,MWI,2002,0
+3653,Malawi,MWI,2003,0
+3654,Malawi,MWI,2004,0
+3655,Malawi,MWI,2005,0
+3656,Malawi,MWI,2006,0
+3657,Malawi,MWI,2007,0
+3658,Malawi,MWI,2008,0
+3659,Malawi,MWI,2009,0
+3660,Malawi,MWI,2010,0
+3661,Malawi,MWI,2011,0
+3662,Malawi,MWI,2012,0
+3663,Malawi,MWI,2013,0
+3664,Malawi,MWI,2014,0
+3665,Malawi,MWI,2015,0
+3666,Malawi,MWI,2016,0
+3667,Malawi,MWI,2017,0
+3668,Malawi,MWI,2018,0
+3669,Malawi,MWI,2019,0
+3670,Malawi,MWI,2020,0
+3671,Malawi,MWI,2021,0
+3672,Malawi,MWI,2022,0
+3673,Malaysia,MYS,1989,0
+3674,Malaysia,MYS,1990,0
+3675,Malaysia,MYS,1991,0
+3676,Malaysia,MYS,1992,0
+3677,Malaysia,MYS,1993,0
+3678,Malaysia,MYS,1994,0
+3679,Malaysia,MYS,1995,0
+3680,Malaysia,MYS,1996,0
+3681,Malaysia,MYS,1997,0
+3682,Malaysia,MYS,1998,0
+3683,Malaysia,MYS,1999,0
+3684,Malaysia,MYS,2000,0
+3685,Malaysia,MYS,2001,0
+3686,Malaysia,MYS,2002,0
+3687,Malaysia,MYS,2003,0
+3688,Malaysia,MYS,2004,0
+3689,Malaysia,MYS,2005,0
+3690,Malaysia,MYS,2006,0
+3691,Malaysia,MYS,2007,0
+3692,Malaysia,MYS,2008,0
+3693,Malaysia,MYS,2009,0
+3694,Malaysia,MYS,2010,0
+3695,Malaysia,MYS,2011,0
+3696,Malaysia,MYS,2012,1
+3697,Malaysia,MYS,2013,70
+3698,Malaysia,MYS,2014,2
+3699,Malaysia,MYS,2015,0
+3700,Malaysia,MYS,2016,1
+3701,Malaysia,MYS,2017,3
+3702,Malaysia,MYS,2018,0
+3703,Malaysia,MYS,2019,0
+3704,Malaysia,MYS,2020,0
+3705,Malaysia,MYS,2021,1
+3706,Malaysia,MYS,2022,0
+3707,Maldives,MDV,1989,0
+3708,Maldives,MDV,1990,0
+3709,Maldives,MDV,1991,0
+3710,Maldives,MDV,1992,0
+3711,Maldives,MDV,1993,0
+3712,Maldives,MDV,1994,0
+3713,Maldives,MDV,1995,0
+3714,Maldives,MDV,1996,0
+3715,Maldives,MDV,1997,0
+3716,Maldives,MDV,1998,0
+3717,Maldives,MDV,1999,0
+3718,Maldives,MDV,2000,0
+3719,Maldives,MDV,2001,0
+3720,Maldives,MDV,2002,0
+3721,Maldives,MDV,2003,2
+3722,Maldives,MDV,2004,0
+3723,Maldives,MDV,2005,0
+3724,Maldives,MDV,2006,0
+3725,Maldives,MDV,2007,0
+3726,Maldives,MDV,2008,0
+3727,Maldives,MDV,2009,0
+3728,Maldives,MDV,2010,0
+3729,Maldives,MDV,2011,0
+3730,Maldives,MDV,2012,0
+3731,Maldives,MDV,2013,0
+3732,Maldives,MDV,2014,0
+3733,Maldives,MDV,2015,0
+3734,Maldives,MDV,2016,0
+3735,Maldives,MDV,2017,0
+3736,Maldives,MDV,2018,0
+3737,Maldives,MDV,2019,0
+3738,Maldives,MDV,2020,0
+3739,Maldives,MDV,2021,0
+3740,Maldives,MDV,2022,0
+3741,Mali,MLI,1989,0
+3742,Mali,MLI,1990,582
+3743,Mali,MLI,1991,235
+3744,Mali,MLI,1992,77
+3745,Mali,MLI,1993,0
+3746,Mali,MLI,1994,729
+3747,Mali,MLI,1995,0
+3748,Mali,MLI,1996,0
+3749,Mali,MLI,1997,22
+3750,Mali,MLI,1998,0
+3751,Mali,MLI,1999,59
+3752,Mali,MLI,2000,0
+3753,Mali,MLI,2001,0
+3754,Mali,MLI,2002,0
+3755,Mali,MLI,2003,0
+3756,Mali,MLI,2004,0
+3757,Mali,MLI,2005,12
+3758,Mali,MLI,2006,0
+3759,Mali,MLI,2007,3
+3760,Mali,MLI,2008,106
+3761,Mali,MLI,2009,124
+3762,Mali,MLI,2010,28
+3763,Mali,MLI,2011,0
+3764,Mali,MLI,2012,328
+3765,Mali,MLI,2013,830
+3766,Mali,MLI,2014,280
+3767,Mali,MLI,2015,196
+3768,Mali,MLI,2016,147
+3769,Mali,MLI,2017,517
+3770,Mali,MLI,2018,1267
+3771,Mali,MLI,2019,1157
+3772,Mali,MLI,2020,1473
+3773,Mali,MLI,2021,1266
+3774,Mali,MLI,2022,3602
+3775,Malta,MLT,1989,0
+3776,Malta,MLT,1990,0
+3777,Malta,MLT,1991,0
+3778,Malta,MLT,1992,0
+3779,Malta,MLT,1993,0
+3780,Malta,MLT,1994,0
+3781,Malta,MLT,1995,0
+3782,Malta,MLT,1996,0
+3783,Malta,MLT,1997,0
+3784,Malta,MLT,1998,0
+3785,Malta,MLT,1999,0
+3786,Malta,MLT,2000,0
+3787,Malta,MLT,2001,0
+3788,Malta,MLT,2002,0
+3789,Malta,MLT,2003,0
+3790,Malta,MLT,2004,0
+3791,Malta,MLT,2005,0
+3792,Malta,MLT,2006,0
+3793,Malta,MLT,2007,0
+3794,Malta,MLT,2008,0
+3795,Malta,MLT,2009,0
+3796,Malta,MLT,2010,0
+3797,Malta,MLT,2011,0
+3798,Malta,MLT,2012,0
+3799,Malta,MLT,2013,0
+3800,Malta,MLT,2014,0
+3801,Malta,MLT,2015,0
+3802,Malta,MLT,2016,0
+3803,Malta,MLT,2017,0
+3804,Malta,MLT,2018,0
+3805,Malta,MLT,2019,0
+3806,Malta,MLT,2020,0
+3807,Malta,MLT,2021,0
+3808,Malta,MLT,2022,0
+3809,Marshall Islands,MHL,1989,0
+3810,Marshall Islands,MHL,1990,0
+3811,Marshall Islands,MHL,1991,0
+3812,Marshall Islands,MHL,1992,0
+3813,Marshall Islands,MHL,1993,0
+3814,Marshall Islands,MHL,1994,0
+3815,Marshall Islands,MHL,1995,0
+3816,Marshall Islands,MHL,1996,0
+3817,Marshall Islands,MHL,1997,0
+3818,Marshall Islands,MHL,1998,0
+3819,Marshall Islands,MHL,1999,0
+3820,Marshall Islands,MHL,2000,0
+3821,Marshall Islands,MHL,2001,0
+3822,Marshall Islands,MHL,2002,0
+3823,Marshall Islands,MHL,2003,0
+3824,Marshall Islands,MHL,2004,0
+3825,Marshall Islands,MHL,2005,0
+3826,Marshall Islands,MHL,2006,0
+3827,Marshall Islands,MHL,2007,0
+3828,Marshall Islands,MHL,2008,0
+3829,Marshall Islands,MHL,2009,0
+3830,Marshall Islands,MHL,2010,0
+3831,Marshall Islands,MHL,2011,0
+3832,Marshall Islands,MHL,2012,0
+3833,Marshall Islands,MHL,2013,0
+3834,Marshall Islands,MHL,2014,0
+3835,Marshall Islands,MHL,2015,0
+3836,Marshall Islands,MHL,2016,0
+3837,Marshall Islands,MHL,2017,0
+3838,Marshall Islands,MHL,2018,0
+3839,Marshall Islands,MHL,2019,0
+3840,Marshall Islands,MHL,2020,0
+3841,Marshall Islands,MHL,2021,0
+3842,Marshall Islands,MHL,2022,0
+3843,Mauritania,MRT,1989,125
+3844,Mauritania,MRT,1990,28
+3845,Mauritania,MRT,1991,0
+3846,Mauritania,MRT,1992,0
+3847,Mauritania,MRT,1993,0
+3848,Mauritania,MRT,1994,0
+3849,Mauritania,MRT,1995,0
+3850,Mauritania,MRT,1996,0
+3851,Mauritania,MRT,1997,0
+3852,Mauritania,MRT,1998,0
+3853,Mauritania,MRT,1999,0
+3854,Mauritania,MRT,2000,0
+3855,Mauritania,MRT,2001,0
+3856,Mauritania,MRT,2002,0
+3857,Mauritania,MRT,2003,0
+3858,Mauritania,MRT,2004,0
+3859,Mauritania,MRT,2005,0
+3860,Mauritania,MRT,2006,0
+3861,Mauritania,MRT,2007,4
+3862,Mauritania,MRT,2008,0
+3863,Mauritania,MRT,2009,1
+3864,Mauritania,MRT,2010,1
+3865,Mauritania,MRT,2011,0
+3866,Mauritania,MRT,2012,0
+3867,Mauritania,MRT,2013,0
+3868,Mauritania,MRT,2014,0
+3869,Mauritania,MRT,2015,0
+3870,Mauritania,MRT,2016,0
+3871,Mauritania,MRT,2017,0
+3872,Mauritania,MRT,2018,0
+3873,Mauritania,MRT,2019,0
+3874,Mauritania,MRT,2020,0
+3875,Mauritania,MRT,2021,2
+3876,Mauritania,MRT,2022,0
+3877,Mauritius,MUS,1989,0
+3878,Mauritius,MUS,1990,0
+3879,Mauritius,MUS,1991,0
+3880,Mauritius,MUS,1992,0
+3881,Mauritius,MUS,1993,0
+3882,Mauritius,MUS,1994,0
+3883,Mauritius,MUS,1995,0
+3884,Mauritius,MUS,1996,0
+3885,Mauritius,MUS,1997,0
+3886,Mauritius,MUS,1998,0
+3887,Mauritius,MUS,1999,0
+3888,Mauritius,MUS,2000,0
+3889,Mauritius,MUS,2001,0
+3890,Mauritius,MUS,2002,0
+3891,Mauritius,MUS,2003,0
+3892,Mauritius,MUS,2004,0
+3893,Mauritius,MUS,2005,0
+3894,Mauritius,MUS,2006,0
+3895,Mauritius,MUS,2007,0
+3896,Mauritius,MUS,2008,0
+3897,Mauritius,MUS,2009,0
+3898,Mauritius,MUS,2010,0
+3899,Mauritius,MUS,2011,0
+3900,Mauritius,MUS,2012,0
+3901,Mauritius,MUS,2013,0
+3902,Mauritius,MUS,2014,0
+3903,Mauritius,MUS,2015,0
+3904,Mauritius,MUS,2016,0
+3905,Mauritius,MUS,2017,0
+3906,Mauritius,MUS,2018,0
+3907,Mauritius,MUS,2019,0
+3908,Mauritius,MUS,2020,0
+3909,Mauritius,MUS,2021,0
+3910,Mauritius,MUS,2022,0
+3911,Mexico,MEX,1989,2
+3912,Mexico,MEX,1990,10
+3913,Mexico,MEX,1991,1
+3914,Mexico,MEX,1992,0
+3915,Mexico,MEX,1993,27
+3916,Mexico,MEX,1994,145
+3917,Mexico,MEX,1995,1
+3918,Mexico,MEX,1996,37
+3919,Mexico,MEX,1997,45
+3920,Mexico,MEX,1998,0
+3921,Mexico,MEX,1999,0
+3922,Mexico,MEX,2000,0
+3923,Mexico,MEX,2001,0
+3924,Mexico,MEX,2002,26
+3925,Mexico,MEX,2003,0
+3926,Mexico,MEX,2004,212
+3927,Mexico,MEX,2005,204
+3928,Mexico,MEX,2006,669
+3929,Mexico,MEX,2007,1938
+3930,Mexico,MEX,2008,2181
+3931,Mexico,MEX,2009,3594
+3932,Mexico,MEX,2010,3610
+3933,Mexico,MEX,2011,3087
+3934,Mexico,MEX,2012,1669
+3935,Mexico,MEX,2013,749
+3936,Mexico,MEX,2014,1586
+3937,Mexico,MEX,2015,1613
+3938,Mexico,MEX,2016,1283
+3939,Mexico,MEX,2017,1447
+3940,Mexico,MEX,2018,8752
+3941,Mexico,MEX,2019,11942
+3942,Mexico,MEX,2020,16364
+3943,Mexico,MEX,2021,18749
+3944,Mexico,MEX,2022,14207
+3945,Micronesia (country),FSM,1989,0
+3946,Micronesia (country),FSM,1990,0
+3947,Micronesia (country),FSM,1991,0
+3948,Micronesia (country),FSM,1992,0
+3949,Micronesia (country),FSM,1993,0
+3950,Micronesia (country),FSM,1994,0
+3951,Micronesia (country),FSM,1995,0
+3952,Micronesia (country),FSM,1996,0
+3953,Micronesia (country),FSM,1997,0
+3954,Micronesia (country),FSM,1998,0
+3955,Micronesia (country),FSM,1999,0
+3956,Micronesia (country),FSM,2000,0
+3957,Micronesia (country),FSM,2001,0
+3958,Micronesia (country),FSM,2002,0
+3959,Micronesia (country),FSM,2003,0
+3960,Micronesia (country),FSM,2004,0
+3961,Micronesia (country),FSM,2005,0
+3962,Micronesia (country),FSM,2006,0
+3963,Micronesia (country),FSM,2007,0
+3964,Micronesia (country),FSM,2008,0
+3965,Micronesia (country),FSM,2009,0
+3966,Micronesia (country),FSM,2010,0
+3967,Micronesia (country),FSM,2011,0
+3968,Micronesia (country),FSM,2012,0
+3969,Micronesia (country),FSM,2013,0
+3970,Micronesia (country),FSM,2014,0
+3971,Micronesia (country),FSM,2015,0
+3972,Micronesia (country),FSM,2016,0
+3973,Micronesia (country),FSM,2017,0
+3974,Micronesia (country),FSM,2018,0
+3975,Micronesia (country),FSM,2019,0
+3976,Micronesia (country),FSM,2020,0
+3977,Micronesia (country),FSM,2021,0
+3978,Micronesia (country),FSM,2022,0
+3979,Moldova,MDA,1989,0
+3980,Moldova,MDA,1990,0
+3981,Moldova,MDA,1991,0
+3982,Moldova,MDA,1992,585
+3983,Moldova,MDA,1993,0
+3984,Moldova,MDA,1994,0
+3985,Moldova,MDA,1995,0
+3986,Moldova,MDA,1996,0
+3987,Moldova,MDA,1997,0
+3988,Moldova,MDA,1998,0
+3989,Moldova,MDA,1999,0
+3990,Moldova,MDA,2000,0
+3991,Moldova,MDA,2001,0
+3992,Moldova,MDA,2002,0
+3993,Moldova,MDA,2003,0
+3994,Moldova,MDA,2004,0
+3995,Moldova,MDA,2005,0
+3996,Moldova,MDA,2006,0
+3997,Moldova,MDA,2007,0
+3998,Moldova,MDA,2008,0
+3999,Moldova,MDA,2009,0
+4000,Moldova,MDA,2010,0
+4001,Moldova,MDA,2011,0
+4002,Moldova,MDA,2012,0
+4003,Moldova,MDA,2013,0
+4004,Moldova,MDA,2014,0
+4005,Moldova,MDA,2015,0
+4006,Moldova,MDA,2016,0
+4007,Moldova,MDA,2017,0
+4008,Moldova,MDA,2018,0
+4009,Moldova,MDA,2019,0
+4010,Moldova,MDA,2020,0
+4011,Moldova,MDA,2021,0
+4012,Moldova,MDA,2022,0
+4013,Monaco,MCO,1989,0
+4014,Monaco,MCO,1990,0
+4015,Monaco,MCO,1991,0
+4016,Monaco,MCO,1992,0
+4017,Monaco,MCO,1993,0
+4018,Monaco,MCO,1994,0
+4019,Monaco,MCO,1995,0
+4020,Monaco,MCO,1996,0
+4021,Monaco,MCO,1997,0
+4022,Monaco,MCO,1998,0
+4023,Monaco,MCO,1999,0
+4024,Monaco,MCO,2000,0
+4025,Monaco,MCO,2001,0
+4026,Monaco,MCO,2002,0
+4027,Monaco,MCO,2003,0
+4028,Monaco,MCO,2004,0
+4029,Monaco,MCO,2005,0
+4030,Monaco,MCO,2006,0
+4031,Monaco,MCO,2007,0
+4032,Monaco,MCO,2008,0
+4033,Monaco,MCO,2009,0
+4034,Monaco,MCO,2010,0
+4035,Monaco,MCO,2011,0
+4036,Monaco,MCO,2012,0
+4037,Monaco,MCO,2013,0
+4038,Monaco,MCO,2014,0
+4039,Monaco,MCO,2015,0
+4040,Monaco,MCO,2016,0
+4041,Monaco,MCO,2017,0
+4042,Monaco,MCO,2018,0
+4043,Monaco,MCO,2019,0
+4044,Monaco,MCO,2020,0
+4045,Monaco,MCO,2021,0
+4046,Monaco,MCO,2022,0
+4047,Mongolia,MNG,1989,0
+4048,Mongolia,MNG,1990,0
+4049,Mongolia,MNG,1991,0
+4050,Mongolia,MNG,1992,0
+4051,Mongolia,MNG,1993,0
+4052,Mongolia,MNG,1994,0
+4053,Mongolia,MNG,1995,0
+4054,Mongolia,MNG,1996,0
+4055,Mongolia,MNG,1997,0
+4056,Mongolia,MNG,1998,0
+4057,Mongolia,MNG,1999,0
+4058,Mongolia,MNG,2000,0
+4059,Mongolia,MNG,2001,0
+4060,Mongolia,MNG,2002,0
+4061,Mongolia,MNG,2003,0
+4062,Mongolia,MNG,2004,0
+4063,Mongolia,MNG,2005,0
+4064,Mongolia,MNG,2006,0
+4065,Mongolia,MNG,2007,0
+4066,Mongolia,MNG,2008,0
+4067,Mongolia,MNG,2009,0
+4068,Mongolia,MNG,2010,0
+4069,Mongolia,MNG,2011,0
+4070,Mongolia,MNG,2012,0
+4071,Mongolia,MNG,2013,0
+4072,Mongolia,MNG,2014,0
+4073,Mongolia,MNG,2015,0
+4074,Mongolia,MNG,2016,0
+4075,Mongolia,MNG,2017,0
+4076,Mongolia,MNG,2018,0
+4077,Mongolia,MNG,2019,0
+4078,Mongolia,MNG,2020,0
+4079,Mongolia,MNG,2021,0
+4080,Mongolia,MNG,2022,0
+4081,Montenegro,MNE,1989,0
+4082,Montenegro,MNE,1990,0
+4083,Montenegro,MNE,1991,0
+4084,Montenegro,MNE,1992,0
+4085,Montenegro,MNE,1993,0
+4086,Montenegro,MNE,1994,0
+4087,Montenegro,MNE,1995,0
+4088,Montenegro,MNE,1996,0
+4089,Montenegro,MNE,1997,0
+4090,Montenegro,MNE,1998,2
+4091,Montenegro,MNE,1999,9
+4092,Montenegro,MNE,2000,0
+4093,Montenegro,MNE,2001,0
+4094,Montenegro,MNE,2002,0
+4095,Montenegro,MNE,2003,0
+4096,Montenegro,MNE,2004,0
+4097,Montenegro,MNE,2005,0
+4098,Montenegro,MNE,2006,0
+4099,Montenegro,MNE,2007,0
+4100,Montenegro,MNE,2008,0
+4101,Montenegro,MNE,2009,0
+4102,Montenegro,MNE,2010,0
+4103,Montenegro,MNE,2011,0
+4104,Montenegro,MNE,2012,0
+4105,Montenegro,MNE,2013,0
+4106,Montenegro,MNE,2014,0
+4107,Montenegro,MNE,2015,0
+4108,Montenegro,MNE,2016,0
+4109,Montenegro,MNE,2017,0
+4110,Montenegro,MNE,2018,0
+4111,Montenegro,MNE,2019,0
+4112,Montenegro,MNE,2020,0
+4113,Montenegro,MNE,2021,0
+4114,Montenegro,MNE,2022,0
+4115,Morocco,MAR,1989,0
+4116,Morocco,MAR,1990,0
+4117,Morocco,MAR,1991,0
+4118,Morocco,MAR,1992,0
+4119,Morocco,MAR,1993,0
+4120,Morocco,MAR,1994,0
+4121,Morocco,MAR,1995,0
+4122,Morocco,MAR,1996,0
+4123,Morocco,MAR,1997,0
+4124,Morocco,MAR,1998,0
+4125,Morocco,MAR,1999,0
+4126,Morocco,MAR,2000,0
+4127,Morocco,MAR,2001,0
+4128,Morocco,MAR,2002,0
+4129,Morocco,MAR,2003,34
+4130,Morocco,MAR,2004,0
+4131,Morocco,MAR,2005,0
+4132,Morocco,MAR,2006,0
+4133,Morocco,MAR,2007,0
+4134,Morocco,MAR,2008,0
+4135,Morocco,MAR,2009,0
+4136,Morocco,MAR,2010,0
+4137,Morocco,MAR,2011,0
+4138,Morocco,MAR,2012,0
+4139,Morocco,MAR,2013,0
+4140,Morocco,MAR,2014,0
+4141,Morocco,MAR,2015,0
+4142,Morocco,MAR,2016,0
+4143,Morocco,MAR,2017,0
+4144,Morocco,MAR,2018,0
+4145,Morocco,MAR,2019,0
+4146,Morocco,MAR,2020,0
+4147,Morocco,MAR,2021,0
+4148,Morocco,MAR,2022,0
+4149,Mozambique,MOZ,1989,1552
+4150,Mozambique,MOZ,1990,1759
+4151,Mozambique,MOZ,1991,1961
+4152,Mozambique,MOZ,1992,521
+4153,Mozambique,MOZ,1993,0
+4154,Mozambique,MOZ,1994,0
+4155,Mozambique,MOZ,1995,0
+4156,Mozambique,MOZ,1996,0
+4157,Mozambique,MOZ,1997,0
+4158,Mozambique,MOZ,1998,0
+4159,Mozambique,MOZ,1999,0
+4160,Mozambique,MOZ,2000,0
+4161,Mozambique,MOZ,2001,0
+4162,Mozambique,MOZ,2002,0
+4163,Mozambique,MOZ,2003,0
+4164,Mozambique,MOZ,2004,0
+4165,Mozambique,MOZ,2005,0
+4166,Mozambique,MOZ,2006,0
+4167,Mozambique,MOZ,2007,0
+4168,Mozambique,MOZ,2008,0
+4169,Mozambique,MOZ,2009,0
+4170,Mozambique,MOZ,2010,0
+4171,Mozambique,MOZ,2011,0
+4172,Mozambique,MOZ,2012,0
+4173,Mozambique,MOZ,2013,42
+4174,Mozambique,MOZ,2014,30
+4175,Mozambique,MOZ,2015,0
+4176,Mozambique,MOZ,2016,55
+4177,Mozambique,MOZ,2017,0
+4178,Mozambique,MOZ,2018,172
+4179,Mozambique,MOZ,2019,594
+4180,Mozambique,MOZ,2020,1625
+4181,Mozambique,MOZ,2021,983
+4182,Mozambique,MOZ,2022,704
+4183,Myanmar,MMR,1989,761
+4184,Myanmar,MMR,1990,695
+4185,Myanmar,MMR,1991,1359
+4186,Myanmar,MMR,1992,1179
+4187,Myanmar,MMR,1993,121
+4188,Myanmar,MMR,1994,708
+4189,Myanmar,MMR,1995,1413
+4190,Myanmar,MMR,1996,556
+4191,Myanmar,MMR,1997,751
+4192,Myanmar,MMR,1998,503
+4193,Myanmar,MMR,1999,318
+4194,Myanmar,MMR,2000,704
+4195,Myanmar,MMR,2001,307
+4196,Myanmar,MMR,2002,429
+4197,Myanmar,MMR,2003,218
+4198,Myanmar,MMR,2004,139
+4199,Myanmar,MMR,2005,355
+4200,Myanmar,MMR,2006,414
+4201,Myanmar,MMR,2007,635
+4202,Myanmar,MMR,2008,92
+4203,Myanmar,MMR,2009,195
+4204,Myanmar,MMR,2010,147
+4205,Myanmar,MMR,2011,796
+4206,Myanmar,MMR,2012,832
+4207,Myanmar,MMR,2013,344
+4208,Myanmar,MMR,2014,207
+4209,Myanmar,MMR,2015,653
+4210,Myanmar,MMR,2016,156
+4211,Myanmar,MMR,2017,2381
+4212,Myanmar,MMR,2018,104
+4213,Myanmar,MMR,2019,558
+4214,Myanmar,MMR,2020,159
+4215,Myanmar,MMR,2021,1689
+4216,Myanmar,MMR,2022,2720
+4217,Namibia,NAM,1989,327
+4218,Namibia,NAM,1990,0
+4219,Namibia,NAM,1991,0
+4220,Namibia,NAM,1992,0
+4221,Namibia,NAM,1993,0
+4222,Namibia,NAM,1994,0
+4223,Namibia,NAM,1995,0
+4224,Namibia,NAM,1996,0
+4225,Namibia,NAM,1997,0
+4226,Namibia,NAM,1998,0
+4227,Namibia,NAM,1999,1
+4228,Namibia,NAM,2000,61
+4229,Namibia,NAM,2001,0
+4230,Namibia,NAM,2002,0
+4231,Namibia,NAM,2003,0
+4232,Namibia,NAM,2004,0
+4233,Namibia,NAM,2005,0
+4234,Namibia,NAM,2006,0
+4235,Namibia,NAM,2007,0
+4236,Namibia,NAM,2008,0
+4237,Namibia,NAM,2009,0
+4238,Namibia,NAM,2010,0
+4239,Namibia,NAM,2011,0
+4240,Namibia,NAM,2012,0
+4241,Namibia,NAM,2013,0
+4242,Namibia,NAM,2014,0
+4243,Namibia,NAM,2015,0
+4244,Namibia,NAM,2016,0
+4245,Namibia,NAM,2017,0
+4246,Namibia,NAM,2018,0
+4247,Namibia,NAM,2019,0
+4248,Namibia,NAM,2020,0
+4249,Namibia,NAM,2021,0
+4250,Namibia,NAM,2022,0
+4251,Nauru,NRU,1989,0
+4252,Nauru,NRU,1990,0
+4253,Nauru,NRU,1991,0
+4254,Nauru,NRU,1992,0
+4255,Nauru,NRU,1993,0
+4256,Nauru,NRU,1994,0
+4257,Nauru,NRU,1995,0
+4258,Nauru,NRU,1996,0
+4259,Nauru,NRU,1997,0
+4260,Nauru,NRU,1998,0
+4261,Nauru,NRU,1999,0
+4262,Nauru,NRU,2000,0
+4263,Nauru,NRU,2001,0
+4264,Nauru,NRU,2002,0
+4265,Nauru,NRU,2003,0
+4266,Nauru,NRU,2004,0
+4267,Nauru,NRU,2005,0
+4268,Nauru,NRU,2006,0
+4269,Nauru,NRU,2007,0
+4270,Nauru,NRU,2008,0
+4271,Nauru,NRU,2009,0
+4272,Nauru,NRU,2010,0
+4273,Nauru,NRU,2011,0
+4274,Nauru,NRU,2012,0
+4275,Nauru,NRU,2013,0
+4276,Nauru,NRU,2014,0
+4277,Nauru,NRU,2015,0
+4278,Nauru,NRU,2016,0
+4279,Nauru,NRU,2017,0
+4280,Nauru,NRU,2018,0
+4281,Nauru,NRU,2019,0
+4282,Nauru,NRU,2020,0
+4283,Nauru,NRU,2021,0
+4284,Nauru,NRU,2022,0
+4285,Nepal,NPL,1989,0
+4286,Nepal,NPL,1990,0
+4287,Nepal,NPL,1991,2
+4288,Nepal,NPL,1992,0
+4289,Nepal,NPL,1993,0
+4290,Nepal,NPL,1994,0
+4291,Nepal,NPL,1995,0
+4292,Nepal,NPL,1996,71
+4293,Nepal,NPL,1997,40
+4294,Nepal,NPL,1998,356
+4295,Nepal,NPL,1999,295
+4296,Nepal,NPL,2000,365
+4297,Nepal,NPL,2001,569
+4298,Nepal,NPL,2002,4432
+4299,Nepal,NPL,2003,1732
+4300,Nepal,NPL,2004,2456
+4301,Nepal,NPL,2005,1399
+4302,Nepal,NPL,2006,566
+4303,Nepal,NPL,2007,30
+4304,Nepal,NPL,2008,0
+4305,Nepal,NPL,2009,0
+4306,Nepal,NPL,2010,0
+4307,Nepal,NPL,2011,0
+4308,Nepal,NPL,2012,0
+4309,Nepal,NPL,2013,0
+4310,Nepal,NPL,2014,0
+4311,Nepal,NPL,2015,0
+4312,Nepal,NPL,2016,0
+4313,Nepal,NPL,2017,0
+4314,Nepal,NPL,2018,0
+4315,Nepal,NPL,2019,0
+4316,Nepal,NPL,2020,0
+4317,Nepal,NPL,2021,0
+4318,Nepal,NPL,2022,0
+4319,Netherlands,NLD,1989,0
+4320,Netherlands,NLD,1990,2
+4321,Netherlands,NLD,1991,0
+4322,Netherlands,NLD,1992,0
+4323,Netherlands,NLD,1993,0
+4324,Netherlands,NLD,1994,0
+4325,Netherlands,NLD,1995,0
+4326,Netherlands,NLD,1996,0
+4327,Netherlands,NLD,1997,0
+4328,Netherlands,NLD,1998,0
+4329,Netherlands,NLD,1999,0
+4330,Netherlands,NLD,2000,0
+4331,Netherlands,NLD,2001,0
+4332,Netherlands,NLD,2002,0
+4333,Netherlands,NLD,2003,0
+4334,Netherlands,NLD,2004,0
+4335,Netherlands,NLD,2005,0
+4336,Netherlands,NLD,2006,0
+4337,Netherlands,NLD,2007,0
+4338,Netherlands,NLD,2008,0
+4339,Netherlands,NLD,2009,0
+4340,Netherlands,NLD,2010,0
+4341,Netherlands,NLD,2011,0
+4342,Netherlands,NLD,2012,0
+4343,Netherlands,NLD,2013,0
+4344,Netherlands,NLD,2014,0
+4345,Netherlands,NLD,2015,0
+4346,Netherlands,NLD,2016,0
+4347,Netherlands,NLD,2017,0
+4348,Netherlands,NLD,2018,0
+4349,Netherlands,NLD,2019,0
+4350,Netherlands,NLD,2020,0
+4351,Netherlands,NLD,2021,0
+4352,Netherlands,NLD,2022,0
+4353,New Zealand,NZL,1989,0
+4354,New Zealand,NZL,1990,0
+4355,New Zealand,NZL,1991,0
+4356,New Zealand,NZL,1992,0
+4357,New Zealand,NZL,1993,0
+4358,New Zealand,NZL,1994,0
+4359,New Zealand,NZL,1995,0
+4360,New Zealand,NZL,1996,0
+4361,New Zealand,NZL,1997,0
+4362,New Zealand,NZL,1998,0
+4363,New Zealand,NZL,1999,0
+4364,New Zealand,NZL,2000,0
+4365,New Zealand,NZL,2001,0
+4366,New Zealand,NZL,2002,0
+4367,New Zealand,NZL,2003,0
+4368,New Zealand,NZL,2004,0
+4369,New Zealand,NZL,2005,0
+4370,New Zealand,NZL,2006,0
+4371,New Zealand,NZL,2007,0
+4372,New Zealand,NZL,2008,0
+4373,New Zealand,NZL,2009,0
+4374,New Zealand,NZL,2010,0
+4375,New Zealand,NZL,2011,0
+4376,New Zealand,NZL,2012,0
+4377,New Zealand,NZL,2013,0
+4378,New Zealand,NZL,2014,0
+4379,New Zealand,NZL,2015,0
+4380,New Zealand,NZL,2016,0
+4381,New Zealand,NZL,2017,0
+4382,New Zealand,NZL,2018,0
+4383,New Zealand,NZL,2019,0
+4384,New Zealand,NZL,2020,0
+4385,New Zealand,NZL,2021,0
+4386,New Zealand,NZL,2022,0
+4387,Nicaragua,NIC,1989,526
+4388,Nicaragua,NIC,1990,39
+4389,Nicaragua,NIC,1991,0
+4390,Nicaragua,NIC,1992,0
+4391,Nicaragua,NIC,1993,0
+4392,Nicaragua,NIC,1994,0
+4393,Nicaragua,NIC,1995,0
+4394,Nicaragua,NIC,1996,0
+4395,Nicaragua,NIC,1997,0
+4396,Nicaragua,NIC,1998,0
+4397,Nicaragua,NIC,1999,0
+4398,Nicaragua,NIC,2000,0
+4399,Nicaragua,NIC,2001,0
+4400,Nicaragua,NIC,2002,0
+4401,Nicaragua,NIC,2003,0
+4402,Nicaragua,NIC,2004,0
+4403,Nicaragua,NIC,2005,0
+4404,Nicaragua,NIC,2006,0
+4405,Nicaragua,NIC,2007,0
+4406,Nicaragua,NIC,2008,0
+4407,Nicaragua,NIC,2009,0
+4408,Nicaragua,NIC,2010,0
+4409,Nicaragua,NIC,2011,0
+4410,Nicaragua,NIC,2012,0
+4411,Nicaragua,NIC,2013,0
+4412,Nicaragua,NIC,2014,0
+4413,Nicaragua,NIC,2015,0
+4414,Nicaragua,NIC,2016,0
+4415,Nicaragua,NIC,2017,0
+4416,Nicaragua,NIC,2018,0
+4417,Nicaragua,NIC,2019,0
+4418,Nicaragua,NIC,2020,0
+4419,Nicaragua,NIC,2021,0
+4420,Nicaragua,NIC,2022,0
+4421,Niger,NER,1989,170
+4422,Niger,NER,1990,200
+4423,Niger,NER,1991,40
+4424,Niger,NER,1992,29
+4425,Niger,NER,1993,0
+4426,Niger,NER,1994,50
+4427,Niger,NER,1995,65
+4428,Niger,NER,1996,0
+4429,Niger,NER,1997,74
+4430,Niger,NER,1998,147
+4431,Niger,NER,1999,0
+4432,Niger,NER,2000,0
+4433,Niger,NER,2001,0
+4434,Niger,NER,2002,0
+4435,Niger,NER,2003,0
+4436,Niger,NER,2004,4
+4437,Niger,NER,2005,0
+4438,Niger,NER,2006,0
+4439,Niger,NER,2007,81
+4440,Niger,NER,2008,47
+4441,Niger,NER,2009,0
+4442,Niger,NER,2010,0
+4443,Niger,NER,2011,3
+4444,Niger,NER,2012,0
+4445,Niger,NER,2013,31
+4446,Niger,NER,2014,0
+4447,Niger,NER,2015,533
+4448,Niger,NER,2016,300
+4449,Niger,NER,2017,177
+4450,Niger,NER,2018,186
+4451,Niger,NER,2019,476
+4452,Niger,NER,2020,835
+4453,Niger,NER,2021,1184
+4454,Niger,NER,2022,651
+4455,Nigeria,NGA,1989,0
+4456,Nigeria,NGA,1990,80
+4457,Nigeria,NGA,1991,380
+4458,Nigeria,NGA,1992,942
+4459,Nigeria,NGA,1993,1175
+4460,Nigeria,NGA,1994,86
+4461,Nigeria,NGA,1995,0
+4462,Nigeria,NGA,1996,80
+4463,Nigeria,NGA,1997,562
+4464,Nigeria,NGA,1998,323
+4465,Nigeria,NGA,1999,3519
+4466,Nigeria,NGA,2000,2085
+4467,Nigeria,NGA,2001,2362
+4468,Nigeria,NGA,2002,585
+4469,Nigeria,NGA,2003,426
+4470,Nigeria,NGA,2004,2088
+4471,Nigeria,NGA,2005,162
+4472,Nigeria,NGA,2006,200
+4473,Nigeria,NGA,2007,100
+4474,Nigeria,NGA,2008,379
+4475,Nigeria,NGA,2009,438
+4476,Nigeria,NGA,2010,888
+4477,Nigeria,NGA,2011,1821
+4478,Nigeria,NGA,2012,1951
+4479,Nigeria,NGA,2013,3288
+4480,Nigeria,NGA,2014,9935
+4481,Nigeria,NGA,2015,8491
+4482,Nigeria,NGA,2016,3817
+4483,Nigeria,NGA,2017,3568
+4484,Nigeria,NGA,2018,3121
+4485,Nigeria,NGA,2019,2285
+4486,Nigeria,NGA,2020,2912
+4487,Nigeria,NGA,2021,3038
+4488,Nigeria,NGA,2022,2803
+4489,North Korea,PRK,1989,0
+4490,North Korea,PRK,1990,0
+4491,North Korea,PRK,1991,0
+4492,North Korea,PRK,1992,0
+4493,North Korea,PRK,1993,0
+4494,North Korea,PRK,1994,0
+4495,North Korea,PRK,1995,0
+4496,North Korea,PRK,1996,0
+4497,North Korea,PRK,1997,0
+4498,North Korea,PRK,1998,0
+4499,North Korea,PRK,1999,0
+4500,North Korea,PRK,2000,0
+4501,North Korea,PRK,2001,0
+4502,North Korea,PRK,2002,0
+4503,North Korea,PRK,2003,0
+4504,North Korea,PRK,2004,0
+4505,North Korea,PRK,2005,0
+4506,North Korea,PRK,2006,0
+4507,North Korea,PRK,2007,0
+4508,North Korea,PRK,2008,0
+4509,North Korea,PRK,2009,0
+4510,North Korea,PRK,2010,0
+4511,North Korea,PRK,2011,0
+4512,North Korea,PRK,2012,0
+4513,North Korea,PRK,2013,0
+4514,North Korea,PRK,2014,0
+4515,North Korea,PRK,2015,0
+4516,North Korea,PRK,2016,0
+4517,North Korea,PRK,2017,0
+4518,North Korea,PRK,2018,0
+4519,North Korea,PRK,2019,0
+4520,North Korea,PRK,2020,0
+4521,North Korea,PRK,2021,0
+4522,North Korea,PRK,2022,0
+4523,North Macedonia,MKD,1989,0
+4524,North Macedonia,MKD,1990,0
+4525,North Macedonia,MKD,1991,0
+4526,North Macedonia,MKD,1992,0
+4527,North Macedonia,MKD,1993,0
+4528,North Macedonia,MKD,1994,0
+4529,North Macedonia,MKD,1995,0
+4530,North Macedonia,MKD,1996,0
+4531,North Macedonia,MKD,1997,0
+4532,North Macedonia,MKD,1998,0
+4533,North Macedonia,MKD,1999,7
+4534,North Macedonia,MKD,2000,0
+4535,North Macedonia,MKD,2001,66
+4536,North Macedonia,MKD,2002,0
+4537,North Macedonia,MKD,2003,0
+4538,North Macedonia,MKD,2004,0
+4539,North Macedonia,MKD,2005,0
+4540,North Macedonia,MKD,2006,0
+4541,North Macedonia,MKD,2007,0
+4542,North Macedonia,MKD,2008,0
+4543,North Macedonia,MKD,2009,0
+4544,North Macedonia,MKD,2010,0
+4545,North Macedonia,MKD,2011,0
+4546,North Macedonia,MKD,2012,0
+4547,North Macedonia,MKD,2013,0
+4548,North Macedonia,MKD,2014,0
+4549,North Macedonia,MKD,2015,0
+4550,North Macedonia,MKD,2016,0
+4551,North Macedonia,MKD,2017,0
+4552,North Macedonia,MKD,2018,0
+4553,North Macedonia,MKD,2019,0
+4554,North Macedonia,MKD,2020,0
+4555,North Macedonia,MKD,2021,0
+4556,North Macedonia,MKD,2022,0
+4557,Norway,NOR,1989,0
+4558,Norway,NOR,1990,0
+4559,Norway,NOR,1991,0
+4560,Norway,NOR,1992,0
+4561,Norway,NOR,1993,0
+4562,Norway,NOR,1994,0
+4563,Norway,NOR,1995,0
+4564,Norway,NOR,1996,0
+4565,Norway,NOR,1997,0
+4566,Norway,NOR,1998,0
+4567,Norway,NOR,1999,0
+4568,Norway,NOR,2000,0
+4569,Norway,NOR,2001,0
+4570,Norway,NOR,2002,0
+4571,Norway,NOR,2003,0
+4572,Norway,NOR,2004,0
+4573,Norway,NOR,2005,0
+4574,Norway,NOR,2006,0
+4575,Norway,NOR,2007,0
+4576,Norway,NOR,2008,0
+4577,Norway,NOR,2009,0
+4578,Norway,NOR,2010,0
+4579,Norway,NOR,2011,0
+4580,Norway,NOR,2012,0
+4581,Norway,NOR,2013,0
+4582,Norway,NOR,2014,0
+4583,Norway,NOR,2015,0
+4584,Norway,NOR,2016,0
+4585,Norway,NOR,2017,0
+4586,Norway,NOR,2018,0
+4587,Norway,NOR,2019,0
+4588,Norway,NOR,2020,0
+4589,Norway,NOR,2021,0
+4590,Norway,NOR,2022,0
+4591,Oman,OMN,1989,0
+4592,Oman,OMN,1990,0
+4593,Oman,OMN,1991,0
+4594,Oman,OMN,1992,0
+4595,Oman,OMN,1993,0
+4596,Oman,OMN,1994,0
+4597,Oman,OMN,1995,0
+4598,Oman,OMN,1996,0
+4599,Oman,OMN,1997,0
+4600,Oman,OMN,1998,0
+4601,Oman,OMN,1999,0
+4602,Oman,OMN,2000,0
+4603,Oman,OMN,2001,0
+4604,Oman,OMN,2002,0
+4605,Oman,OMN,2003,0
+4606,Oman,OMN,2004,0
+4607,Oman,OMN,2005,0
+4608,Oman,OMN,2006,0
+4609,Oman,OMN,2007,0
+4610,Oman,OMN,2008,0
+4611,Oman,OMN,2009,0
+4612,Oman,OMN,2010,0
+4613,Oman,OMN,2011,0
+4614,Oman,OMN,2012,0
+4615,Oman,OMN,2013,0
+4616,Oman,OMN,2014,0
+4617,Oman,OMN,2015,0
+4618,Oman,OMN,2016,0
+4619,Oman,OMN,2017,0
+4620,Oman,OMN,2018,0
+4621,Oman,OMN,2019,0
+4622,Oman,OMN,2020,0
+4623,Oman,OMN,2021,0
+4624,Oman,OMN,2022,0
+4625,Pakistan,PAK,1989,114
+4626,Pakistan,PAK,1990,379
+4627,Pakistan,PAK,1991,27
+4628,Pakistan,PAK,1992,50
+4629,Pakistan,PAK,1993,33
+4630,Pakistan,PAK,1994,129
+4631,Pakistan,PAK,1995,111
+4632,Pakistan,PAK,1996,47
+4633,Pakistan,PAK,1997,106
+4634,Pakistan,PAK,1998,144
+4635,Pakistan,PAK,1999,61
+4636,Pakistan,PAK,2000,92
+4637,Pakistan,PAK,2001,30
+4638,Pakistan,PAK,2002,119
+4639,Pakistan,PAK,2003,268
+4640,Pakistan,PAK,2004,433
+4641,Pakistan,PAK,2005,137
+4642,Pakistan,PAK,2006,449
+4643,Pakistan,PAK,2007,1484
+4644,Pakistan,PAK,2008,4605
+4645,Pakistan,PAK,2009,7514
+4646,Pakistan,PAK,2010,7227
+4647,Pakistan,PAK,2011,3439
+4648,Pakistan,PAK,2012,3503
+4649,Pakistan,PAK,2013,2848
+4650,Pakistan,PAK,2014,3547
+4651,Pakistan,PAK,2015,2427
+4652,Pakistan,PAK,2016,1080
+4653,Pakistan,PAK,2017,904
+4654,Pakistan,PAK,2018,488
+4655,Pakistan,PAK,2019,322
+4656,Pakistan,PAK,2020,338
+4657,Pakistan,PAK,2021,437
+4658,Pakistan,PAK,2022,738
+4659,Palau,PLW,1989,0
+4660,Palau,PLW,1990,0
+4661,Palau,PLW,1991,0
+4662,Palau,PLW,1992,0
+4663,Palau,PLW,1993,0
+4664,Palau,PLW,1994,0
+4665,Palau,PLW,1995,0
+4666,Palau,PLW,1996,0
+4667,Palau,PLW,1997,0
+4668,Palau,PLW,1998,0
+4669,Palau,PLW,1999,0
+4670,Palau,PLW,2000,0
+4671,Palau,PLW,2001,0
+4672,Palau,PLW,2002,0
+4673,Palau,PLW,2003,0
+4674,Palau,PLW,2004,0
+4675,Palau,PLW,2005,0
+4676,Palau,PLW,2006,0
+4677,Palau,PLW,2007,0
+4678,Palau,PLW,2008,0
+4679,Palau,PLW,2009,0
+4680,Palau,PLW,2010,0
+4681,Palau,PLW,2011,0
+4682,Palau,PLW,2012,0
+4683,Palau,PLW,2013,0
+4684,Palau,PLW,2014,0
+4685,Palau,PLW,2015,0
+4686,Palau,PLW,2016,0
+4687,Palau,PLW,2017,0
+4688,Palau,PLW,2018,0
+4689,Palau,PLW,2019,0
+4690,Palau,PLW,2020,0
+4691,Palau,PLW,2021,0
+4692,Palau,PLW,2022,0
+4693,Palestine,PSE,1989,59
+4694,Palestine,PSE,1990,16
+4695,Palestine,PSE,1991,9
+4696,Palestine,PSE,1992,29
+4697,Palestine,PSE,1993,31
+4698,Palestine,PSE,1994,47
+4699,Palestine,PSE,1995,9
+4700,Palestine,PSE,1996,64
+4701,Palestine,PSE,1997,0
+4702,Palestine,PSE,1998,0
+4703,Palestine,PSE,1999,0
+4704,Palestine,PSE,2000,75
+4705,Palestine,PSE,2001,213
+4706,Palestine,PSE,2002,558
+4707,Palestine,PSE,2003,285
+4708,Palestine,PSE,2004,385
+4709,Palestine,PSE,2005,129
+4710,Palestine,PSE,2006,378
+4711,Palestine,PSE,2007,493
+4712,Palestine,PSE,2008,647
+4713,Palestine,PSE,2009,699
+4714,Palestine,PSE,2010,23
+4715,Palestine,PSE,2011,75
+4716,Palestine,PSE,2012,234
+4717,Palestine,PSE,2013,0
+4718,Palestine,PSE,2014,2287
+4719,Palestine,PSE,2015,130
+4720,Palestine,PSE,2016,4
+4721,Palestine,PSE,2017,66
+4722,Palestine,PSE,2018,51
+4723,Palestine,PSE,2019,77
+4724,Palestine,PSE,2020,48
+4725,Palestine,PSE,2021,282
+4726,Palestine,PSE,2022,163
+4727,Panama,PAN,1989,920
+4728,Panama,PAN,1990,0
+4729,Panama,PAN,1991,0
+4730,Panama,PAN,1992,0
+4731,Panama,PAN,1993,0
+4732,Panama,PAN,1994,0
+4733,Panama,PAN,1995,0
+4734,Panama,PAN,1996,0
+4735,Panama,PAN,1997,0
+4736,Panama,PAN,1998,0
+4737,Panama,PAN,1999,0
+4738,Panama,PAN,2000,0
+4739,Panama,PAN,2001,0
+4740,Panama,PAN,2002,0
+4741,Panama,PAN,2003,0
+4742,Panama,PAN,2004,0
+4743,Panama,PAN,2005,0
+4744,Panama,PAN,2006,0
+4745,Panama,PAN,2007,0
+4746,Panama,PAN,2008,0
+4747,Panama,PAN,2009,0
+4748,Panama,PAN,2010,0
+4749,Panama,PAN,2011,0
+4750,Panama,PAN,2012,0
+4751,Panama,PAN,2013,0
+4752,Panama,PAN,2014,0
+4753,Panama,PAN,2015,0
+4754,Panama,PAN,2016,0
+4755,Panama,PAN,2017,0
+4756,Panama,PAN,2018,0
+4757,Panama,PAN,2019,0
+4758,Panama,PAN,2020,0
+4759,Panama,PAN,2021,0
+4760,Panama,PAN,2022,0
+4761,Papua New Guinea,PNG,1989,0
+4762,Papua New Guinea,PNG,1990,55
+4763,Papua New Guinea,PNG,1991,0
+4764,Papua New Guinea,PNG,1992,60
+4765,Papua New Guinea,PNG,1993,34
+4766,Papua New Guinea,PNG,1994,26
+4767,Papua New Guinea,PNG,1995,29
+4768,Papua New Guinea,PNG,1996,106
+4769,Papua New Guinea,PNG,1997,0
+4770,Papua New Guinea,PNG,1998,0
+4771,Papua New Guinea,PNG,1999,60
+4772,Papua New Guinea,PNG,2000,0
+4773,Papua New Guinea,PNG,2001,61
+4774,Papua New Guinea,PNG,2002,0
+4775,Papua New Guinea,PNG,2003,0
+4776,Papua New Guinea,PNG,2004,0
+4777,Papua New Guinea,PNG,2005,0
+4778,Papua New Guinea,PNG,2006,0
+4779,Papua New Guinea,PNG,2007,0
+4780,Papua New Guinea,PNG,2008,0
+4781,Papua New Guinea,PNG,2009,0
+4782,Papua New Guinea,PNG,2010,0
+4783,Papua New Guinea,PNG,2011,0
+4784,Papua New Guinea,PNG,2012,57
+4785,Papua New Guinea,PNG,2013,0
+4786,Papua New Guinea,PNG,2014,0
+4787,Papua New Guinea,PNG,2015,0
+4788,Papua New Guinea,PNG,2016,0
+4789,Papua New Guinea,PNG,2017,0
+4790,Papua New Guinea,PNG,2018,0
+4791,Papua New Guinea,PNG,2019,28
+4792,Papua New Guinea,PNG,2020,0
+4793,Papua New Guinea,PNG,2021,38
+4794,Papua New Guinea,PNG,2022,96
+4795,Paraguay,PRY,1989,150
+4796,Paraguay,PRY,1990,0
+4797,Paraguay,PRY,1991,0
+4798,Paraguay,PRY,1992,0
+4799,Paraguay,PRY,1993,0
+4800,Paraguay,PRY,1994,0
+4801,Paraguay,PRY,1995,0
+4802,Paraguay,PRY,1996,0
+4803,Paraguay,PRY,1997,0
+4804,Paraguay,PRY,1998,0
+4805,Paraguay,PRY,1999,0
+4806,Paraguay,PRY,2000,0
+4807,Paraguay,PRY,2001,0
+4808,Paraguay,PRY,2002,0
+4809,Paraguay,PRY,2003,0
+4810,Paraguay,PRY,2004,0
+4811,Paraguay,PRY,2005,0
+4812,Paraguay,PRY,2006,0
+4813,Paraguay,PRY,2007,0
+4814,Paraguay,PRY,2008,0
+4815,Paraguay,PRY,2009,0
+4816,Paraguay,PRY,2010,0
+4817,Paraguay,PRY,2011,0
+4818,Paraguay,PRY,2012,0
+4819,Paraguay,PRY,2013,0
+4820,Paraguay,PRY,2014,0
+4821,Paraguay,PRY,2015,0
+4822,Paraguay,PRY,2016,0
+4823,Paraguay,PRY,2017,0
+4824,Paraguay,PRY,2018,0
+4825,Paraguay,PRY,2019,0
+4826,Paraguay,PRY,2020,0
+4827,Paraguay,PRY,2021,0
+4828,Paraguay,PRY,2022,0
+4829,Peru,PER,1989,1917
+4830,Peru,PER,1990,1222
+4831,Peru,PER,1991,1334
+4832,Peru,PER,1992,1175
+4833,Peru,PER,1993,779
+4834,Peru,PER,1994,325
+4835,Peru,PER,1995,266
+4836,Peru,PER,1996,80
+4837,Peru,PER,1997,93
+4838,Peru,PER,1998,25
+4839,Peru,PER,1999,75
+4840,Peru,PER,2000,0
+4841,Peru,PER,2001,0
+4842,Peru,PER,2002,0
+4843,Peru,PER,2003,0
+4844,Peru,PER,2004,0
+4845,Peru,PER,2005,0
+4846,Peru,PER,2006,0
+4847,Peru,PER,2007,32
+4848,Peru,PER,2008,40
+4849,Peru,PER,2009,50
+4850,Peru,PER,2010,28
+4851,Peru,PER,2011,0
+4852,Peru,PER,2012,0
+4853,Peru,PER,2013,0
+4854,Peru,PER,2014,0
+4855,Peru,PER,2015,0
+4856,Peru,PER,2016,0
+4857,Peru,PER,2017,0
+4858,Peru,PER,2018,0
+4859,Peru,PER,2019,0
+4860,Peru,PER,2020,5
+4861,Peru,PER,2021,0
+4862,Peru,PER,2022,0
+4863,Philippines,PHL,1989,937
+4864,Philippines,PHL,1990,1351
+4865,Philippines,PHL,1991,1545
+4866,Philippines,PHL,1992,430
+4867,Philippines,PHL,1993,296
+4868,Philippines,PHL,1994,265
+4869,Philippines,PHL,1995,177
+4870,Philippines,PHL,1996,180
+4871,Philippines,PHL,1997,302
+4872,Philippines,PHL,1998,123
+4873,Philippines,PHL,1999,199
+4874,Philippines,PHL,2000,1739
+4875,Philippines,PHL,2001,850
+4876,Philippines,PHL,2002,700
+4877,Philippines,PHL,2003,1126
+4878,Philippines,PHL,2004,461
+4879,Philippines,PHL,2005,470
+4880,Philippines,PHL,2006,385
+4881,Philippines,PHL,2007,470
+4882,Philippines,PHL,2008,520
+4883,Philippines,PHL,2009,996
+4884,Philippines,PHL,2010,357
+4885,Philippines,PHL,2011,381
+4886,Philippines,PHL,2012,295
+4887,Philippines,PHL,2013,514
+4888,Philippines,PHL,2014,470
+4889,Philippines,PHL,2015,606
+4890,Philippines,PHL,2016,597
+4891,Philippines,PHL,2017,1687
+4892,Philippines,PHL,2018,432
+4893,Philippines,PHL,2019,331
+4894,Philippines,PHL,2020,373
+4895,Philippines,PHL,2021,266
+4896,Philippines,PHL,2022,194
+4897,Poland,POL,1989,0
+4898,Poland,POL,1990,0
+4899,Poland,POL,1991,0
+4900,Poland,POL,1992,0
+4901,Poland,POL,1993,0
+4902,Poland,POL,1994,0
+4903,Poland,POL,1995,0
+4904,Poland,POL,1996,0
+4905,Poland,POL,1997,0
+4906,Poland,POL,1998,0
+4907,Poland,POL,1999,0
+4908,Poland,POL,2000,0
+4909,Poland,POL,2001,0
+4910,Poland,POL,2002,0
+4911,Poland,POL,2003,0
+4912,Poland,POL,2004,0
+4913,Poland,POL,2005,0
+4914,Poland,POL,2006,0
+4915,Poland,POL,2007,0
+4916,Poland,POL,2008,0
+4917,Poland,POL,2009,0
+4918,Poland,POL,2010,0
+4919,Poland,POL,2011,0
+4920,Poland,POL,2012,0
+4921,Poland,POL,2013,0
+4922,Poland,POL,2014,0
+4923,Poland,POL,2015,0
+4924,Poland,POL,2016,0
+4925,Poland,POL,2017,0
+4926,Poland,POL,2018,0
+4927,Poland,POL,2019,0
+4928,Poland,POL,2020,0
+4929,Poland,POL,2021,0
+4930,Poland,POL,2022,2
+4931,Portugal,PRT,1989,0
+4932,Portugal,PRT,1990,0
+4933,Portugal,PRT,1991,0
+4934,Portugal,PRT,1992,0
+4935,Portugal,PRT,1993,0
+4936,Portugal,PRT,1994,0
+4937,Portugal,PRT,1995,0
+4938,Portugal,PRT,1996,0
+4939,Portugal,PRT,1997,0
+4940,Portugal,PRT,1998,0
+4941,Portugal,PRT,1999,0
+4942,Portugal,PRT,2000,0
+4943,Portugal,PRT,2001,0
+4944,Portugal,PRT,2002,0
+4945,Portugal,PRT,2003,0
+4946,Portugal,PRT,2004,0
+4947,Portugal,PRT,2005,0
+4948,Portugal,PRT,2006,0
+4949,Portugal,PRT,2007,0
+4950,Portugal,PRT,2008,0
+4951,Portugal,PRT,2009,0
+4952,Portugal,PRT,2010,0
+4953,Portugal,PRT,2011,0
+4954,Portugal,PRT,2012,0
+4955,Portugal,PRT,2013,0
+4956,Portugal,PRT,2014,0
+4957,Portugal,PRT,2015,0
+4958,Portugal,PRT,2016,0
+4959,Portugal,PRT,2017,0
+4960,Portugal,PRT,2018,0
+4961,Portugal,PRT,2019,0
+4962,Portugal,PRT,2020,0
+4963,Portugal,PRT,2021,0
+4964,Portugal,PRT,2022,0
+4965,Qatar,QAT,1989,0
+4966,Qatar,QAT,1990,0
+4967,Qatar,QAT,1991,0
+4968,Qatar,QAT,1992,0
+4969,Qatar,QAT,1993,0
+4970,Qatar,QAT,1994,0
+4971,Qatar,QAT,1995,0
+4972,Qatar,QAT,1996,0
+4973,Qatar,QAT,1997,0
+4974,Qatar,QAT,1998,0
+4975,Qatar,QAT,1999,0
+4976,Qatar,QAT,2000,0
+4977,Qatar,QAT,2001,0
+4978,Qatar,QAT,2002,0
+4979,Qatar,QAT,2003,0
+4980,Qatar,QAT,2004,0
+4981,Qatar,QAT,2005,0
+4982,Qatar,QAT,2006,0
+4983,Qatar,QAT,2007,0
+4984,Qatar,QAT,2008,0
+4985,Qatar,QAT,2009,0
+4986,Qatar,QAT,2010,0
+4987,Qatar,QAT,2011,0
+4988,Qatar,QAT,2012,0
+4989,Qatar,QAT,2013,0
+4990,Qatar,QAT,2014,0
+4991,Qatar,QAT,2015,0
+4992,Qatar,QAT,2016,0
+4993,Qatar,QAT,2017,0
+4994,Qatar,QAT,2018,0
+4995,Qatar,QAT,2019,0
+4996,Qatar,QAT,2020,0
+4997,Qatar,QAT,2021,0
+4998,Qatar,QAT,2022,0
+4999,Romania,ROU,1989,448
+5000,Romania,ROU,1990,0
+5001,Romania,ROU,1991,0
+5002,Romania,ROU,1992,0
+5003,Romania,ROU,1993,0
+5004,Romania,ROU,1994,0
+5005,Romania,ROU,1995,0
+5006,Romania,ROU,1996,0
+5007,Romania,ROU,1997,0
+5008,Romania,ROU,1998,0
+5009,Romania,ROU,1999,0
+5010,Romania,ROU,2000,0
+5011,Romania,ROU,2001,0
+5012,Romania,ROU,2002,0
+5013,Romania,ROU,2003,0
+5014,Romania,ROU,2004,0
+5015,Romania,ROU,2005,0
+5016,Romania,ROU,2006,0
+5017,Romania,ROU,2007,0
+5018,Romania,ROU,2008,0
+5019,Romania,ROU,2009,0
+5020,Romania,ROU,2010,0
+5021,Romania,ROU,2011,0
+5022,Romania,ROU,2012,0
+5023,Romania,ROU,2013,0
+5024,Romania,ROU,2014,0
+5025,Romania,ROU,2015,0
+5026,Romania,ROU,2016,0
+5027,Romania,ROU,2017,0
+5028,Romania,ROU,2018,0
+5029,Romania,ROU,2019,0
+5030,Romania,ROU,2020,0
+5031,Romania,ROU,2021,0
+5032,Romania,ROU,2022,0
+5033,Russia,RUS,1989,0
+5034,Russia,RUS,1990,1
+5035,Russia,RUS,1991,0
+5036,Russia,RUS,1992,0
+5037,Russia,RUS,1993,145
+5038,Russia,RUS,1994,473
+5039,Russia,RUS,1995,1891
+5040,Russia,RUS,1996,2763
+5041,Russia,RUS,1997,0
+5042,Russia,RUS,1998,0
+5043,Russia,RUS,1999,6197
+5044,Russia,RUS,2000,4318
+5045,Russia,RUS,2001,979
+5046,Russia,RUS,2002,1484
+5047,Russia,RUS,2003,548
+5048,Russia,RUS,2004,1300
+5049,Russia,RUS,2005,682
+5050,Russia,RUS,2006,259
+5051,Russia,RUS,2007,176
+5052,Russia,RUS,2008,404
+5053,Russia,RUS,2009,696
+5054,Russia,RUS,2010,476
+5055,Russia,RUS,2011,396
+5056,Russia,RUS,2012,516
+5057,Russia,RUS,2013,361
+5058,Russia,RUS,2014,182
+5059,Russia,RUS,2015,86
+5060,Russia,RUS,2016,70
+5061,Russia,RUS,2017,53
+5062,Russia,RUS,2018,36
+5063,Russia,RUS,2019,26
+5064,Russia,RUS,2020,32
+5065,Russia,RUS,2021,0
+5066,Russia,RUS,2022,70
+5067,Rwanda,RWA,1989,0
+5068,Rwanda,RWA,1990,2647
+5069,Rwanda,RWA,1991,1085
+5070,Rwanda,RWA,1992,647
+5071,Rwanda,RWA,1993,977
+5072,Rwanda,RWA,1994,772353
+5073,Rwanda,RWA,1995,4202
+5074,Rwanda,RWA,1996,1041
+5075,Rwanda,RWA,1997,7288
+5076,Rwanda,RWA,1998,1913
+5077,Rwanda,RWA,1999,109
+5078,Rwanda,RWA,2000,9
+5079,Rwanda,RWA,2001,2044
+5080,Rwanda,RWA,2002,0
+5081,Rwanda,RWA,2003,12
+5082,Rwanda,RWA,2004,43
+5083,Rwanda,RWA,2005,0
+5084,Rwanda,RWA,2006,22
+5085,Rwanda,RWA,2007,11
+5086,Rwanda,RWA,2008,31
+5087,Rwanda,RWA,2009,12
+5088,Rwanda,RWA,2010,0
+5089,Rwanda,RWA,2011,0
+5090,Rwanda,RWA,2012,124
+5091,Rwanda,RWA,2013,257
+5092,Rwanda,RWA,2014,0
+5093,Rwanda,RWA,2015,0
+5094,Rwanda,RWA,2016,27
+5095,Rwanda,RWA,2017,2
+5096,Rwanda,RWA,2018,3
+5097,Rwanda,RWA,2019,25
+5098,Rwanda,RWA,2020,6
+5099,Rwanda,RWA,2021,7
+5100,Rwanda,RWA,2022,16
+5101,Saint Kitts and Nevis,KNA,1989,0
+5102,Saint Kitts and Nevis,KNA,1990,0
+5103,Saint Kitts and Nevis,KNA,1991,0
+5104,Saint Kitts and Nevis,KNA,1992,0
+5105,Saint Kitts and Nevis,KNA,1993,0
+5106,Saint Kitts and Nevis,KNA,1994,0
+5107,Saint Kitts and Nevis,KNA,1995,0
+5108,Saint Kitts and Nevis,KNA,1996,0
+5109,Saint Kitts and Nevis,KNA,1997,0
+5110,Saint Kitts and Nevis,KNA,1998,0
+5111,Saint Kitts and Nevis,KNA,1999,0
+5112,Saint Kitts and Nevis,KNA,2000,0
+5113,Saint Kitts and Nevis,KNA,2001,0
+5114,Saint Kitts and Nevis,KNA,2002,0
+5115,Saint Kitts and Nevis,KNA,2003,0
+5116,Saint Kitts and Nevis,KNA,2004,0
+5117,Saint Kitts and Nevis,KNA,2005,0
+5118,Saint Kitts and Nevis,KNA,2006,0
+5119,Saint Kitts and Nevis,KNA,2007,0
+5120,Saint Kitts and Nevis,KNA,2008,0
+5121,Saint Kitts and Nevis,KNA,2009,0
+5122,Saint Kitts and Nevis,KNA,2010,0
+5123,Saint Kitts and Nevis,KNA,2011,0
+5124,Saint Kitts and Nevis,KNA,2012,0
+5125,Saint Kitts and Nevis,KNA,2013,0
+5126,Saint Kitts and Nevis,KNA,2014,0
+5127,Saint Kitts and Nevis,KNA,2015,0
+5128,Saint Kitts and Nevis,KNA,2016,0
+5129,Saint Kitts and Nevis,KNA,2017,0
+5130,Saint Kitts and Nevis,KNA,2018,0
+5131,Saint Kitts and Nevis,KNA,2019,0
+5132,Saint Kitts and Nevis,KNA,2020,0
+5133,Saint Kitts and Nevis,KNA,2021,0
+5134,Saint Kitts and Nevis,KNA,2022,0
+5135,Saint Lucia,LCA,1989,0
+5136,Saint Lucia,LCA,1990,0
+5137,Saint Lucia,LCA,1991,0
+5138,Saint Lucia,LCA,1992,0
+5139,Saint Lucia,LCA,1993,0
+5140,Saint Lucia,LCA,1994,0
+5141,Saint Lucia,LCA,1995,0
+5142,Saint Lucia,LCA,1996,0
+5143,Saint Lucia,LCA,1997,0
+5144,Saint Lucia,LCA,1998,0
+5145,Saint Lucia,LCA,1999,0
+5146,Saint Lucia,LCA,2000,0
+5147,Saint Lucia,LCA,2001,0
+5148,Saint Lucia,LCA,2002,0
+5149,Saint Lucia,LCA,2003,0
+5150,Saint Lucia,LCA,2004,0
+5151,Saint Lucia,LCA,2005,0
+5152,Saint Lucia,LCA,2006,0
+5153,Saint Lucia,LCA,2007,0
+5154,Saint Lucia,LCA,2008,0
+5155,Saint Lucia,LCA,2009,0
+5156,Saint Lucia,LCA,2010,0
+5157,Saint Lucia,LCA,2011,0
+5158,Saint Lucia,LCA,2012,0
+5159,Saint Lucia,LCA,2013,0
+5160,Saint Lucia,LCA,2014,0
+5161,Saint Lucia,LCA,2015,0
+5162,Saint Lucia,LCA,2016,0
+5163,Saint Lucia,LCA,2017,0
+5164,Saint Lucia,LCA,2018,0
+5165,Saint Lucia,LCA,2019,0
+5166,Saint Lucia,LCA,2020,0
+5167,Saint Lucia,LCA,2021,0
+5168,Saint Lucia,LCA,2022,0
+5169,Saint Vincent and the Grenadines,VCT,1989,0
+5170,Saint Vincent and the Grenadines,VCT,1990,0
+5171,Saint Vincent and the Grenadines,VCT,1991,0
+5172,Saint Vincent and the Grenadines,VCT,1992,0
+5173,Saint Vincent and the Grenadines,VCT,1993,0
+5174,Saint Vincent and the Grenadines,VCT,1994,0
+5175,Saint Vincent and the Grenadines,VCT,1995,0
+5176,Saint Vincent and the Grenadines,VCT,1996,0
+5177,Saint Vincent and the Grenadines,VCT,1997,0
+5178,Saint Vincent and the Grenadines,VCT,1998,0
+5179,Saint Vincent and the Grenadines,VCT,1999,0
+5180,Saint Vincent and the Grenadines,VCT,2000,0
+5181,Saint Vincent and the Grenadines,VCT,2001,0
+5182,Saint Vincent and the Grenadines,VCT,2002,0
+5183,Saint Vincent and the Grenadines,VCT,2003,0
+5184,Saint Vincent and the Grenadines,VCT,2004,0
+5185,Saint Vincent and the Grenadines,VCT,2005,0
+5186,Saint Vincent and the Grenadines,VCT,2006,0
+5187,Saint Vincent and the Grenadines,VCT,2007,0
+5188,Saint Vincent and the Grenadines,VCT,2008,0
+5189,Saint Vincent and the Grenadines,VCT,2009,0
+5190,Saint Vincent and the Grenadines,VCT,2010,0
+5191,Saint Vincent and the Grenadines,VCT,2011,0
+5192,Saint Vincent and the Grenadines,VCT,2012,0
+5193,Saint Vincent and the Grenadines,VCT,2013,0
+5194,Saint Vincent and the Grenadines,VCT,2014,0
+5195,Saint Vincent and the Grenadines,VCT,2015,0
+5196,Saint Vincent and the Grenadines,VCT,2016,0
+5197,Saint Vincent and the Grenadines,VCT,2017,0
+5198,Saint Vincent and the Grenadines,VCT,2018,0
+5199,Saint Vincent and the Grenadines,VCT,2019,0
+5200,Saint Vincent and the Grenadines,VCT,2020,0
+5201,Saint Vincent and the Grenadines,VCT,2021,0
+5202,Saint Vincent and the Grenadines,VCT,2022,0
+5203,Samoa,WSM,1989,0
+5204,Samoa,WSM,1990,0
+5205,Samoa,WSM,1991,0
+5206,Samoa,WSM,1992,0
+5207,Samoa,WSM,1993,0
+5208,Samoa,WSM,1994,0
+5209,Samoa,WSM,1995,0
+5210,Samoa,WSM,1996,0
+5211,Samoa,WSM,1997,0
+5212,Samoa,WSM,1998,0
+5213,Samoa,WSM,1999,0
+5214,Samoa,WSM,2000,0
+5215,Samoa,WSM,2001,0
+5216,Samoa,WSM,2002,0
+5217,Samoa,WSM,2003,0
+5218,Samoa,WSM,2004,0
+5219,Samoa,WSM,2005,0
+5220,Samoa,WSM,2006,0
+5221,Samoa,WSM,2007,0
+5222,Samoa,WSM,2008,0
+5223,Samoa,WSM,2009,0
+5224,Samoa,WSM,2010,0
+5225,Samoa,WSM,2011,0
+5226,Samoa,WSM,2012,0
+5227,Samoa,WSM,2013,0
+5228,Samoa,WSM,2014,0
+5229,Samoa,WSM,2015,0
+5230,Samoa,WSM,2016,0
+5231,Samoa,WSM,2017,0
+5232,Samoa,WSM,2018,0
+5233,Samoa,WSM,2019,0
+5234,Samoa,WSM,2020,0
+5235,Samoa,WSM,2021,0
+5236,Samoa,WSM,2022,0
+5237,San Marino,SMR,1989,0
+5238,San Marino,SMR,1990,0
+5239,San Marino,SMR,1991,0
+5240,San Marino,SMR,1992,0
+5241,San Marino,SMR,1993,0
+5242,San Marino,SMR,1994,0
+5243,San Marino,SMR,1995,0
+5244,San Marino,SMR,1996,0
+5245,San Marino,SMR,1997,0
+5246,San Marino,SMR,1998,0
+5247,San Marino,SMR,1999,0
+5248,San Marino,SMR,2000,0
+5249,San Marino,SMR,2001,0
+5250,San Marino,SMR,2002,0
+5251,San Marino,SMR,2003,0
+5252,San Marino,SMR,2004,0
+5253,San Marino,SMR,2005,0
+5254,San Marino,SMR,2006,0
+5255,San Marino,SMR,2007,0
+5256,San Marino,SMR,2008,0
+5257,San Marino,SMR,2009,0
+5258,San Marino,SMR,2010,0
+5259,San Marino,SMR,2011,0
+5260,San Marino,SMR,2012,0
+5261,San Marino,SMR,2013,0
+5262,San Marino,SMR,2014,0
+5263,San Marino,SMR,2015,0
+5264,San Marino,SMR,2016,0
+5265,San Marino,SMR,2017,0
+5266,San Marino,SMR,2018,0
+5267,San Marino,SMR,2019,0
+5268,San Marino,SMR,2020,0
+5269,San Marino,SMR,2021,0
+5270,San Marino,SMR,2022,0
+5271,Sao Tome and Principe,STP,1989,0
+5272,Sao Tome and Principe,STP,1990,0
+5273,Sao Tome and Principe,STP,1991,0
+5274,Sao Tome and Principe,STP,1992,0
+5275,Sao Tome and Principe,STP,1993,0
+5276,Sao Tome and Principe,STP,1994,0
+5277,Sao Tome and Principe,STP,1995,0
+5278,Sao Tome and Principe,STP,1996,0
+5279,Sao Tome and Principe,STP,1997,0
+5280,Sao Tome and Principe,STP,1998,0
+5281,Sao Tome and Principe,STP,1999,0
+5282,Sao Tome and Principe,STP,2000,0
+5283,Sao Tome and Principe,STP,2001,0
+5284,Sao Tome and Principe,STP,2002,0
+5285,Sao Tome and Principe,STP,2003,0
+5286,Sao Tome and Principe,STP,2004,0
+5287,Sao Tome and Principe,STP,2005,0
+5288,Sao Tome and Principe,STP,2006,0
+5289,Sao Tome and Principe,STP,2007,0
+5290,Sao Tome and Principe,STP,2008,0
+5291,Sao Tome and Principe,STP,2009,0
+5292,Sao Tome and Principe,STP,2010,0
+5293,Sao Tome and Principe,STP,2011,0
+5294,Sao Tome and Principe,STP,2012,0
+5295,Sao Tome and Principe,STP,2013,0
+5296,Sao Tome and Principe,STP,2014,0
+5297,Sao Tome and Principe,STP,2015,0
+5298,Sao Tome and Principe,STP,2016,0
+5299,Sao Tome and Principe,STP,2017,0
+5300,Sao Tome and Principe,STP,2018,0
+5301,Sao Tome and Principe,STP,2019,0
+5302,Sao Tome and Principe,STP,2020,0
+5303,Sao Tome and Principe,STP,2021,0
+5304,Sao Tome and Principe,STP,2022,0
+5305,Saudi Arabia,SAU,1989,0
+5306,Saudi Arabia,SAU,1990,0
+5307,Saudi Arabia,SAU,1991,96
+5308,Saudi Arabia,SAU,1992,0
+5309,Saudi Arabia,SAU,1993,0
+5310,Saudi Arabia,SAU,1994,0
+5311,Saudi Arabia,SAU,1995,0
+5312,Saudi Arabia,SAU,1996,0
+5313,Saudi Arabia,SAU,1997,0
+5314,Saudi Arabia,SAU,1998,0
+5315,Saudi Arabia,SAU,1999,0
+5316,Saudi Arabia,SAU,2000,0
+5317,Saudi Arabia,SAU,2001,0
+5318,Saudi Arabia,SAU,2002,0
+5319,Saudi Arabia,SAU,2003,26
+5320,Saudi Arabia,SAU,2004,91
+5321,Saudi Arabia,SAU,2005,31
+5322,Saudi Arabia,SAU,2006,11
+5323,Saudi Arabia,SAU,2007,2
+5324,Saudi Arabia,SAU,2008,0
+5325,Saudi Arabia,SAU,2009,0
+5326,Saudi Arabia,SAU,2010,0
+5327,Saudi Arabia,SAU,2011,0
+5328,Saudi Arabia,SAU,2012,0
+5329,Saudi Arabia,SAU,2013,0
+5330,Saudi Arabia,SAU,2014,0
+5331,Saudi Arabia,SAU,2015,205
+5332,Saudi Arabia,SAU,2016,125
+5333,Saudi Arabia,SAU,2017,185
+5334,Saudi Arabia,SAU,2018,13
+5335,Saudi Arabia,SAU,2019,63
+5336,Saudi Arabia,SAU,2020,16
+5337,Saudi Arabia,SAU,2021,110
+5338,Saudi Arabia,SAU,2022,31
+5339,Senegal,SEN,1989,124
+5340,Senegal,SEN,1990,59
+5341,Senegal,SEN,1991,0
+5342,Senegal,SEN,1992,127
+5343,Senegal,SEN,1993,282
+5344,Senegal,SEN,1994,0
+5345,Senegal,SEN,1995,299
+5346,Senegal,SEN,1996,0
+5347,Senegal,SEN,1997,358
+5348,Senegal,SEN,1998,336
+5349,Senegal,SEN,1999,0
+5350,Senegal,SEN,2000,47
+5351,Senegal,SEN,2001,33
+5352,Senegal,SEN,2002,25
+5353,Senegal,SEN,2003,39
+5354,Senegal,SEN,2004,0
+5355,Senegal,SEN,2005,45
+5356,Senegal,SEN,2006,124
+5357,Senegal,SEN,2007,0
+5358,Senegal,SEN,2008,0
+5359,Senegal,SEN,2009,0
+5360,Senegal,SEN,2010,0
+5361,Senegal,SEN,2011,25
+5362,Senegal,SEN,2012,0
+5363,Senegal,SEN,2013,0
+5364,Senegal,SEN,2014,0
+5365,Senegal,SEN,2015,0
+5366,Senegal,SEN,2016,0
+5367,Senegal,SEN,2017,0
+5368,Senegal,SEN,2018,0
+5369,Senegal,SEN,2019,0
+5370,Senegal,SEN,2020,0
+5371,Senegal,SEN,2021,0
+5372,Senegal,SEN,2022,0
+5373,Serbia,SRB,1989,0
+5374,Serbia,SRB,1990,0
+5375,Serbia,SRB,1991,35
+5376,Serbia,SRB,1992,28
+5377,Serbia,SRB,1993,101
+5378,Serbia,SRB,1994,0
+5379,Serbia,SRB,1995,0
+5380,Serbia,SRB,1996,0
+5381,Serbia,SRB,1997,0
+5382,Serbia,SRB,1998,12
+5383,Serbia,SRB,1999,856
+5384,Serbia,SRB,2000,0
+5385,Serbia,SRB,2001,0
+5386,Serbia,SRB,2002,0
+5387,Serbia,SRB,2003,0
+5388,Serbia,SRB,2004,0
+5389,Serbia,SRB,2005,0
+5390,Serbia,SRB,2006,0
+5391,Serbia,SRB,2007,0
+5392,Serbia,SRB,2008,0
+5393,Serbia,SRB,2009,0
+5394,Serbia,SRB,2010,0
+5395,Serbia,SRB,2011,0
+5396,Serbia,SRB,2012,0
+5397,Serbia,SRB,2013,0
+5398,Serbia,SRB,2014,0
+5399,Serbia,SRB,2015,0
+5400,Serbia,SRB,2016,0
+5401,Serbia,SRB,2017,0
+5402,Serbia,SRB,2018,0
+5403,Serbia,SRB,2019,0
+5404,Serbia,SRB,2020,0
+5405,Serbia,SRB,2021,0
+5406,Serbia,SRB,2022,0
+5407,Seychelles,SYC,1989,0
+5408,Seychelles,SYC,1990,0
+5409,Seychelles,SYC,1991,0
+5410,Seychelles,SYC,1992,0
+5411,Seychelles,SYC,1993,0
+5412,Seychelles,SYC,1994,0
+5413,Seychelles,SYC,1995,0
+5414,Seychelles,SYC,1996,0
+5415,Seychelles,SYC,1997,0
+5416,Seychelles,SYC,1998,0
+5417,Seychelles,SYC,1999,0
+5418,Seychelles,SYC,2000,0
+5419,Seychelles,SYC,2001,0
+5420,Seychelles,SYC,2002,0
+5421,Seychelles,SYC,2003,0
+5422,Seychelles,SYC,2004,0
+5423,Seychelles,SYC,2005,0
+5424,Seychelles,SYC,2006,0
+5425,Seychelles,SYC,2007,0
+5426,Seychelles,SYC,2008,0
+5427,Seychelles,SYC,2009,0
+5428,Seychelles,SYC,2010,0
+5429,Seychelles,SYC,2011,0
+5430,Seychelles,SYC,2012,0
+5431,Seychelles,SYC,2013,0
+5432,Seychelles,SYC,2014,0
+5433,Seychelles,SYC,2015,0
+5434,Seychelles,SYC,2016,0
+5435,Seychelles,SYC,2017,0
+5436,Seychelles,SYC,2018,0
+5437,Seychelles,SYC,2019,0
+5438,Seychelles,SYC,2020,0
+5439,Seychelles,SYC,2021,0
+5440,Seychelles,SYC,2022,0
+5441,Sierra Leone,SLE,1989,0
+5442,Sierra Leone,SLE,1990,0
+5443,Sierra Leone,SLE,1991,1211
+5444,Sierra Leone,SLE,1992,518
+5445,Sierra Leone,SLE,1993,633
+5446,Sierra Leone,SLE,1994,2070
+5447,Sierra Leone,SLE,1995,3194
+5448,Sierra Leone,SLE,1996,920
+5449,Sierra Leone,SLE,1997,1180
+5450,Sierra Leone,SLE,1998,5109
+5451,Sierra Leone,SLE,1999,4499
+5452,Sierra Leone,SLE,2000,833
+5453,Sierra Leone,SLE,2001,50
+5454,Sierra Leone,SLE,2002,1
+5455,Sierra Leone,SLE,2003,0
+5456,Sierra Leone,SLE,2004,0
+5457,Sierra Leone,SLE,2005,0
+5458,Sierra Leone,SLE,2006,0
+5459,Sierra Leone,SLE,2007,0
+5460,Sierra Leone,SLE,2008,0
+5461,Sierra Leone,SLE,2009,0
+5462,Sierra Leone,SLE,2010,0
+5463,Sierra Leone,SLE,2011,0
+5464,Sierra Leone,SLE,2012,0
+5465,Sierra Leone,SLE,2013,0
+5466,Sierra Leone,SLE,2014,0
+5467,Sierra Leone,SLE,2015,0
+5468,Sierra Leone,SLE,2016,0
+5469,Sierra Leone,SLE,2017,0
+5470,Sierra Leone,SLE,2018,0
+5471,Sierra Leone,SLE,2019,0
+5472,Sierra Leone,SLE,2020,0
+5473,Sierra Leone,SLE,2021,0
+5474,Sierra Leone,SLE,2022,0
+5475,Singapore,SGP,1989,0
+5476,Singapore,SGP,1990,0
+5477,Singapore,SGP,1991,0
+5478,Singapore,SGP,1992,0
+5479,Singapore,SGP,1993,0
+5480,Singapore,SGP,1994,0
+5481,Singapore,SGP,1995,0
+5482,Singapore,SGP,1996,0
+5483,Singapore,SGP,1997,0
+5484,Singapore,SGP,1998,0
+5485,Singapore,SGP,1999,0
+5486,Singapore,SGP,2000,0
+5487,Singapore,SGP,2001,0
+5488,Singapore,SGP,2002,0
+5489,Singapore,SGP,2003,0
+5490,Singapore,SGP,2004,0
+5491,Singapore,SGP,2005,0
+5492,Singapore,SGP,2006,0
+5493,Singapore,SGP,2007,0
+5494,Singapore,SGP,2008,0
+5495,Singapore,SGP,2009,0
+5496,Singapore,SGP,2010,0
+5497,Singapore,SGP,2011,0
+5498,Singapore,SGP,2012,0
+5499,Singapore,SGP,2013,0
+5500,Singapore,SGP,2014,0
+5501,Singapore,SGP,2015,0
+5502,Singapore,SGP,2016,0
+5503,Singapore,SGP,2017,0
+5504,Singapore,SGP,2018,0
+5505,Singapore,SGP,2019,0
+5506,Singapore,SGP,2020,0
+5507,Singapore,SGP,2021,0
+5508,Singapore,SGP,2022,0
+5509,Slovakia,SVK,1989,0
+5510,Slovakia,SVK,1990,0
+5511,Slovakia,SVK,1991,0
+5512,Slovakia,SVK,1992,0
+5513,Slovakia,SVK,1993,0
+5514,Slovakia,SVK,1994,0
+5515,Slovakia,SVK,1995,0
+5516,Slovakia,SVK,1996,0
+5517,Slovakia,SVK,1997,0
+5518,Slovakia,SVK,1998,0
+5519,Slovakia,SVK,1999,0
+5520,Slovakia,SVK,2000,0
+5521,Slovakia,SVK,2001,0
+5522,Slovakia,SVK,2002,0
+5523,Slovakia,SVK,2003,0
+5524,Slovakia,SVK,2004,0
+5525,Slovakia,SVK,2005,0
+5526,Slovakia,SVK,2006,0
+5527,Slovakia,SVK,2007,0
+5528,Slovakia,SVK,2008,0
+5529,Slovakia,SVK,2009,0
+5530,Slovakia,SVK,2010,0
+5531,Slovakia,SVK,2011,0
+5532,Slovakia,SVK,2012,0
+5533,Slovakia,SVK,2013,0
+5534,Slovakia,SVK,2014,0
+5535,Slovakia,SVK,2015,0
+5536,Slovakia,SVK,2016,0
+5537,Slovakia,SVK,2017,0
+5538,Slovakia,SVK,2018,0
+5539,Slovakia,SVK,2019,0
+5540,Slovakia,SVK,2020,0
+5541,Slovakia,SVK,2021,0
+5542,Slovakia,SVK,2022,0
+5543,Slovenia,SVN,1989,0
+5544,Slovenia,SVN,1990,0
+5545,Slovenia,SVN,1991,64
+5546,Slovenia,SVN,1992,0
+5547,Slovenia,SVN,1993,0
+5548,Slovenia,SVN,1994,0
+5549,Slovenia,SVN,1995,0
+5550,Slovenia,SVN,1996,0
+5551,Slovenia,SVN,1997,0
+5552,Slovenia,SVN,1998,0
+5553,Slovenia,SVN,1999,0
+5554,Slovenia,SVN,2000,0
+5555,Slovenia,SVN,2001,0
+5556,Slovenia,SVN,2002,0
+5557,Slovenia,SVN,2003,0
+5558,Slovenia,SVN,2004,0
+5559,Slovenia,SVN,2005,0
+5560,Slovenia,SVN,2006,0
+5561,Slovenia,SVN,2007,0
+5562,Slovenia,SVN,2008,0
+5563,Slovenia,SVN,2009,0
+5564,Slovenia,SVN,2010,0
+5565,Slovenia,SVN,2011,0
+5566,Slovenia,SVN,2012,0
+5567,Slovenia,SVN,2013,0
+5568,Slovenia,SVN,2014,0
+5569,Slovenia,SVN,2015,0
+5570,Slovenia,SVN,2016,0
+5571,Slovenia,SVN,2017,0
+5572,Slovenia,SVN,2018,0
+5573,Slovenia,SVN,2019,0
+5574,Slovenia,SVN,2020,0
+5575,Slovenia,SVN,2021,0
+5576,Slovenia,SVN,2022,0
+5577,Solomon Islands,SLB,1989,0
+5578,Solomon Islands,SLB,1990,0
+5579,Solomon Islands,SLB,1991,0
+5580,Solomon Islands,SLB,1992,2
+5581,Solomon Islands,SLB,1993,0
+5582,Solomon Islands,SLB,1994,0
+5583,Solomon Islands,SLB,1995,0
+5584,Solomon Islands,SLB,1996,0
+5585,Solomon Islands,SLB,1997,0
+5586,Solomon Islands,SLB,1998,0
+5587,Solomon Islands,SLB,1999,0
+5588,Solomon Islands,SLB,2000,0
+5589,Solomon Islands,SLB,2001,0
+5590,Solomon Islands,SLB,2002,0
+5591,Solomon Islands,SLB,2003,0
+5592,Solomon Islands,SLB,2004,0
+5593,Solomon Islands,SLB,2005,0
+5594,Solomon Islands,SLB,2006,0
+5595,Solomon Islands,SLB,2007,0
+5596,Solomon Islands,SLB,2008,0
+5597,Solomon Islands,SLB,2009,0
+5598,Solomon Islands,SLB,2010,0
+5599,Solomon Islands,SLB,2011,0
+5600,Solomon Islands,SLB,2012,0
+5601,Solomon Islands,SLB,2013,0
+5602,Solomon Islands,SLB,2014,0
+5603,Solomon Islands,SLB,2015,0
+5604,Solomon Islands,SLB,2016,0
+5605,Solomon Islands,SLB,2017,0
+5606,Solomon Islands,SLB,2018,0
+5607,Solomon Islands,SLB,2019,0
+5608,Solomon Islands,SLB,2020,0
+5609,Solomon Islands,SLB,2021,0
+5610,Solomon Islands,SLB,2022,0
+5611,Somalia,SOM,1989,1067
+5612,Somalia,SOM,1990,2760
+5613,Somalia,SOM,1991,8455
+5614,Somalia,SOM,1992,4729
+5615,Somalia,SOM,1993,478
+5616,Somalia,SOM,1994,625
+5617,Somalia,SOM,1995,460
+5618,Somalia,SOM,1996,939
+5619,Somalia,SOM,1997,268
+5620,Somalia,SOM,1998,312
+5621,Somalia,SOM,1999,522
+5622,Somalia,SOM,2000,171
+5623,Somalia,SOM,2001,445
+5624,Somalia,SOM,2002,624
+5625,Somalia,SOM,2003,395
+5626,Somalia,SOM,2004,666
+5627,Somalia,SOM,2005,388
+5628,Somalia,SOM,2006,1187
+5629,Somalia,SOM,2007,1585
+5630,Somalia,SOM,2008,1732
+5631,Somalia,SOM,2009,2146
+5632,Somalia,SOM,2010,2817
+5633,Somalia,SOM,2011,2125
+5634,Somalia,SOM,2012,2991
+5635,Somalia,SOM,2013,1037
+5636,Somalia,SOM,2014,1291
+5637,Somalia,SOM,2015,1263
+5638,Somalia,SOM,2016,2074
+5639,Somalia,SOM,2017,2065
+5640,Somalia,SOM,2018,2430
+5641,Somalia,SOM,2019,2180
+5642,Somalia,SOM,2020,2095
+5643,Somalia,SOM,2021,2259
+5644,Somalia,SOM,2022,3110
+5645,South Africa,ZAF,1989,281
+5646,South Africa,ZAF,1990,1438
+5647,South Africa,ZAF,1991,695
+5648,South Africa,ZAF,1992,707
+5649,South Africa,ZAF,1993,889
+5650,South Africa,ZAF,1994,509
+5651,South Africa,ZAF,1995,143
+5652,South Africa,ZAF,1996,156
+5653,South Africa,ZAF,1997,0
+5654,South Africa,ZAF,1998,29
+5655,South Africa,ZAF,1999,0
+5656,South Africa,ZAF,2000,0
+5657,South Africa,ZAF,2001,0
+5658,South Africa,ZAF,2002,0
+5659,South Africa,ZAF,2003,0
+5660,South Africa,ZAF,2004,0
+5661,South Africa,ZAF,2005,0
+5662,South Africa,ZAF,2006,0
+5663,South Africa,ZAF,2007,0
+5664,South Africa,ZAF,2008,0
+5665,South Africa,ZAF,2009,0
+5666,South Africa,ZAF,2010,0
+5667,South Africa,ZAF,2011,0
+5668,South Africa,ZAF,2012,0
+5669,South Africa,ZAF,2013,0
+5670,South Africa,ZAF,2014,0
+5671,South Africa,ZAF,2015,0
+5672,South Africa,ZAF,2016,0
+5673,South Africa,ZAF,2017,0
+5674,South Africa,ZAF,2018,1
+5675,South Africa,ZAF,2019,0
+5676,South Africa,ZAF,2020,0
+5677,South Africa,ZAF,2021,123
+5678,South Africa,ZAF,2022,0
+5679,South Korea,KOR,1989,0
+5680,South Korea,KOR,1990,0
+5681,South Korea,KOR,1991,0
+5682,South Korea,KOR,1992,0
+5683,South Korea,KOR,1993,0
+5684,South Korea,KOR,1994,0
+5685,South Korea,KOR,1995,0
+5686,South Korea,KOR,1996,0
+5687,South Korea,KOR,1997,0
+5688,South Korea,KOR,1998,0
+5689,South Korea,KOR,1999,0
+5690,South Korea,KOR,2000,0
+5691,South Korea,KOR,2001,0
+5692,South Korea,KOR,2002,0
+5693,South Korea,KOR,2003,0
+5694,South Korea,KOR,2004,0
+5695,South Korea,KOR,2005,0
+5696,South Korea,KOR,2006,0
+5697,South Korea,KOR,2007,0
+5698,South Korea,KOR,2008,0
+5699,South Korea,KOR,2009,0
+5700,South Korea,KOR,2010,0
+5701,South Korea,KOR,2011,0
+5702,South Korea,KOR,2012,0
+5703,South Korea,KOR,2013,0
+5704,South Korea,KOR,2014,0
+5705,South Korea,KOR,2015,0
+5706,South Korea,KOR,2016,0
+5707,South Korea,KOR,2017,0
+5708,South Korea,KOR,2018,0
+5709,South Korea,KOR,2019,0
+5710,South Korea,KOR,2020,0
+5711,South Korea,KOR,2021,0
+5712,South Korea,KOR,2022,0
+5713,South Ossetia,OWID_SOS,1989,0
+5714,South Ossetia,OWID_SOS,1990,0
+5715,South Ossetia,OWID_SOS,1991,0
+5716,South Ossetia,OWID_SOS,1992,0
+5717,South Ossetia,OWID_SOS,1993,0
+5718,South Ossetia,OWID_SOS,1994,0
+5719,South Ossetia,OWID_SOS,1995,0
+5720,South Ossetia,OWID_SOS,1996,0
+5721,South Ossetia,OWID_SOS,1997,0
+5722,South Ossetia,OWID_SOS,1998,0
+5723,South Ossetia,OWID_SOS,1999,0
+5724,South Ossetia,OWID_SOS,2000,0
+5725,South Ossetia,OWID_SOS,2001,0
+5726,South Ossetia,OWID_SOS,2002,0
+5727,South Ossetia,OWID_SOS,2003,0
+5728,South Ossetia,OWID_SOS,2004,0
+5729,South Ossetia,OWID_SOS,2005,0
+5730,South Ossetia,OWID_SOS,2006,0
+5731,South Ossetia,OWID_SOS,2007,0
+5732,South Ossetia,OWID_SOS,2008,0
+5733,South Ossetia,OWID_SOS,2009,0
+5734,South Ossetia,OWID_SOS,2010,0
+5735,South Ossetia,OWID_SOS,2011,0
+5736,South Ossetia,OWID_SOS,2012,0
+5737,South Ossetia,OWID_SOS,2013,0
+5738,South Ossetia,OWID_SOS,2014,0
+5739,South Ossetia,OWID_SOS,2015,0
+5740,South Ossetia,OWID_SOS,2016,0
+5741,South Ossetia,OWID_SOS,2017,0
+5742,South Ossetia,OWID_SOS,2018,0
+5743,South Ossetia,OWID_SOS,2019,0
+5744,South Ossetia,OWID_SOS,2020,0
+5745,South Ossetia,OWID_SOS,2021,0
+5746,South Ossetia,OWID_SOS,2022,0
+5747,South Sudan,SSD,1989,3907
+5748,South Sudan,SSD,1990,4272
+5749,South Sudan,SSD,1991,4206
+5750,South Sudan,SSD,1992,3346
+5751,South Sudan,SSD,1993,5877
+5752,South Sudan,SSD,1994,491
+5753,South Sudan,SSD,1995,1162
+5754,South Sudan,SSD,1996,2374
+5755,South Sudan,SSD,1997,3574
+5756,South Sudan,SSD,1998,3887
+5757,South Sudan,SSD,1999,558
+5758,South Sudan,SSD,2000,1953
+5759,South Sudan,SSD,2001,2809
+5760,South Sudan,SSD,2002,2978
+5761,South Sudan,SSD,2003,62
+5762,South Sudan,SSD,2004,1241
+5763,South Sudan,SSD,2005,168
+5764,South Sudan,SSD,2006,155
+5765,South Sudan,SSD,2007,275
+5766,South Sudan,SSD,2008,135
+5767,South Sudan,SSD,2009,1716
+5768,South Sudan,SSD,2010,266
+5769,South Sudan,SSD,2011,3037
+5770,South Sudan,SSD,2012,807
+5771,South Sudan,SSD,2013,1699
+5772,South Sudan,SSD,2014,2461
+5773,South Sudan,SSD,2015,1104
+5774,South Sudan,SSD,2016,1276
+5775,South Sudan,SSD,2017,1224
+5776,South Sudan,SSD,2018,1128
+5777,South Sudan,SSD,2019,585
+5778,South Sudan,SSD,2020,638
+5779,South Sudan,SSD,2021,885
+5780,South Sudan,SSD,2022,679
+5781,Spain,ESP,1989,0
+5782,Spain,ESP,1990,0
+5783,Spain,ESP,1991,45
+5784,Spain,ESP,1992,0
+5785,Spain,ESP,1993,0
+5786,Spain,ESP,1994,0
+5787,Spain,ESP,1995,0
+5788,Spain,ESP,1996,0
+5789,Spain,ESP,1997,0
+5790,Spain,ESP,1998,0
+5791,Spain,ESP,1999,0
+5792,Spain,ESP,2000,0
+5793,Spain,ESP,2001,0
+5794,Spain,ESP,2002,0
+5795,Spain,ESP,2003,0
+5796,Spain,ESP,2004,191
+5797,Spain,ESP,2005,0
+5798,Spain,ESP,2006,0
+5799,Spain,ESP,2007,0
+5800,Spain,ESP,2008,0
+5801,Spain,ESP,2009,0
+5802,Spain,ESP,2010,0
+5803,Spain,ESP,2011,0
+5804,Spain,ESP,2012,0
+5805,Spain,ESP,2013,0
+5806,Spain,ESP,2014,0
+5807,Spain,ESP,2015,0
+5808,Spain,ESP,2016,0
+5809,Spain,ESP,2017,16
+5810,Spain,ESP,2018,0
+5811,Spain,ESP,2019,0
+5812,Spain,ESP,2020,0
+5813,Spain,ESP,2021,0
+5814,Spain,ESP,2022,0
+5815,Sri Lanka,LKA,1989,1288
+5816,Sri Lanka,LKA,1990,4819
+5817,Sri Lanka,LKA,1991,6646
+5818,Sri Lanka,LKA,1992,4444
+5819,Sri Lanka,LKA,1993,2075
+5820,Sri Lanka,LKA,1994,711
+5821,Sri Lanka,LKA,1995,4952
+5822,Sri Lanka,LKA,1996,4089
+5823,Sri Lanka,LKA,1997,2871
+5824,Sri Lanka,LKA,1998,3820
+5825,Sri Lanka,LKA,1999,1944
+5826,Sri Lanka,LKA,2000,2560
+5827,Sri Lanka,LKA,2001,1144
+5828,Sri Lanka,LKA,2002,0
+5829,Sri Lanka,LKA,2003,29
+5830,Sri Lanka,LKA,2004,60
+5831,Sri Lanka,LKA,2005,115
+5832,Sri Lanka,LKA,2006,2133
+5833,Sri Lanka,LKA,2007,2522
+5834,Sri Lanka,LKA,2008,8447
+5835,Sri Lanka,LKA,2009,10413
+5836,Sri Lanka,LKA,2010,0
+5837,Sri Lanka,LKA,2011,0
+5838,Sri Lanka,LKA,2012,0
+5839,Sri Lanka,LKA,2013,0
+5840,Sri Lanka,LKA,2014,0
+5841,Sri Lanka,LKA,2015,0
+5842,Sri Lanka,LKA,2016,0
+5843,Sri Lanka,LKA,2017,0
+5844,Sri Lanka,LKA,2018,0
+5845,Sri Lanka,LKA,2019,255
+5846,Sri Lanka,LKA,2020,0
+5847,Sri Lanka,LKA,2021,0
+5848,Sri Lanka,LKA,2022,0
+5849,Sudan,SDN,1989,3607
+5850,Sudan,SDN,1990,1449
+5851,Sudan,SDN,1991,359
+5852,Sudan,SDN,1992,968
+5853,Sudan,SDN,1993,148
+5854,Sudan,SDN,1994,467
+5855,Sudan,SDN,1995,332
+5856,Sudan,SDN,1996,293
+5857,Sudan,SDN,1997,1289
+5858,Sudan,SDN,1998,1922
+5859,Sudan,SDN,1999,1506
+5860,Sudan,SDN,2000,1573
+5861,Sudan,SDN,2001,910
+5862,Sudan,SDN,2002,249
+5863,Sudan,SDN,2003,4761
+5864,Sudan,SDN,2004,8308
+5865,Sudan,SDN,2005,1313
+5866,Sudan,SDN,2006,2242
+5867,Sudan,SDN,2007,948
+5868,Sudan,SDN,2008,1102
+5869,Sudan,SDN,2009,692
+5870,Sudan,SDN,2010,1481
+5871,Sudan,SDN,2011,732
+5872,Sudan,SDN,2012,1539
+5873,Sudan,SDN,2013,1843
+5874,Sudan,SDN,2014,1901
+5875,Sudan,SDN,2015,2522
+5876,Sudan,SDN,2016,1921
+5877,Sudan,SDN,2017,485
+5878,Sudan,SDN,2018,414
+5879,Sudan,SDN,2019,480
+5880,Sudan,SDN,2020,605
+5881,Sudan,SDN,2021,806
+5882,Sudan,SDN,2022,1364
+5883,Suriname,SUR,1989,0
+5884,Suriname,SUR,1990,0
+5885,Suriname,SUR,1991,0
+5886,Suriname,SUR,1992,0
+5887,Suriname,SUR,1993,0
+5888,Suriname,SUR,1994,0
+5889,Suriname,SUR,1995,0
+5890,Suriname,SUR,1996,0
+5891,Suriname,SUR,1997,0
+5892,Suriname,SUR,1998,0
+5893,Suriname,SUR,1999,0
+5894,Suriname,SUR,2000,0
+5895,Suriname,SUR,2001,0
+5896,Suriname,SUR,2002,0
+5897,Suriname,SUR,2003,0
+5898,Suriname,SUR,2004,0
+5899,Suriname,SUR,2005,0
+5900,Suriname,SUR,2006,0
+5901,Suriname,SUR,2007,0
+5902,Suriname,SUR,2008,0
+5903,Suriname,SUR,2009,0
+5904,Suriname,SUR,2010,0
+5905,Suriname,SUR,2011,0
+5906,Suriname,SUR,2012,0
+5907,Suriname,SUR,2013,0
+5908,Suriname,SUR,2014,0
+5909,Suriname,SUR,2015,0
+5910,Suriname,SUR,2016,0
+5911,Suriname,SUR,2017,0
+5912,Suriname,SUR,2018,0
+5913,Suriname,SUR,2019,0
+5914,Suriname,SUR,2020,0
+5915,Suriname,SUR,2021,0
+5916,Suriname,SUR,2022,0
+5917,Sweden,SWE,1989,0
+5918,Sweden,SWE,1990,0
+5919,Sweden,SWE,1991,0
+5920,Sweden,SWE,1992,0
+5921,Sweden,SWE,1993,0
+5922,Sweden,SWE,1994,0
+5923,Sweden,SWE,1995,0
+5924,Sweden,SWE,1996,0
+5925,Sweden,SWE,1997,0
+5926,Sweden,SWE,1998,0
+5927,Sweden,SWE,1999,0
+5928,Sweden,SWE,2000,0
+5929,Sweden,SWE,2001,0
+5930,Sweden,SWE,2002,0
+5931,Sweden,SWE,2003,0
+5932,Sweden,SWE,2004,0
+5933,Sweden,SWE,2005,0
+5934,Sweden,SWE,2006,0
+5935,Sweden,SWE,2007,0
+5936,Sweden,SWE,2008,0
+5937,Sweden,SWE,2009,0
+5938,Sweden,SWE,2010,0
+5939,Sweden,SWE,2011,0
+5940,Sweden,SWE,2012,0
+5941,Sweden,SWE,2013,0
+5942,Sweden,SWE,2014,0
+5943,Sweden,SWE,2015,0
+5944,Sweden,SWE,2016,0
+5945,Sweden,SWE,2017,5
+5946,Sweden,SWE,2018,0
+5947,Sweden,SWE,2019,0
+5948,Sweden,SWE,2020,0
+5949,Sweden,SWE,2021,0
+5950,Sweden,SWE,2022,0
+5951,Switzerland,CHE,1989,0
+5952,Switzerland,CHE,1990,0
+5953,Switzerland,CHE,1991,0
+5954,Switzerland,CHE,1992,0
+5955,Switzerland,CHE,1993,0
+5956,Switzerland,CHE,1994,0
+5957,Switzerland,CHE,1995,0
+5958,Switzerland,CHE,1996,0
+5959,Switzerland,CHE,1997,0
+5960,Switzerland,CHE,1998,0
+5961,Switzerland,CHE,1999,0
+5962,Switzerland,CHE,2000,0
+5963,Switzerland,CHE,2001,0
+5964,Switzerland,CHE,2002,0
+5965,Switzerland,CHE,2003,0
+5966,Switzerland,CHE,2004,0
+5967,Switzerland,CHE,2005,0
+5968,Switzerland,CHE,2006,0
+5969,Switzerland,CHE,2007,0
+5970,Switzerland,CHE,2008,0
+5971,Switzerland,CHE,2009,0
+5972,Switzerland,CHE,2010,0
+5973,Switzerland,CHE,2011,0
+5974,Switzerland,CHE,2012,0
+5975,Switzerland,CHE,2013,0
+5976,Switzerland,CHE,2014,0
+5977,Switzerland,CHE,2015,0
+5978,Switzerland,CHE,2016,0
+5979,Switzerland,CHE,2017,0
+5980,Switzerland,CHE,2018,0
+5981,Switzerland,CHE,2019,0
+5982,Switzerland,CHE,2020,0
+5983,Switzerland,CHE,2021,0
+5984,Switzerland,CHE,2022,0
+5985,Syria,SYR,1989,1
+5986,Syria,SYR,1990,0
+5987,Syria,SYR,1991,0
+5988,Syria,SYR,1992,0
+5989,Syria,SYR,1993,0
+5990,Syria,SYR,1994,0
+5991,Syria,SYR,1995,0
+5992,Syria,SYR,1996,0
+5993,Syria,SYR,1997,0
+5994,Syria,SYR,1998,0
+5995,Syria,SYR,1999,0
+5996,Syria,SYR,2000,0
+5997,Syria,SYR,2001,0
+5998,Syria,SYR,2002,0
+5999,Syria,SYR,2003,0
+6000,Syria,SYR,2004,1
+6001,Syria,SYR,2005,0
+6002,Syria,SYR,2006,0
+6003,Syria,SYR,2007,0
+6004,Syria,SYR,2008,0
+6005,Syria,SYR,2009,0
+6006,Syria,SYR,2010,0
+6007,Syria,SYR,2011,4335
+6008,Syria,SYR,2012,53657
+6009,Syria,SYR,2013,76356
+6010,Syria,SYR,2014,75919
+6011,Syria,SYR,2015,58614
+6012,Syria,SYR,2016,53548
+6013,Syria,SYR,2017,38408
+6014,Syria,SYR,2018,21474
+6015,Syria,SYR,2019,11043
+6016,Syria,SYR,2020,5632
+6017,Syria,SYR,2021,1854
+6018,Syria,SYR,2022,1574
+6019,Taiwan,TWN,1989,0
+6020,Taiwan,TWN,1990,0
+6021,Taiwan,TWN,1991,0
+6022,Taiwan,TWN,1992,0
+6023,Taiwan,TWN,1993,0
+6024,Taiwan,TWN,1994,0
+6025,Taiwan,TWN,1995,0
+6026,Taiwan,TWN,1996,0
+6027,Taiwan,TWN,1997,0
+6028,Taiwan,TWN,1998,0
+6029,Taiwan,TWN,1999,0
+6030,Taiwan,TWN,2000,0
+6031,Taiwan,TWN,2001,0
+6032,Taiwan,TWN,2002,0
+6033,Taiwan,TWN,2003,0
+6034,Taiwan,TWN,2004,0
+6035,Taiwan,TWN,2005,0
+6036,Taiwan,TWN,2006,0
+6037,Taiwan,TWN,2007,0
+6038,Taiwan,TWN,2008,0
+6039,Taiwan,TWN,2009,0
+6040,Taiwan,TWN,2010,0
+6041,Taiwan,TWN,2011,0
+6042,Taiwan,TWN,2012,0
+6043,Taiwan,TWN,2013,0
+6044,Taiwan,TWN,2014,0
+6045,Taiwan,TWN,2015,0
+6046,Taiwan,TWN,2016,0
+6047,Taiwan,TWN,2017,0
+6048,Taiwan,TWN,2018,0
+6049,Taiwan,TWN,2019,0
+6050,Taiwan,TWN,2020,0
+6051,Taiwan,TWN,2021,0
+6052,Taiwan,TWN,2022,0
+6053,Tajikistan,TJK,1989,0
+6054,Tajikistan,TJK,1990,0
+6055,Tajikistan,TJK,1991,0
+6056,Tajikistan,TJK,1992,3859
+6057,Tajikistan,TJK,1993,1045
+6058,Tajikistan,TJK,1994,356
+6059,Tajikistan,TJK,1995,368
+6060,Tajikistan,TJK,1996,2790
+6061,Tajikistan,TJK,1997,87
+6062,Tajikistan,TJK,1998,600
+6063,Tajikistan,TJK,1999,3
+6064,Tajikistan,TJK,2000,48
+6065,Tajikistan,TJK,2001,0
+6066,Tajikistan,TJK,2002,0
+6067,Tajikistan,TJK,2003,0
+6068,Tajikistan,TJK,2004,0
+6069,Tajikistan,TJK,2005,0
+6070,Tajikistan,TJK,2006,0
+6071,Tajikistan,TJK,2007,0
+6072,Tajikistan,TJK,2008,0
+6073,Tajikistan,TJK,2009,0
+6074,Tajikistan,TJK,2010,77
+6075,Tajikistan,TJK,2011,28
+6076,Tajikistan,TJK,2012,0
+6077,Tajikistan,TJK,2013,0
+6078,Tajikistan,TJK,2014,0
+6079,Tajikistan,TJK,2015,0
+6080,Tajikistan,TJK,2016,0
+6081,Tajikistan,TJK,2017,0
+6082,Tajikistan,TJK,2018,4
+6083,Tajikistan,TJK,2019,0
+6084,Tajikistan,TJK,2020,0
+6085,Tajikistan,TJK,2021,45
+6086,Tajikistan,TJK,2022,78
+6087,Tanzania,TZA,1989,0
+6088,Tanzania,TZA,1990,0
+6089,Tanzania,TZA,1991,0
+6090,Tanzania,TZA,1992,0
+6091,Tanzania,TZA,1993,0
+6092,Tanzania,TZA,1994,6
+6093,Tanzania,TZA,1995,0
+6094,Tanzania,TZA,1996,0
+6095,Tanzania,TZA,1997,14
+6096,Tanzania,TZA,1998,0
+6097,Tanzania,TZA,1999,0
+6098,Tanzania,TZA,2000,130
+6099,Tanzania,TZA,2001,46
+6100,Tanzania,TZA,2002,66
+6101,Tanzania,TZA,2003,0
+6102,Tanzania,TZA,2004,0
+6103,Tanzania,TZA,2005,0
+6104,Tanzania,TZA,2006,0
+6105,Tanzania,TZA,2007,3
+6106,Tanzania,TZA,2008,0
+6107,Tanzania,TZA,2009,0
+6108,Tanzania,TZA,2010,0
+6109,Tanzania,TZA,2011,0
+6110,Tanzania,TZA,2012,0
+6111,Tanzania,TZA,2013,0
+6112,Tanzania,TZA,2014,0
+6113,Tanzania,TZA,2015,0
+6114,Tanzania,TZA,2016,1
+6115,Tanzania,TZA,2017,1
+6116,Tanzania,TZA,2018,0
+6117,Tanzania,TZA,2019,8
+6118,Tanzania,TZA,2020,25
+6119,Tanzania,TZA,2021,14
+6120,Tanzania,TZA,2022,1
+6121,Thailand,THA,1989,437
+6122,Thailand,THA,1990,94
+6123,Thailand,THA,1991,4
+6124,Thailand,THA,1992,580
+6125,Thailand,THA,1993,19
+6126,Thailand,THA,1994,52
+6127,Thailand,THA,1995,124
+6128,Thailand,THA,1996,32
+6129,Thailand,THA,1997,243
+6130,Thailand,THA,1998,187
+6131,Thailand,THA,1999,6
+6132,Thailand,THA,2000,46
+6133,Thailand,THA,2001,51
+6134,Thailand,THA,2002,114
+6135,Thailand,THA,2003,41
+6136,Thailand,THA,2004,312
+6137,Thailand,THA,2005,586
+6138,Thailand,THA,2006,563
+6139,Thailand,THA,2007,568
+6140,Thailand,THA,2008,336
+6141,Thailand,THA,2009,262
+6142,Thailand,THA,2010,246
+6143,Thailand,THA,2011,276
+6144,Thailand,THA,2012,243
+6145,Thailand,THA,2013,249
+6146,Thailand,THA,2014,98
+6147,Thailand,THA,2015,84
+6148,Thailand,THA,2016,49
+6149,Thailand,THA,2017,42
+6150,Thailand,THA,2018,61
+6151,Thailand,THA,2019,55
+6152,Thailand,THA,2020,46
+6153,Thailand,THA,2021,48
+6154,Thailand,THA,2022,46
+6155,Togo,TGO,1989,0
+6156,Togo,TGO,1990,0
+6157,Togo,TGO,1991,63
+6158,Togo,TGO,1992,0
+6159,Togo,TGO,1993,48
+6160,Togo,TGO,1994,0
+6161,Togo,TGO,1995,0
+6162,Togo,TGO,1996,0
+6163,Togo,TGO,1997,0
+6164,Togo,TGO,1998,0
+6165,Togo,TGO,1999,0
+6166,Togo,TGO,2000,0
+6167,Togo,TGO,2001,0
+6168,Togo,TGO,2002,0
+6169,Togo,TGO,2003,0
+6170,Togo,TGO,2004,0
+6171,Togo,TGO,2005,436
+6172,Togo,TGO,2006,0
+6173,Togo,TGO,2007,0
+6174,Togo,TGO,2008,0
+6175,Togo,TGO,2009,0
+6176,Togo,TGO,2010,0
+6177,Togo,TGO,2011,0
+6178,Togo,TGO,2012,0
+6179,Togo,TGO,2013,0
+6180,Togo,TGO,2014,0
+6181,Togo,TGO,2015,0
+6182,Togo,TGO,2016,0
+6183,Togo,TGO,2017,0
+6184,Togo,TGO,2018,0
+6185,Togo,TGO,2019,0
+6186,Togo,TGO,2020,0
+6187,Togo,TGO,2021,0
+6188,Togo,TGO,2022,59
+6189,Tonga,TON,1989,0
+6190,Tonga,TON,1990,0
+6191,Tonga,TON,1991,0
+6192,Tonga,TON,1992,0
+6193,Tonga,TON,1993,0
+6194,Tonga,TON,1994,0
+6195,Tonga,TON,1995,0
+6196,Tonga,TON,1996,0
+6197,Tonga,TON,1997,0
+6198,Tonga,TON,1998,0
+6199,Tonga,TON,1999,0
+6200,Tonga,TON,2000,0
+6201,Tonga,TON,2001,0
+6202,Tonga,TON,2002,0
+6203,Tonga,TON,2003,0
+6204,Tonga,TON,2004,0
+6205,Tonga,TON,2005,0
+6206,Tonga,TON,2006,0
+6207,Tonga,TON,2007,0
+6208,Tonga,TON,2008,0
+6209,Tonga,TON,2009,0
+6210,Tonga,TON,2010,0
+6211,Tonga,TON,2011,0
+6212,Tonga,TON,2012,0
+6213,Tonga,TON,2013,0
+6214,Tonga,TON,2014,0
+6215,Tonga,TON,2015,0
+6216,Tonga,TON,2016,0
+6217,Tonga,TON,2017,0
+6218,Tonga,TON,2018,0
+6219,Tonga,TON,2019,0
+6220,Tonga,TON,2020,0
+6221,Tonga,TON,2021,0
+6222,Tonga,TON,2022,0
+6223,Trinidad and Tobago,TTO,1989,0
+6224,Trinidad and Tobago,TTO,1990,39
+6225,Trinidad and Tobago,TTO,1991,0
+6226,Trinidad and Tobago,TTO,1992,0
+6227,Trinidad and Tobago,TTO,1993,0
+6228,Trinidad and Tobago,TTO,1994,0
+6229,Trinidad and Tobago,TTO,1995,0
+6230,Trinidad and Tobago,TTO,1996,0
+6231,Trinidad and Tobago,TTO,1997,0
+6232,Trinidad and Tobago,TTO,1998,0
+6233,Trinidad and Tobago,TTO,1999,0
+6234,Trinidad and Tobago,TTO,2000,0
+6235,Trinidad and Tobago,TTO,2001,0
+6236,Trinidad and Tobago,TTO,2002,0
+6237,Trinidad and Tobago,TTO,2003,0
+6238,Trinidad and Tobago,TTO,2004,0
+6239,Trinidad and Tobago,TTO,2005,0
+6240,Trinidad and Tobago,TTO,2006,0
+6241,Trinidad and Tobago,TTO,2007,0
+6242,Trinidad and Tobago,TTO,2008,0
+6243,Trinidad and Tobago,TTO,2009,0
+6244,Trinidad and Tobago,TTO,2010,0
+6245,Trinidad and Tobago,TTO,2011,0
+6246,Trinidad and Tobago,TTO,2012,0
+6247,Trinidad and Tobago,TTO,2013,0
+6248,Trinidad and Tobago,TTO,2014,0
+6249,Trinidad and Tobago,TTO,2015,0
+6250,Trinidad and Tobago,TTO,2016,0
+6251,Trinidad and Tobago,TTO,2017,0
+6252,Trinidad and Tobago,TTO,2018,0
+6253,Trinidad and Tobago,TTO,2019,0
+6254,Trinidad and Tobago,TTO,2020,0
+6255,Trinidad and Tobago,TTO,2021,0
+6256,Trinidad and Tobago,TTO,2022,0
+6257,Tunisia,TUN,1989,0
+6258,Tunisia,TUN,1990,0
+6259,Tunisia,TUN,1991,0
+6260,Tunisia,TUN,1992,0
+6261,Tunisia,TUN,1993,0
+6262,Tunisia,TUN,1994,0
+6263,Tunisia,TUN,1995,0
+6264,Tunisia,TUN,1996,0
+6265,Tunisia,TUN,1997,0
+6266,Tunisia,TUN,1998,0
+6267,Tunisia,TUN,1999,0
+6268,Tunisia,TUN,2000,0
+6269,Tunisia,TUN,2001,0
+6270,Tunisia,TUN,2002,21
+6271,Tunisia,TUN,2003,0
+6272,Tunisia,TUN,2004,0
+6273,Tunisia,TUN,2005,0
+6274,Tunisia,TUN,2006,0
+6275,Tunisia,TUN,2007,0
+6276,Tunisia,TUN,2008,0
+6277,Tunisia,TUN,2009,0
+6278,Tunisia,TUN,2010,0
+6279,Tunisia,TUN,2011,0
+6280,Tunisia,TUN,2012,0
+6281,Tunisia,TUN,2013,29
+6282,Tunisia,TUN,2014,50
+6283,Tunisia,TUN,2015,116
+6284,Tunisia,TUN,2016,71
+6285,Tunisia,TUN,2017,0
+6286,Tunisia,TUN,2018,0
+6287,Tunisia,TUN,2019,0
+6288,Tunisia,TUN,2020,0
+6289,Tunisia,TUN,2021,0
+6290,Tunisia,TUN,2022,0
+6291,Turkey,TUR,1989,532
+6292,Turkey,TUR,1990,612
+6293,Turkey,TUR,1991,426
+6294,Turkey,TUR,1992,1889
+6295,Turkey,TUR,1993,2684
+6296,Turkey,TUR,1994,4127
+6297,Turkey,TUR,1995,3296
+6298,Turkey,TUR,1996,3693
+6299,Turkey,TUR,1997,2614
+6300,Turkey,TUR,1998,2039
+6301,Turkey,TUR,1999,1173
+6302,Turkey,TUR,2000,153
+6303,Turkey,TUR,2001,103
+6304,Turkey,TUR,2002,28
+6305,Turkey,TUR,2003,137
+6306,Turkey,TUR,2004,194
+6307,Turkey,TUR,2005,293
+6308,Turkey,TUR,2006,216
+6309,Turkey,TUR,2007,494
+6310,Turkey,TUR,2008,452
+6311,Turkey,TUR,2009,138
+6312,Turkey,TUR,2010,226
+6313,Turkey,TUR,2011,410
+6314,Turkey,TUR,2012,809
+6315,Turkey,TUR,2013,119
+6316,Turkey,TUR,2014,2658
+6317,Turkey,TUR,2015,1966
+6318,Turkey,TUR,2016,1829
+6319,Turkey,TUR,2017,453
+6320,Turkey,TUR,2018,481
+6321,Turkey,TUR,2019,383
+6322,Turkey,TUR,2020,207
+6323,Turkey,TUR,2021,142
+6324,Turkey,TUR,2022,128
+6325,Turkmenistan,TKM,1989,0
+6326,Turkmenistan,TKM,1990,0
+6327,Turkmenistan,TKM,1991,0
+6328,Turkmenistan,TKM,1992,0
+6329,Turkmenistan,TKM,1993,0
+6330,Turkmenistan,TKM,1994,0
+6331,Turkmenistan,TKM,1995,0
+6332,Turkmenistan,TKM,1996,0
+6333,Turkmenistan,TKM,1997,0
+6334,Turkmenistan,TKM,1998,0
+6335,Turkmenistan,TKM,1999,0
+6336,Turkmenistan,TKM,2000,0
+6337,Turkmenistan,TKM,2001,0
+6338,Turkmenistan,TKM,2002,0
+6339,Turkmenistan,TKM,2003,0
+6340,Turkmenistan,TKM,2004,0
+6341,Turkmenistan,TKM,2005,0
+6342,Turkmenistan,TKM,2006,0
+6343,Turkmenistan,TKM,2007,0
+6344,Turkmenistan,TKM,2008,0
+6345,Turkmenistan,TKM,2009,2
+6346,Turkmenistan,TKM,2010,0
+6347,Turkmenistan,TKM,2011,5
+6348,Turkmenistan,TKM,2012,0
+6349,Turkmenistan,TKM,2013,1
+6350,Turkmenistan,TKM,2014,0
+6351,Turkmenistan,TKM,2015,0
+6352,Turkmenistan,TKM,2016,4
+6353,Turkmenistan,TKM,2017,0
+6354,Turkmenistan,TKM,2018,0
+6355,Turkmenistan,TKM,2019,0
+6356,Turkmenistan,TKM,2020,2
+6357,Turkmenistan,TKM,2021,5
+6358,Turkmenistan,TKM,2022,0
+6359,Tuvalu,TUV,1989,0
+6360,Tuvalu,TUV,1990,0
+6361,Tuvalu,TUV,1991,0
+6362,Tuvalu,TUV,1992,0
+6363,Tuvalu,TUV,1993,0
+6364,Tuvalu,TUV,1994,0
+6365,Tuvalu,TUV,1995,0
+6366,Tuvalu,TUV,1996,0
+6367,Tuvalu,TUV,1997,0
+6368,Tuvalu,TUV,1998,0
+6369,Tuvalu,TUV,1999,0
+6370,Tuvalu,TUV,2000,0
+6371,Tuvalu,TUV,2001,0
+6372,Tuvalu,TUV,2002,0
+6373,Tuvalu,TUV,2003,0
+6374,Tuvalu,TUV,2004,0
+6375,Tuvalu,TUV,2005,0
+6376,Tuvalu,TUV,2006,0
+6377,Tuvalu,TUV,2007,0
+6378,Tuvalu,TUV,2008,0
+6379,Tuvalu,TUV,2009,0
+6380,Tuvalu,TUV,2010,0
+6381,Tuvalu,TUV,2011,0
+6382,Tuvalu,TUV,2012,0
+6383,Tuvalu,TUV,2013,0
+6384,Tuvalu,TUV,2014,0
+6385,Tuvalu,TUV,2015,0
+6386,Tuvalu,TUV,2016,0
+6387,Tuvalu,TUV,2017,0
+6388,Tuvalu,TUV,2018,0
+6389,Tuvalu,TUV,2019,0
+6390,Tuvalu,TUV,2020,0
+6391,Tuvalu,TUV,2021,0
+6392,Tuvalu,TUV,2022,0
+6393,Uganda,UGA,1989,1048
+6394,Uganda,UGA,1990,809
+6395,Uganda,UGA,1991,1018
+6396,Uganda,UGA,1992,72
+6397,Uganda,UGA,1993,17
+6398,Uganda,UGA,1994,149
+6399,Uganda,UGA,1995,531
+6400,Uganda,UGA,1996,1769
+6401,Uganda,UGA,1997,1352
+6402,Uganda,UGA,1998,1186
+6403,Uganda,UGA,1999,1013
+6404,Uganda,UGA,2000,1199
+6405,Uganda,UGA,2001,198
+6406,Uganda,UGA,2002,1296
+6407,Uganda,UGA,2003,1646
+6408,Uganda,UGA,2004,2020
+6409,Uganda,UGA,2005,935
+6410,Uganda,UGA,2006,266
+6411,Uganda,UGA,2007,168
+6412,Uganda,UGA,2008,7
+6413,Uganda,UGA,2009,40
+6414,Uganda,UGA,2010,75
+6415,Uganda,UGA,2011,1
+6416,Uganda,UGA,2012,25
+6417,Uganda,UGA,2013,28
+6418,Uganda,UGA,2014,0
+6419,Uganda,UGA,2015,0
+6420,Uganda,UGA,2016,48
+6421,Uganda,UGA,2017,35
+6422,Uganda,UGA,2018,0
+6423,Uganda,UGA,2019,3
+6424,Uganda,UGA,2020,4
+6425,Uganda,UGA,2021,3
+6426,Uganda,UGA,2022,147
+6427,Ukraine,UKR,1989,0
+6428,Ukraine,UKR,1990,0
+6429,Ukraine,UKR,1991,0
+6430,Ukraine,UKR,1992,0
+6431,Ukraine,UKR,1993,0
+6432,Ukraine,UKR,1994,0
+6433,Ukraine,UKR,1995,0
+6434,Ukraine,UKR,1996,0
+6435,Ukraine,UKR,1997,0
+6436,Ukraine,UKR,1998,0
+6437,Ukraine,UKR,1999,0
+6438,Ukraine,UKR,2000,0
+6439,Ukraine,UKR,2001,0
+6440,Ukraine,UKR,2002,0
+6441,Ukraine,UKR,2003,0
+6442,Ukraine,UKR,2004,0
+6443,Ukraine,UKR,2005,0
+6444,Ukraine,UKR,2006,0
+6445,Ukraine,UKR,2007,0
+6446,Ukraine,UKR,2008,0
+6447,Ukraine,UKR,2009,0
+6448,Ukraine,UKR,2010,0
+6449,Ukraine,UKR,2011,0
+6450,Ukraine,UKR,2012,0
+6451,Ukraine,UKR,2013,0
+6452,Ukraine,UKR,2014,4923
+6453,Ukraine,UKR,2015,1786
+6454,Ukraine,UKR,2016,254
+6455,Ukraine,UKR,2017,415
+6456,Ukraine,UKR,2018,243
+6457,Ukraine,UKR,2019,311
+6458,Ukraine,UKR,2020,196
+6459,Ukraine,UKR,2021,208
+6460,Ukraine,UKR,2022,82588
+6461,United Arab Emirates,ARE,1989,0
+6462,United Arab Emirates,ARE,1990,0
+6463,United Arab Emirates,ARE,1991,0
+6464,United Arab Emirates,ARE,1992,0
+6465,United Arab Emirates,ARE,1993,0
+6466,United Arab Emirates,ARE,1994,0
+6467,United Arab Emirates,ARE,1995,0
+6468,United Arab Emirates,ARE,1996,0
+6469,United Arab Emirates,ARE,1997,0
+6470,United Arab Emirates,ARE,1998,0
+6471,United Arab Emirates,ARE,1999,0
+6472,United Arab Emirates,ARE,2000,0
+6473,United Arab Emirates,ARE,2001,0
+6474,United Arab Emirates,ARE,2002,0
+6475,United Arab Emirates,ARE,2003,0
+6476,United Arab Emirates,ARE,2004,0
+6477,United Arab Emirates,ARE,2005,0
+6478,United Arab Emirates,ARE,2006,0
+6479,United Arab Emirates,ARE,2007,0
+6480,United Arab Emirates,ARE,2008,0
+6481,United Arab Emirates,ARE,2009,0
+6482,United Arab Emirates,ARE,2010,0
+6483,United Arab Emirates,ARE,2011,0
+6484,United Arab Emirates,ARE,2012,0
+6485,United Arab Emirates,ARE,2013,0
+6486,United Arab Emirates,ARE,2014,0
+6487,United Arab Emirates,ARE,2015,0
+6488,United Arab Emirates,ARE,2016,0
+6489,United Arab Emirates,ARE,2017,0
+6490,United Arab Emirates,ARE,2018,0
+6491,United Arab Emirates,ARE,2019,0
+6492,United Arab Emirates,ARE,2020,0
+6493,United Arab Emirates,ARE,2021,0
+6494,United Arab Emirates,ARE,2022,3
+6495,United Kingdom,GBR,1989,34
+6496,United Kingdom,GBR,1990,41
+6497,United Kingdom,GBR,1991,26
+6498,United Kingdom,GBR,1992,0
+6499,United Kingdom,GBR,1993,32
+6500,United Kingdom,GBR,1994,0
+6501,United Kingdom,GBR,1995,0
+6502,United Kingdom,GBR,1996,0
+6503,United Kingdom,GBR,1997,0
+6504,United Kingdom,GBR,1998,29
+6505,United Kingdom,GBR,1999,0
+6506,United Kingdom,GBR,2000,0
+6507,United Kingdom,GBR,2001,0
+6508,United Kingdom,GBR,2002,0
+6509,United Kingdom,GBR,2003,0
+6510,United Kingdom,GBR,2004,0
+6511,United Kingdom,GBR,2005,52
+6512,United Kingdom,GBR,2006,0
+6513,United Kingdom,GBR,2007,0
+6514,United Kingdom,GBR,2008,0
+6515,United Kingdom,GBR,2009,0
+6516,United Kingdom,GBR,2010,0
+6517,United Kingdom,GBR,2011,0
+6518,United Kingdom,GBR,2012,0
+6519,United Kingdom,GBR,2013,0
+6520,United Kingdom,GBR,2014,0
+6521,United Kingdom,GBR,2015,0
+6522,United Kingdom,GBR,2016,0
+6523,United Kingdom,GBR,2017,0
+6524,United Kingdom,GBR,2018,0
+6525,United Kingdom,GBR,2019,3
+6526,United Kingdom,GBR,2020,0
+6527,United Kingdom,GBR,2021,0
+6528,United Kingdom,GBR,2022,0
+6529,United States,USA,1989,0
+6530,United States,USA,1990,0
+6531,United States,USA,1991,0
+6532,United States,USA,1992,0
+6533,United States,USA,1993,0
+6534,United States,USA,1994,0
+6535,United States,USA,1995,0
+6536,United States,USA,1996,0
+6537,United States,USA,1997,0
+6538,United States,USA,1998,0
+6539,United States,USA,1999,0
+6540,United States,USA,2000,0
+6541,United States,USA,2001,2986
+6542,United States,USA,2002,0
+6543,United States,USA,2003,0
+6544,United States,USA,2004,4
+6545,United States,USA,2005,0
+6546,United States,USA,2006,0
+6547,United States,USA,2007,0
+6548,United States,USA,2008,0
+6549,United States,USA,2009,0
+6550,United States,USA,2010,2
+6551,United States,USA,2011,0
+6552,United States,USA,2012,0
+6553,United States,USA,2013,0
+6554,United States,USA,2014,7
+6555,United States,USA,2015,14
+6556,United States,USA,2016,0
+6557,United States,USA,2017,8
+6558,United States,USA,2018,0
+6559,United States,USA,2019,8
+6560,United States,USA,2020,0
+6561,United States,USA,2021,2
+6562,United States,USA,2022,1
+6563,Uruguay,URY,1989,0
+6564,Uruguay,URY,1990,0
+6565,Uruguay,URY,1991,0
+6566,Uruguay,URY,1992,0
+6567,Uruguay,URY,1993,0
+6568,Uruguay,URY,1994,0
+6569,Uruguay,URY,1995,0
+6570,Uruguay,URY,1996,0
+6571,Uruguay,URY,1997,0
+6572,Uruguay,URY,1998,0
+6573,Uruguay,URY,1999,0
+6574,Uruguay,URY,2000,0
+6575,Uruguay,URY,2001,0
+6576,Uruguay,URY,2002,0
+6577,Uruguay,URY,2003,0
+6578,Uruguay,URY,2004,0
+6579,Uruguay,URY,2005,0
+6580,Uruguay,URY,2006,0
+6581,Uruguay,URY,2007,0
+6582,Uruguay,URY,2008,0
+6583,Uruguay,URY,2009,0
+6584,Uruguay,URY,2010,0
+6585,Uruguay,URY,2011,0
+6586,Uruguay,URY,2012,0
+6587,Uruguay,URY,2013,0
+6588,Uruguay,URY,2014,0
+6589,Uruguay,URY,2015,0
+6590,Uruguay,URY,2016,0
+6591,Uruguay,URY,2017,0
+6592,Uruguay,URY,2018,0
+6593,Uruguay,URY,2019,0
+6594,Uruguay,URY,2020,0
+6595,Uruguay,URY,2021,0
+6596,Uruguay,URY,2022,0
+6597,Uzbekistan,UZB,1989,97
+6598,Uzbekistan,UZB,1990,0
+6599,Uzbekistan,UZB,1991,0
+6600,Uzbekistan,UZB,1992,0
+6601,Uzbekistan,UZB,1993,0
+6602,Uzbekistan,UZB,1994,0
+6603,Uzbekistan,UZB,1995,0
+6604,Uzbekistan,UZB,1996,0
+6605,Uzbekistan,UZB,1997,0
+6606,Uzbekistan,UZB,1998,0
+6607,Uzbekistan,UZB,1999,61
+6608,Uzbekistan,UZB,2000,297
+6609,Uzbekistan,UZB,2001,0
+6610,Uzbekistan,UZB,2002,0
+6611,Uzbekistan,UZB,2003,0
+6612,Uzbekistan,UZB,2004,37
+6613,Uzbekistan,UZB,2005,0
+6614,Uzbekistan,UZB,2006,0
+6615,Uzbekistan,UZB,2007,0
+6616,Uzbekistan,UZB,2008,0
+6617,Uzbekistan,UZB,2009,0
+6618,Uzbekistan,UZB,2010,0
+6619,Uzbekistan,UZB,2011,0
+6620,Uzbekistan,UZB,2012,0
+6621,Uzbekistan,UZB,2013,0
+6622,Uzbekistan,UZB,2014,0
+6623,Uzbekistan,UZB,2015,0
+6624,Uzbekistan,UZB,2016,0
+6625,Uzbekistan,UZB,2017,0
+6626,Uzbekistan,UZB,2018,0
+6627,Uzbekistan,UZB,2019,0
+6628,Uzbekistan,UZB,2020,0
+6629,Uzbekistan,UZB,2021,0
+6630,Uzbekistan,UZB,2022,0
+6631,Vanuatu,VUT,1989,0
+6632,Vanuatu,VUT,1990,0
+6633,Vanuatu,VUT,1991,0
+6634,Vanuatu,VUT,1992,0
+6635,Vanuatu,VUT,1993,0
+6636,Vanuatu,VUT,1994,0
+6637,Vanuatu,VUT,1995,0
+6638,Vanuatu,VUT,1996,0
+6639,Vanuatu,VUT,1997,0
+6640,Vanuatu,VUT,1998,0
+6641,Vanuatu,VUT,1999,0
+6642,Vanuatu,VUT,2000,0
+6643,Vanuatu,VUT,2001,0
+6644,Vanuatu,VUT,2002,0
+6645,Vanuatu,VUT,2003,0
+6646,Vanuatu,VUT,2004,0
+6647,Vanuatu,VUT,2005,0
+6648,Vanuatu,VUT,2006,0
+6649,Vanuatu,VUT,2007,0
+6650,Vanuatu,VUT,2008,0
+6651,Vanuatu,VUT,2009,0
+6652,Vanuatu,VUT,2010,0
+6653,Vanuatu,VUT,2011,0
+6654,Vanuatu,VUT,2012,0
+6655,Vanuatu,VUT,2013,0
+6656,Vanuatu,VUT,2014,0
+6657,Vanuatu,VUT,2015,0
+6658,Vanuatu,VUT,2016,0
+6659,Vanuatu,VUT,2017,0
+6660,Vanuatu,VUT,2018,0
+6661,Vanuatu,VUT,2019,0
+6662,Vanuatu,VUT,2020,0
+6663,Vanuatu,VUT,2021,0
+6664,Vanuatu,VUT,2022,0
+6665,Venezuela,VEN,1989,58
+6666,Venezuela,VEN,1990,64
+6667,Venezuela,VEN,1991,30
+6668,Venezuela,VEN,1992,223
+6669,Venezuela,VEN,1993,63
+6670,Venezuela,VEN,1994,171
+6671,Venezuela,VEN,1995,26
+6672,Venezuela,VEN,1996,44
+6673,Venezuela,VEN,1997,79
+6674,Venezuela,VEN,1998,39
+6675,Venezuela,VEN,1999,44
+6676,Venezuela,VEN,2000,44
+6677,Venezuela,VEN,2001,39
+6678,Venezuela,VEN,2002,22
+6679,Venezuela,VEN,2003,35
+6680,Venezuela,VEN,2004,31
+6681,Venezuela,VEN,2005,30
+6682,Venezuela,VEN,2006,0
+6683,Venezuela,VEN,2007,2
+6684,Venezuela,VEN,2008,37
+6685,Venezuela,VEN,2009,36
+6686,Venezuela,VEN,2010,13
+6687,Venezuela,VEN,2011,4
+6688,Venezuela,VEN,2012,25
+6689,Venezuela,VEN,2013,0
+6690,Venezuela,VEN,2014,44
+6691,Venezuela,VEN,2015,36
+6692,Venezuela,VEN,2016,61
+6693,Venezuela,VEN,2017,76
+6694,Venezuela,VEN,2018,91
+6695,Venezuela,VEN,2019,85
+6696,Venezuela,VEN,2020,0
+6697,Venezuela,VEN,2021,3
+6698,Venezuela,VEN,2022,2
+6699,Vietnam,VNM,1989,0
+6700,Vietnam,VNM,1990,0
+6701,Vietnam,VNM,1991,0
+6702,Vietnam,VNM,1992,0
+6703,Vietnam,VNM,1993,0
+6704,Vietnam,VNM,1994,0
+6705,Vietnam,VNM,1995,0
+6706,Vietnam,VNM,1996,0
+6707,Vietnam,VNM,1997,0
+6708,Vietnam,VNM,1998,0
+6709,Vietnam,VNM,1999,0
+6710,Vietnam,VNM,2000,0
+6711,Vietnam,VNM,2001,0
+6712,Vietnam,VNM,2002,0
+6713,Vietnam,VNM,2003,0
+6714,Vietnam,VNM,2004,0
+6715,Vietnam,VNM,2005,0
+6716,Vietnam,VNM,2006,0
+6717,Vietnam,VNM,2007,0
+6718,Vietnam,VNM,2008,0
+6719,Vietnam,VNM,2009,0
+6720,Vietnam,VNM,2010,0
+6721,Vietnam,VNM,2011,0
+6722,Vietnam,VNM,2012,0
+6723,Vietnam,VNM,2013,0
+6724,Vietnam,VNM,2014,0
+6725,Vietnam,VNM,2015,0
+6726,Vietnam,VNM,2016,0
+6727,Vietnam,VNM,2017,0
+6728,Vietnam,VNM,2018,0
+6729,Vietnam,VNM,2019,0
+6730,Vietnam,VNM,2020,0
+6731,Vietnam,VNM,2021,0
+6732,Vietnam,VNM,2022,0
+6733,West Germany,OWID_GFR,1989,0
+6734,West Germany,OWID_GFR,1990,0
+6735,West Germany,OWID_GFR,1991,0
+6736,West Germany,OWID_GFR,1992,0
+6737,West Germany,OWID_GFR,1993,0
+6738,West Germany,OWID_GFR,1994,0
+6739,West Germany,OWID_GFR,1995,0
+6740,West Germany,OWID_GFR,1996,0
+6741,West Germany,OWID_GFR,1997,0
+6742,West Germany,OWID_GFR,1998,0
+6743,West Germany,OWID_GFR,1999,0
+6744,West Germany,OWID_GFR,2000,0
+6745,West Germany,OWID_GFR,2001,0
+6746,West Germany,OWID_GFR,2002,0
+6747,West Germany,OWID_GFR,2003,0
+6748,West Germany,OWID_GFR,2004,0
+6749,West Germany,OWID_GFR,2005,0
+6750,West Germany,OWID_GFR,2006,0
+6751,West Germany,OWID_GFR,2007,0
+6752,West Germany,OWID_GFR,2008,0
+6753,West Germany,OWID_GFR,2009,0
+6754,West Germany,OWID_GFR,2010,0
+6755,West Germany,OWID_GFR,2011,0
+6756,West Germany,OWID_GFR,2012,0
+6757,West Germany,OWID_GFR,2013,0
+6758,West Germany,OWID_GFR,2014,0
+6759,West Germany,OWID_GFR,2015,0
+6760,West Germany,OWID_GFR,2016,0
+6761,West Germany,OWID_GFR,2017,0
+6762,West Germany,OWID_GFR,2018,0
+6763,West Germany,OWID_GFR,2019,0
+6764,West Germany,OWID_GFR,2020,0
+6765,West Germany,OWID_GFR,2021,0
+6766,West Germany,OWID_GFR,2022,0
+6767,Western Sahara,ESH,1989,136
+6768,Western Sahara,ESH,1990,0
+6769,Western Sahara,ESH,1991,0
+6770,Western Sahara,ESH,1992,0
+6771,Western Sahara,ESH,1993,0
+6772,Western Sahara,ESH,1994,0
+6773,Western Sahara,ESH,1995,0
+6774,Western Sahara,ESH,1996,0
+6775,Western Sahara,ESH,1997,0
+6776,Western Sahara,ESH,1998,0
+6777,Western Sahara,ESH,1999,0
+6778,Western Sahara,ESH,2000,0
+6779,Western Sahara,ESH,2001,0
+6780,Western Sahara,ESH,2002,0
+6781,Western Sahara,ESH,2003,0
+6782,Western Sahara,ESH,2004,0
+6783,Western Sahara,ESH,2005,0
+6784,Western Sahara,ESH,2006,0
+6785,Western Sahara,ESH,2007,0
+6786,Western Sahara,ESH,2008,0
+6787,Western Sahara,ESH,2009,0
+6788,Western Sahara,ESH,2010,0
+6789,Western Sahara,ESH,2011,0
+6790,Western Sahara,ESH,2012,0
+6791,Western Sahara,ESH,2013,0
+6792,Western Sahara,ESH,2014,0
+6793,Western Sahara,ESH,2015,0
+6794,Western Sahara,ESH,2016,0
+6795,Western Sahara,ESH,2017,0
+6796,Western Sahara,ESH,2018,0
+6797,Western Sahara,ESH,2019,0
+6798,Western Sahara,ESH,2020,0
+6799,Western Sahara,ESH,2021,0
+6800,Western Sahara,ESH,2022,0
+6801,Yemen,YEM,1989,0
+6802,Yemen,YEM,1990,0
+6803,Yemen,YEM,1991,0
+6804,Yemen,YEM,1992,0
+6805,Yemen,YEM,1993,0
+6806,Yemen,YEM,1994,1489
+6807,Yemen,YEM,1995,0
+6808,Yemen,YEM,1996,0
+6809,Yemen,YEM,1997,0
+6810,Yemen,YEM,1998,0
+6811,Yemen,YEM,1999,0
+6812,Yemen,YEM,2000,0
+6813,Yemen,YEM,2001,0
+6814,Yemen,YEM,2002,0
+6815,Yemen,YEM,2003,0
+6816,Yemen,YEM,2004,28
+6817,Yemen,YEM,2005,0
+6818,Yemen,YEM,2006,0
+6819,Yemen,YEM,2007,0
+6820,Yemen,YEM,2008,21
+6821,Yemen,YEM,2009,94
+6822,Yemen,YEM,2010,201
+6823,Yemen,YEM,2011,1314
+6824,Yemen,YEM,2012,2331
+6825,Yemen,YEM,2013,582
+6826,Yemen,YEM,2014,2240
+6827,Yemen,YEM,2015,7356
+6828,Yemen,YEM,2016,3962
+6829,Yemen,YEM,2017,3347
+6830,Yemen,YEM,2018,4839
+6831,Yemen,YEM,2019,2821
+6832,Yemen,YEM,2020,6712
+6833,Yemen,YEM,2021,23336
+6834,Yemen,YEM,2022,3124
+6835,Yemen People's Republic,OWID_YPR,1989,0
+6836,Yemen People's Republic,OWID_YPR,1990,0
+6837,Yemen People's Republic,OWID_YPR,1991,0
+6838,Yemen People's Republic,OWID_YPR,1992,0
+6839,Yemen People's Republic,OWID_YPR,1993,0
+6840,Yemen People's Republic,OWID_YPR,1994,0
+6841,Yemen People's Republic,OWID_YPR,1995,0
+6842,Yemen People's Republic,OWID_YPR,1996,0
+6843,Yemen People's Republic,OWID_YPR,1997,0
+6844,Yemen People's Republic,OWID_YPR,1998,0
+6845,Yemen People's Republic,OWID_YPR,1999,0
+6846,Yemen People's Republic,OWID_YPR,2000,0
+6847,Yemen People's Republic,OWID_YPR,2001,0
+6848,Yemen People's Republic,OWID_YPR,2002,0
+6849,Yemen People's Republic,OWID_YPR,2003,0
+6850,Yemen People's Republic,OWID_YPR,2004,0
+6851,Yemen People's Republic,OWID_YPR,2005,0
+6852,Yemen People's Republic,OWID_YPR,2006,0
+6853,Yemen People's Republic,OWID_YPR,2007,0
+6854,Yemen People's Republic,OWID_YPR,2008,0
+6855,Yemen People's Republic,OWID_YPR,2009,0
+6856,Yemen People's Republic,OWID_YPR,2010,0
+6857,Yemen People's Republic,OWID_YPR,2011,0
+6858,Yemen People's Republic,OWID_YPR,2012,0
+6859,Yemen People's Republic,OWID_YPR,2013,0
+6860,Yemen People's Republic,OWID_YPR,2014,0
+6861,Yemen People's Republic,OWID_YPR,2015,0
+6862,Yemen People's Republic,OWID_YPR,2016,0
+6863,Yemen People's Republic,OWID_YPR,2017,0
+6864,Yemen People's Republic,OWID_YPR,2018,0
+6865,Yemen People's Republic,OWID_YPR,2019,0
+6866,Yemen People's Republic,OWID_YPR,2020,0
+6867,Yemen People's Republic,OWID_YPR,2021,0
+6868,Yemen People's Republic,OWID_YPR,2022,0
+6869,Yugoslavia,OWID_YGS,1989,0
+6870,Yugoslavia,OWID_YGS,1990,0
+6871,Yugoslavia,OWID_YGS,1991,0
+6872,Yugoslavia,OWID_YGS,1992,0
+6873,Yugoslavia,OWID_YGS,1993,0
+6874,Yugoslavia,OWID_YGS,1994,0
+6875,Yugoslavia,OWID_YGS,1995,0
+6876,Yugoslavia,OWID_YGS,1996,0
+6877,Yugoslavia,OWID_YGS,1997,0
+6878,Yugoslavia,OWID_YGS,1998,0
+6879,Yugoslavia,OWID_YGS,1999,0
+6880,Yugoslavia,OWID_YGS,2000,0
+6881,Yugoslavia,OWID_YGS,2001,0
+6882,Yugoslavia,OWID_YGS,2002,0
+6883,Yugoslavia,OWID_YGS,2003,0
+6884,Yugoslavia,OWID_YGS,2004,0
+6885,Yugoslavia,OWID_YGS,2005,0
+6886,Yugoslavia,OWID_YGS,2006,0
+6887,Yugoslavia,OWID_YGS,2007,0
+6888,Yugoslavia,OWID_YGS,2008,0
+6889,Yugoslavia,OWID_YGS,2009,0
+6890,Yugoslavia,OWID_YGS,2010,0
+6891,Yugoslavia,OWID_YGS,2011,0
+6892,Yugoslavia,OWID_YGS,2012,0
+6893,Yugoslavia,OWID_YGS,2013,0
+6894,Yugoslavia,OWID_YGS,2014,0
+6895,Yugoslavia,OWID_YGS,2015,0
+6896,Yugoslavia,OWID_YGS,2016,0
+6897,Yugoslavia,OWID_YGS,2017,0
+6898,Yugoslavia,OWID_YGS,2018,0
+6899,Yugoslavia,OWID_YGS,2019,0
+6900,Yugoslavia,OWID_YGS,2020,0
+6901,Yugoslavia,OWID_YGS,2021,0
+6902,Yugoslavia,OWID_YGS,2022,0
+6903,Zambia,ZMB,1989,86
+6904,Zambia,ZMB,1990,40
+6905,Zambia,ZMB,1991,0
+6906,Zambia,ZMB,1992,0
+6907,Zambia,ZMB,1993,1
+6908,Zambia,ZMB,1994,0
+6909,Zambia,ZMB,1995,0
+6910,Zambia,ZMB,1996,0
+6911,Zambia,ZMB,1997,0
+6912,Zambia,ZMB,1998,0
+6913,Zambia,ZMB,1999,0
+6914,Zambia,ZMB,2000,1
+6915,Zambia,ZMB,2001,0
+6916,Zambia,ZMB,2002,36
+6917,Zambia,ZMB,2003,0
+6918,Zambia,ZMB,2004,0
+6919,Zambia,ZMB,2005,0
+6920,Zambia,ZMB,2006,0
+6921,Zambia,ZMB,2007,0
+6922,Zambia,ZMB,2008,0
+6923,Zambia,ZMB,2009,0
+6924,Zambia,ZMB,2010,0
+6925,Zambia,ZMB,2011,0
+6926,Zambia,ZMB,2012,0
+6927,Zambia,ZMB,2013,0
+6928,Zambia,ZMB,2014,0
+6929,Zambia,ZMB,2015,0
+6930,Zambia,ZMB,2016,0
+6931,Zambia,ZMB,2017,0
+6932,Zambia,ZMB,2018,0
+6933,Zambia,ZMB,2019,0
+6934,Zambia,ZMB,2020,0
+6935,Zambia,ZMB,2021,0
+6936,Zambia,ZMB,2022,0
+6937,Zimbabwe,ZWE,1989,37
+6938,Zimbabwe,ZWE,1990,14
+6939,Zimbabwe,ZWE,1991,0
+6940,Zimbabwe,ZWE,1992,0
+6941,Zimbabwe,ZWE,1993,0
+6942,Zimbabwe,ZWE,1994,0
+6943,Zimbabwe,ZWE,1995,0
+6944,Zimbabwe,ZWE,1996,0
+6945,Zimbabwe,ZWE,1997,0
+6946,Zimbabwe,ZWE,1998,0
+6947,Zimbabwe,ZWE,1999,0
+6948,Zimbabwe,ZWE,2000,0
+6949,Zimbabwe,ZWE,2001,0
+6950,Zimbabwe,ZWE,2002,0
+6951,Zimbabwe,ZWE,2003,0
+6952,Zimbabwe,ZWE,2004,0
+6953,Zimbabwe,ZWE,2005,0
+6954,Zimbabwe,ZWE,2006,0
+6955,Zimbabwe,ZWE,2007,0
+6956,Zimbabwe,ZWE,2008,253
+6957,Zimbabwe,ZWE,2009,0
+6958,Zimbabwe,ZWE,2010,0
+6959,Zimbabwe,ZWE,2011,0
+6960,Zimbabwe,ZWE,2012,0
+6961,Zimbabwe,ZWE,2013,0
+6962,Zimbabwe,ZWE,2014,0
+6963,Zimbabwe,ZWE,2015,0
+6964,Zimbabwe,ZWE,2016,0
+6965,Zimbabwe,ZWE,2017,0
+6966,Zimbabwe,ZWE,2018,0
+6967,Zimbabwe,ZWE,2019,0
+6968,Zimbabwe,ZWE,2020,0
+6969,Zimbabwe,ZWE,2021,0
+6970,Zimbabwe,ZWE,2022,0
